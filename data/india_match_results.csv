@@ -1,0 +1,590 @@
+Test Number,Date,Series,Ground,Result
+1,25/06/1932,1932 England v. India,Lord's,England won by 158 runs
+2,15/12/1933,1933-1934 India v. England,Gymkhana Ground,England won by 9 wickets
+3,05/01/1934,1933-1934 India v. England,Eden Gardens,Match Drawn
+4,10/02/1934,1933-1934 India v. England,MA Chidambaram Stadium,England won by 202 runs
+5,27/06/1936,1936 England v. India,Lord's,England won by 9 wickets
+6,25/07/1936,1936 England v. India,Old Trafford,Match Drawn
+7,15/08/1936,1936 England v. India,Kennington Oval,England won by 9 wickets
+8,22/06/1946,1946 England v. India,Lord's,England won by 10 wickets
+9,20/07/1946,1946 England v. India,Old Trafford,Match Drawn
+10,17/08/1946,1946 England v. India,Kennington Oval,Match Drawn
+11,28/11/1947,1947-1948 Australia v. India,Brisbane Cricket Ground,Australia won by an innings and 226 runs
+12,12/12/1947,1947-1948 Australia v. India,Sydney Cricket Ground,Match Drawn
+13,01/01/1948,1947-1948 Australia v. India,Melbourne Cricket Ground,Australia won by 233 runs
+14,23/01/1948,1947-1948 Australia v. India,Adelaide Oval,Australia won by an innings and 16 runs
+15,06/02/1948,1947-1948 Australia v. India,Melbourne Cricket Ground,Australia won by an innings and 177 runs
+16,10/11/1948,1948-1949 India v. West Indies,Arun Jaitley Stadium,Match Drawn
+17,09/12/1948,1948-1949 India v. West Indies,Brabourne Stadium,Match Drawn
+18,31/12/1948,1948-1949 India v. West Indies,Eden Gardens,Match Drawn
+19,27/01/1949,1948-1949 India v. West Indies,MA Chidambaram Stadium,West Indies won by an innings and 193 runs
+20,04/02/1949,1948-1949 India v. West Indies,Brabourne Stadium,Match Drawn
+21,02/11/1951,1951-1952 India v. England,Arun Jaitley Stadium,Match Drawn
+22,14/12/1951,1951-1952 India v. England,Brabourne Stadium,Match Drawn
+23,30/12/1951,1951-1952 India v. England,Eden Gardens,Match Drawn
+24,12/01/1952,1951-1952 India v. England,Green Park,England won by 8 wickets
+25,06/02/1952,1951-1952 India v. England,MA Chidambaram Stadium,India won by an innings and 8 runs
+26,05/06/1952,1952 England v. India,Headingley,England won by 7 wickets
+27,19/06/1952,1952 England v. India,Lord's,England won by 8 wickets
+28,17/07/1952,1952 England v. India,Old Trafford,England won by an innings and 207 runs
+29,14/08/1952,1952 England v. India,Kennington Oval,Match Drawn
+30,16/10/1952,1952-1953 India v. Pakistan,Arun Jaitley Stadium,India won by an innings and 70 runs
+31,23/10/1952,1952-1953 India v. Pakistan,University Ground,Pakistan won by an innings and 43 runs
+32,13/11/1952,1952-1953 India v. Pakistan,Brabourne Stadium,India won by 10 wickets
+33,28/11/1952,1952-1953 India v. Pakistan,MA Chidambaram Stadium,Match Drawn
+34,12/12/1952,1952-1953 India v. Pakistan,Eden Gardens,Match Drawn
+35,21/01/1953,1952-1953 West Indies v. India,Queen's Park Oval,Match Drawn
+36,07/02/1953,1952-1953 West Indies v. India,Kensington Oval,West Indies won by 142 runs
+37,19/02/1953,1952-1953 West Indies v. India,Queen's Park Oval,Match Drawn
+38,11/03/1953,1952-1953 West Indies v. India,Bourda,Match Drawn
+39,28/03/1953,1952-1953 West Indies v. India,Sabina Park,Match Drawn
+40,01/01/1955,1954-1955 Pakistan v. India,Bangabandhu National Stadium,Match Drawn
+41,15/01/1955,1954-1955 Pakistan v. India,Bahawal Stadium,Match Drawn
+42,29/01/1955,1954-1955 Pakistan v. India,Bagh-e-Jinnah,Match Drawn
+43,13/02/1955,1954-1955 Pakistan v. India,Peshawar Club Ground,Match Drawn
+44,26/02/1955,1954-1955 Pakistan v. India,National Stadium (Karachi),Match Drawn
+45,19/11/1955,1955-1956 India v. New Zealand,Lal Bahadur Shastri Stadium,Match Drawn
+46,02/12/1955,1955-1956 India v. New Zealand,Brabourne Stadium,India won by an innings and 27 runs
+47,16/12/1955,1955-1956 India v. New Zealand,Arun Jaitley Stadium,Match Drawn
+48,28/12/1955,1955-1956 India v. New Zealand,Eden Gardens,Match Drawn
+49,06/01/1956,1955-1956 India v. New Zealand,Nehru Stadium (Chennai),India won by an innings and 109 runs
+50,19/10/1956,1956-1957 India v. Australia,Nehru Stadium (Chennai),Australia won by an innings and 5 runs
+51,26/10/1956,1956-1957 India v. Australia,Brabourne Stadium,Match Drawn
+52,02/11/1956,1956-1957 India v. Australia,Eden Gardens,Australia won by 94 runs
+53,28/11/1958,1958-1959 India v. West Indies,Brabourne Stadium,Match Drawn
+54,12/12/1958,1958-1959 India v. West Indies,Green Park,West Indies won by 203 runs
+55,31/12/1958,1958-1959 India v. West Indies,Eden Gardens,West Indies won by an innings and 336 runs
+56,21/01/1959,1958-1959 India v. West Indies,Nehru Stadium (Chennai),West Indies won by 295 runs
+57,06/02/1959,1958-1959 India v. West Indies,Arun Jaitley Stadium,Match Drawn
+58,04/06/1959,1959 England v. India,Trent Bridge,England won by an innings and 59 runs
+59,18/06/1959,1959 England v. India,Lord's,England won by 8 wickets
+60,02/07/1959,1959 England v. India,Headingley,England won by an innings and 173 runs
+61,23/07/1959,1959 England v. India,Old Trafford,England won by 171 runs
+62,20/08/1959,1959 England v. India,Kennington Oval,England won by an innings and 27 runs
+63,12/12/1959,1959-1960 India v. Australia,Arun Jaitley Stadium,Australia won by an innings and 127 runs
+64,19/12/1959,1959-1960 India v. Australia,Green Park,India won by 119 runs
+65,01/01/1960,1959-1960 India v. Australia,Brabourne Stadium,Match Drawn
+66,13/01/1960,1959-1960 India v. Australia,Nehru Stadium (Chennai),Australia won by an innings and 55 runs
+67,23/01/1960,1959-1960 India v. Australia,Eden Gardens,Match Drawn
+68,02/12/1960,1960-1961 India v. Pakistan,Brabourne Stadium,Match Drawn
+69,16/12/1960,1960-1961 India v. Pakistan,Green Park,Match Drawn
+70,30/12/1960,1960-1961 India v. Pakistan,Eden Gardens,Match Drawn
+71,13/01/1961,1960-1961 India v. Pakistan,Nehru Stadium (Chennai),Match Drawn
+72,08/02/1961,1960-1961 India v. Pakistan,Arun Jaitley Stadium,Match Drawn
+73,11/11/1961,1961-1962 India v. England,Brabourne Stadium,Match Drawn
+74,01/12/1961,1961-1962 India v. England,Green Park,Match Drawn
+75,13/12/1961,1961-1962 India v. England,Arun Jaitley Stadium,Match Drawn
+76,30/12/1961,1961-1962 India v. England,Eden Gardens,India won by 187 runs
+77,10/01/1962,1961-1962 India v. England,Nehru Stadium (Chennai),India won by 128 runs
+78,16/02/1962,1961-1962 West Indies v. India,Queen's Park Oval,West Indies won by 10 wickets
+79,07/03/1962,1961-1962 West Indies v. India,Sabina Park,West Indies won by an innings and 18 runs
+80,23/03/1962,1961-1962 West Indies v. India,Kensington Oval,West Indies won by an innings and 30 runs
+81,04/04/1962,1961-1962 West Indies v. India,Queen's Park Oval,West Indies won by 7 wickets
+82,13/04/1962,1961-1962 West Indies v. India,Sabina Park,West Indies won by 123 runs
+83,10/01/1964,1963-1964 India v. England,Nehru Stadium (Chennai),Match Drawn
+84,21/01/1964,1963-1964 India v. England,Brabourne Stadium,Match Drawn
+85,29/01/1964,1963-1964 India v. England,Eden Gardens,Match Drawn
+86,08/02/1964,1963-1964 India v. England,Arun Jaitley Stadium,Match Drawn
+87,15/02/1964,1963-1964 India v. England,Green Park,Match Drawn
+88,02/10/1964,1964-1965 India v. Australia,Nehru Stadium (Chennai),Australia won by 139 runs
+89,10/10/1964,1964-1965 India v. Australia,Brabourne Stadium,India won by 2 wickets
+90,17/10/1964,1964-1965 India v. Australia,Eden Gardens,Match Drawn
+91,27/02/1965,1964-1965 India v. New Zealand,Nehru Stadium (Chennai),Match Drawn
+92,05/03/1965,1964-1965 India v. New Zealand,Eden Gardens,Match Drawn
+93,12/03/1965,1964-1965 India v. New Zealand,Brabourne Stadium,Match Drawn
+94,19/03/1965,1964-1965 India v. New Zealand,Arun Jaitley Stadium,India won by 7 wickets
+95,13/12/1966,1966-1967 India v. West Indies,Brabourne Stadium,West Indies won by 6 wickets
+96,31/12/1966,1966-1967 India v. West Indies,Eden Gardens,West Indies won by an innings and 45 runs
+97,13/01/1967,1966-1967 India v. West Indies,MA Chidambaram Stadium,Match Drawn
+98,08/06/1967,1967 England v. India,Headingley,England won by 6 wickets
+99,22/06/1967,1967 England v. India,Lord's,England won by an innings and 124 runs
+100,13/07/1967,1967 England v. India,Edgbaston,England won by 132 runs
+101,23/12/1967,1967-1968 Australia v. India,Adelaide Oval,Australia won by 146 runs
+102,30/12/1967,1967-1968 Australia v. India,Melbourne Cricket Ground,Australia won by an innings and 4 runs
+103,19/01/1968,1967-1968 Australia v. India,Brisbane Cricket Ground,Australia won by 39 runs
+104,26/01/1968,1967-1968 Australia v. India,Sydney Cricket Ground,Australia won by 144 runs
+105,15/02/1968,1967-1968 New Zealand v. India,Carisbrook,India won by 5 wickets
+106,22/02/1968,1967-1968 New Zealand v. India,AMI Stadium,New Zealand won by 6 wickets
+107,29/02/1968,1967-1968 New Zealand v. India,Basin Reserve,India won by 8 wickets
+108,07/03/1968,1967-1968 New Zealand v. India,Eden Park,India won by 272 runs
+109,25/09/1969,1969-1970 India v. New Zealand,Brabourne Stadium,India won by 60 runs
+110,03/10/1969,1969-1970 India v. New Zealand,Vidarbha Cricket Association Ground,New Zealand won by 167 runs
+111,15/10/1969,1969-1970 India v. New Zealand,Lal Bahadur Shastri Stadium,Match Drawn
+112,04/11/1969,1969-1970 India v. Australia,Brabourne Stadium,Australia won by 8 wickets
+113,15/11/1969,1969-1970 India v. Australia,Green Park,Match Drawn
+114,28/11/1969,1969-1970 India v. Australia,Arun Jaitley Stadium,India won by 7 wickets
+115,12/12/1969,1969-1970 India v. Australia,Eden Gardens,Australia won by 10 wickets
+116,24/12/1969,1969-1970 India v. Australia,MA Chidambaram Stadium,Australia won by 77 runs
+117,18/02/1971,1970-1971 West Indies v. India,Sabina Park,Match Drawn
+118,06/03/1971,1970-1971 West Indies v. India,Queen's Park Oval,India won by 7 wickets
+119,19/03/1971,1970-1971 West Indies v. India,Bourda,Match Drawn
+120,01/04/1971,1970-1971 West Indies v. India,Kensington Oval,Match Drawn
+121,13/04/1971,1970-1971 West Indies v. India,Queen's Park Oval,Match Drawn
+122,22/07/1971,1971 England v. India,Lord's,Match Drawn
+123,05/08/1971,1971 England v. India,Old Trafford,Match Drawn
+124,19/08/1971,1971 England v. India,Kennington Oval,India won by 4 wickets
+125,20/12/1972,1972-1973 India v. England,Arun Jaitley Stadium,England won by 6 wickets
+126,30/12/1972,1972-1973 India v. England,Eden Gardens,India won by 28 runs
+127,12/01/1973,1972-1973 India v. England,MA Chidambaram Stadium,India won by 4 wickets
+128,25/01/1973,1972-1973 India v. England,Green Park,Match Drawn
+129,06/02/1973,1972-1973 India v. England,Brabourne Stadium,Match Drawn
+130,06/06/1974,1974 England v. India,Old Trafford,England won by 113 runs
+131,20/06/1974,1974 England v. India,Lord's,England won by an innings and 285 runs
+132,04/07/1974,1974 England v. India,Edgbaston,England won by an innings and 78 runs
+133,22/11/1974,1974-1975 India v. West Indies,M Chinnaswamy Stadium,West Indies won by 267 runs
+134,11/12/1974,1974-1975 India v. West Indies,Arun Jaitley Stadium,West Indies won by an innings and 17 runs
+135,27/12/1974,1974-1975 India v. West Indies,Eden Gardens,India won by 85 runs
+136,11/01/1975,1974-1975 India v. West Indies,MA Chidambaram Stadium,India won by 100 runs
+137,23/01/1975,1974-1975 India v. West Indies,Wankhede Stadium,West Indies won by 201 runs
+138,24/01/1976,1975-1976 New Zealand v. India,Eden Park,India won by 8 wickets
+139,05/02/1976,1975-1976 New Zealand v. India,AMI Stadium,Match Drawn
+140,13/02/1976,1975-1976 New Zealand v. India,Basin Reserve,New Zealand won by an innings and 33 runs
+141,10/03/1976,1975-1976 West Indies v. India,Kensington Oval,West Indies won by an innings and 97 runs
+142,24/03/1976,1975-1976 West Indies v. India,Queen's Park Oval,Match Drawn
+143,07/04/1976,1975-1976 West Indies v. India,Queen's Park Oval,India won by 6 wickets
+144,21/04/1976,1975-1976 West Indies v. India,Sabina Park,West Indies won by 10 wickets
+145,10/11/1976,1976-1977 India v. New Zealand,Wankhede Stadium,India won by 162 runs
+146,18/11/1976,1976-1977 India v. New Zealand,Green Park,Match Drawn
+147,26/11/1976,1976-1977 India v. New Zealand,MA Chidambaram Stadium,India won by 216 runs
+148,17/12/1976,1976-1977 India v. England,Arun Jaitley Stadium,England won by an innings and 25 runs
+149,01/01/1977,1976-1977 India v. England,Eden Gardens,England won by 10 wickets
+150,14/01/1977,1976-1977 India v. England,MA Chidambaram Stadium,England won by 200 runs
+151,28/01/1977,1976-1977 India v. England,M Chinnaswamy Stadium,India won by 140 runs
+152,11/02/1977,1976-1977 India v. England,Wankhede Stadium,Match Drawn
+153,02/12/1977,1977-1978 Australia v. India,Brisbane Cricket Ground,Australia won by 16 runs
+154,16/12/1977,1977-1978 Australia v. India,WACA Ground,Australia won by 2 wickets
+155,30/12/1977,1977-1978 Australia v. India,Melbourne Cricket Ground,India won by 222 runs
+156,07/01/1978,1977-1978 Australia v. India,Sydney Cricket Ground,India won by an innings and 2 runs
+157,28/01/1978,1977-1978 Australia v. India,Adelaide Oval,Australia won by 47 runs
+158,16/10/1978,1978-1979 Pakistan v. India,Iqbal Stadium,Match Drawn
+159,27/10/1978,1978-1979 Pakistan v. India,Gaddafi Stadium,Pakistan won by 8 wickets
+160,14/11/1978,1978-1979 Pakistan v. India,National Stadium (Karachi),Pakistan won by 8 wickets
+161,01/12/1978,1978-1979 India v. West Indies,Wankhede Stadium,Match Drawn
+162,15/12/1978,1978-1979 India v. West Indies,M Chinnaswamy Stadium,Match Drawn
+163,29/12/1978,1978-1979 India v. West Indies,Eden Gardens,Match Drawn
+164,12/01/1979,1978-1979 India v. West Indies,MA Chidambaram Stadium,India won by 3 wickets
+165,24/01/1979,1978-1979 India v. West Indies,Arun Jaitley Stadium,Match Drawn
+166,02/02/1979,1978-1979 India v. West Indies,Green Park,Match Drawn
+167,12/07/1979,1979 England v. India,Edgbaston,England won by an innings and 83 runs
+168,02/08/1979,1979 England v. India,Lord's,Match Drawn
+169,16/08/1979,1979 England v. India,Headingley,Match Drawn
+170,30/08/1979,1979 England v. India,Kennington Oval,Match Drawn
+171,11/09/1979,1979-1980 India v. Australia,MA Chidambaram Stadium,Match Drawn
+172,19/09/1979,1979-1980 India v. Australia,M Chinnaswamy Stadium,Match Drawn
+173,02/10/1979,1979-1980 India v. Australia,Green Park,India won by 153 runs
+174,13/10/1979,1979-1980 India v. Australia,Arun Jaitley Stadium,Match Drawn
+175,26/10/1979,1979-1980 India v. Australia,Eden Gardens,Match Drawn
+176,03/11/1979,1979-1980 India v. Australia,Wankhede Stadium,India won by an innings and 100 runs
+177,21/11/1979,1979-1980 India v. Pakistan,M Chinnaswamy Stadium,Match Drawn
+178,04/12/1979,1979-1980 India v. Pakistan,Arun Jaitley Stadium,Match Drawn
+179,16/12/1979,1979-1980 India v. Pakistan,Wankhede Stadium,India won by 131 runs
+180,25/12/1979,1979-1980 India v. Pakistan,Green Park,Match Drawn
+181,15/01/1980,1979-1980 India v. Pakistan,MA Chidambaram Stadium,India won by 10 wickets
+182,29/01/1980,1979-1980 India v. Pakistan,Eden Gardens,Match Drawn
+183,15/02/1980,1979-1980 India v. England,Wankhede Stadium,England won by 10 wickets
+184,02/01/1981,1980-1981 Australia v. India,Sydney Cricket Ground,Australia won by an innings and 4 runs
+185,23/01/1981,1980-1981 Australia v. India,Adelaide Oval,Match Drawn
+186,07/02/1981,1980-1981 Australia v. India,Melbourne Cricket Ground,India won by 59 runs
+187,21/02/1981,1980-1981 New Zealand v. India,Basin Reserve,New Zealand won by 62 runs
+188,06/03/1981,1980-1981 New Zealand v. India,AMI Stadium,Match Drawn
+189,13/03/1981,1980-1981 New Zealand v. India,Eden Park,Match Drawn
+190,27/11/1981,1981-1982 India v. England,Wankhede Stadium,India won by 138 runs
+191,09/12/1981,1981-1982 India v. England,M Chinnaswamy Stadium,Match Drawn
+192,23/12/1981,1981-1982 India v. England,Arun Jaitley Stadium,Match Drawn
+193,01/01/1982,1981-1982 India v. England,Eden Gardens,Match Drawn
+194,13/01/1982,1981-1982 India v. England,MA Chidambaram Stadium,Match Drawn
+195,30/01/1982,1981-1982 India v. England,Green Park,Match Drawn
+196,10/06/1982,1982 England v. India,Lord's,England won by 7 wickets
+197,24/06/1982,1982 England v. India,Old Trafford,Match Drawn
+198,08/07/1982,1982 England v. India,Kennington Oval,Match Drawn
+199,17/09/1982,1982-1983 India v. Sri Lanka,MA Chidambaram Stadium,Match Drawn
+200,10/12/1982,1982-1983 Pakistan v. India,Gaddafi Stadium,Match Drawn
+201,23/12/1982,1982-1983 Pakistan v. India,National Stadium (Karachi),Pakistan won by an innings and 86 runs
+202,03/01/1983,1982-1983 Pakistan v. India,Iqbal Stadium,Pakistan won by 10 wickets
+203,14/01/1983,1982-1983 Pakistan v. India,Niaz Stadium,Pakistan won by an innings and 119 runs
+204,23/01/1983,1982-1983 Pakistan v. India,Gaddafi Stadium,Match Drawn
+205,30/01/1983,1982-1983 Pakistan v. India,National Stadium (Karachi),Match Drawn
+206,23/02/1983,1982-1983 West Indies v. India,Sabina Park,West Indies won by 4 wickets
+207,11/03/1983,1982-1983 West Indies v. India,Queen's Park Oval,Match Drawn
+208,31/03/1983,1982-1983 West Indies v. India,Bourda,Match Drawn
+209,15/04/1983,1982-1983 West Indies v. India,Kensington Oval,West Indies won by 10 wickets
+210,28/04/1983,1982-1983 West Indies v. India,Antigua Recreation Ground,Match Drawn
+211,14/09/1983,1983-1984 India v. Pakistan,M Chinnaswamy Stadium,Match Drawn
+212,24/09/1983,1983-1984 India v. Pakistan,Gandhi Stadium,Match Drawn
+213,05/10/1983,1983-1984 India v. Pakistan,Vidarbha Cricket Association Ground,Match Drawn
+214,21/10/1983,1983-1984 India v. West Indies,Green Park,West Indies won by an innings and 83 runs
+215,29/10/1983,1983-1984 India v. West Indies,Arun Jaitley Stadium,Match Drawn
+216,12/11/1983,1983-1984 India v. West Indies,Narendra Modi Stadium,West Indies won by 138 runs
+217,24/11/1983,1983-1984 India v. West Indies,Wankhede Stadium,Match Drawn
+218,10/12/1983,1983-1984 India v. West Indies,Eden Gardens,West Indies won by an innings and 46 runs
+219,24/12/1983,1983-1984 India v. West Indies,MA Chidambaram Stadium,Match Drawn
+220,17/10/1984,1984-1985 Pakistan v. India,Gaddafi Stadium,Match Drawn
+221,24/10/1984,1984-1985 Pakistan v. India,Iqbal Stadium,Match Drawn
+222,28/11/1984,1984-1985 India v. England,Wankhede Stadium,India won by 8 wickets
+223,12/12/1984,1984-1985 India v. England,Arun Jaitley Stadium,England won by 8 wickets
+224,31/12/1984,1984-1985 India v. England,Eden Gardens,Match Drawn
+225,13/01/1985,1984-1985 India v. England,MA Chidambaram Stadium,England won by 9 wickets
+226,31/01/1985,1984-1985 India v. England,Green Park,Match Drawn
+227,30/08/1985,1985-1986 Sri Lanka v. India,Sinhalese Sports Club Ground,Match Drawn
+228,06/09/1985,1985-1986 Sri Lanka v. India,P Sara Oval,Sri Lanka won by 149 runs
+229,14/09/1985,1985-1986 Sri Lanka v. India,Asgiriya Stadium,Match Drawn
+230,13/12/1985,1985-1986 Australia v. India,Adelaide Oval,Match Drawn
+231,26/12/1985,1985-1986 Australia v. India,Melbourne Cricket Ground,Match Drawn
+232,02/01/1986,1985-1986 Australia v. India,Sydney Cricket Ground,Match Drawn
+233,05/06/1986,1986 England v. India,Lord's,India won by 5 wickets
+234,19/06/1986,1986 England v. India,Headingley,India won by 279 runs
+235,03/07/1986,1986 England v. India,Edgbaston,Match Drawn
+236,18/09/1986,1986-1987 India v. Australia,MA Chidambaram Stadium,Match Tied
+237,26/09/1986,1986-1987 India v. Australia,Arun Jaitley Stadium,Match Drawn
+238,15/10/1986,1986-1987 India v. Australia,Wankhede Stadium,Match Drawn
+239,17/12/1986,1986-1987 India v. Sri Lanka,Green Park,Match Drawn
+240,27/12/1986,1986-1987 India v. Sri Lanka,Vidarbha Cricket Association Ground,India won by an innings and 106 runs
+241,04/01/1987,1986-1987 India v. Sri Lanka,Barabati Stadium,India won by an innings and 67 runs
+242,03/02/1987,1986-1987 India v. Pakistan,MA Chidambaram Stadium,Match Drawn
+243,11/02/1987,1986-1987 India v. Pakistan,Eden Gardens,Match Drawn
+244,21/02/1987,1986-1987 India v. Pakistan,Sawai Mansingh Stadium,Match Drawn
+245,04/03/1987,1986-1987 India v. Pakistan,Narendra Modi Stadium,Match Drawn
+246,13/03/1987,1986-1987 India v. Pakistan,M Chinnaswamy Stadium,Pakistan won by 16 runs
+247,25/11/1987,1987-1988 India v. West Indies,Arun Jaitley Stadium,West Indies won by 5 wickets
+248,11/12/1987,1987-1988 India v. West Indies,Wankhede Stadium,Match Drawn
+249,26/12/1987,1987-1988 India v. West Indies,Eden Gardens,Match Drawn
+250,11/01/1988,1987-1988 India v. West Indies,MA Chidambaram Stadium,India won by 255 runs
+251,12/11/1988,1988-1989 India v. New Zealand,M Chinnaswamy Stadium,India won by 172 runs
+252,24/11/1988,1988-1989 India v. New Zealand,Wankhede Stadium,New Zealand won by 136 runs
+253,02/12/1988,1988-1989 India v. New Zealand,Lal Bahadur Shastri Stadium,India won by 10 wickets
+254,25/03/1989,1988-1989 West Indies v. India,Bourda,Match Drawn
+255,07/04/1989,1988-1989 West Indies v. India,Kensington Oval,West Indies won by 8 wickets
+256,15/04/1989,1988-1989 West Indies v. India,Queen's Park Oval,West Indies won by 217 runs
+257,28/04/1989,1988-1989 West Indies v. India,Sabina Park,West Indies won by 7 wickets
+258,15/11/1989,1989-1990 Pakistan v. India,National Stadium (Karachi),Match Drawn
+259,23/11/1989,1989-1990 Pakistan v. India,Iqbal Stadium,Match Drawn
+260,01/12/1989,1989-1990 Pakistan v. India,Gaddafi Stadium,Match Drawn
+261,09/12/1989,1989-1990 Pakistan v. India,Jinnah Stadium (Sialkot),Match Drawn
+262,02/02/1990,1989-1990 New Zealand v. India,AMI Stadium,New Zealand won by 10 wickets
+263,09/02/1990,1989-1990 New Zealand v. India,McLean Park,Match Drawn
+264,22/02/1990,1989-1990 New Zealand v. India,Eden Park,Match Drawn
+265,26/07/1990,1990 England v. India,Lord's,England won by 247 runs
+266,09/08/1990,1990 England v. India,Old Trafford,Match Drawn
+267,23/08/1990,1990 England v. India,Kennington Oval,Match Drawn
+268,23/11/1990,1990-1991 India v. Sri Lanka,Sector 16 Stadium,India won by an innings and 8 runs
+269,29/11/1991,1991-1992 Australia v. India,Brisbane Cricket Ground,Australia won by 10 wickets
+270,26/12/1991,1991-1992 Australia v. India,Melbourne Cricket Ground,Australia won by 8 wickets
+271,02/01/1992,1991-1992 Australia v. India,Sydney Cricket Ground,Match Drawn
+272,25/01/1992,1991-1992 Australia v. India,Adelaide Oval,Australia won by 38 runs
+273,01/02/1992,1991-1992 Australia v. India,WACA Ground,Australia won by 300 runs
+274,18/10/1992,1992-1993 Zimbabwe v. India,Harare Sports Club,Match Drawn
+275,13/11/1992,1992-1993 South Africa v. India,Kingsmead,Match Drawn
+276,26/11/1992,1992-1993 South Africa v. India,Wanderers Stadium,Match Drawn
+277,26/12/1992,1992-1993 South Africa v. India,St George's Park,South Africa won by 9 wickets
+278,02/01/1993,1992-1993 South Africa v. India,Newlands,Match Drawn
+279,29/01/1993,1992-1993 India v. England,Eden Gardens,India won by 8 wickets
+280,11/02/1993,1992-1993 India v. England,MA Chidambaram Stadium,India won by an innings and 22 runs
+281,19/02/1993,1992-1993 India v. England,Wankhede Stadium,India won by an innings and 15 runs
+282,13/03/1993,1992-1993 India v. Zimbabwe,Arun Jaitley Stadium,India won by an innings and 13 runs
+283,17/07/1993,1993-1994 Sri Lanka v. India,Asgiriya Stadium,Match Drawn
+284,27/07/1993,1993-1994 Sri Lanka v. India,Sinhalese Sports Club Ground,India won by 235 runs
+285,04/08/1993,1993-1994 Sri Lanka v. India,P Sara Oval,Match Drawn
+286,18/01/1994,1993-1994 India v. Sri Lanka,"KD Singh ""Babu"" Stadium",India won by an innings and 119 runs
+287,26/01/1994,1993-1994 India v. Sri Lanka,M Chinnaswamy Stadium,India won by an innings and 95 runs
+288,08/02/1994,1993-1994 India v. Sri Lanka,Narendra Modi Stadium,India won by an innings and 17 runs
+289,19/03/1994,1993-1994 New Zealand v. India,Seddon Park,Match Drawn
+290,18/11/1994,1994-1995 India v. West Indies,Wankhede Stadium,India won by 96 runs
+291,01/12/1994,1994-1995 India v. West Indies,Vidarbha Cricket Association Ground,Match Drawn
+292,10/12/1994,1994-1995 India v. West Indies,Punjab Cricket Association IS Bindra Stadium,West Indies won by 243 runs
+293,18/10/1995,1995-1996 India v. New Zealand,M Chinnaswamy Stadium,India won by 8 wickets
+294,25/10/1995,1995-1996 India v. New Zealand,MA Chidambaram Stadium,Match Drawn
+295,08/11/1995,1995-1996 India v. New Zealand,Barabati Stadium,Match Drawn
+296,06/06/1996,1996 England v. India,Edgbaston,England won by 8 wickets
+297,20/06/1996,1996 England v. India,Lord's,Match Drawn
+298,04/07/1996,1996 England v. India,Trent Bridge,Match Drawn
+299,10/10/1996,1996-1997 India v. Australia,Arun Jaitley Stadium,India won by 7 wickets
+300,20/11/1996,1996-1997 India v. South Africa,Narendra Modi Stadium,India won by 64 runs
+301,27/11/1996,1996-1997 India v. South Africa,Eden Gardens,South Africa won by 329 runs
+302,08/12/1996,1996-1997 India v. South Africa,Green Park,India won by 280 runs
+303,26/12/1996,1996-1997 South Africa v. India,Kingsmead,South Africa won by 328 runs
+304,02/01/1997,1996-1997 South Africa v. India,Newlands,South Africa won by 282 runs
+305,16/01/1997,1996-1997 South Africa v. India,Wanderers Stadium,Match Drawn
+306,06/03/1997,1996-1997 West Indies v. India,Sabina Park,Match Drawn
+307,14/03/1997,1996-1997 West Indies v. India,Queen's Park Oval,Match Drawn
+308,27/03/1997,1996-1997 West Indies v. India,Kensington Oval,West Indies won by 38 runs
+309,04/04/1997,1996-1997 West Indies v. India,Antigua Recreation Ground,Match Drawn
+310,17/04/1997,1996-1997 West Indies v. India,Bourda,Match Drawn
+311,02/08/1997,1997-1998 Sri Lanka v. India,R Premadasa Stadium,Match Drawn
+312,09/08/1997,1997-1998 Sri Lanka v. India,Sinhalese Sports Club Ground,Match Drawn
+313,19/11/1997,1997-1998 India v. Sri Lanka,Punjab Cricket Association IS Bindra Stadium,Match Drawn
+314,26/11/1997,1997-1998 India v. Sri Lanka,Vidarbha Cricket Association Ground,Match Drawn
+315,03/12/1997,1997-1998 India v. Sri Lanka,Wankhede Stadium,Match Drawn
+316,06/03/1998,1997-1998 India v. Australia,MA Chidambaram Stadium,India won by 179 runs
+317,18/03/1998,1997-1998 India v. Australia,Eden Gardens,India won by an innings and 219 runs
+318,25/03/1998,1997-1998 India v. Australia,M Chinnaswamy Stadium,Australia won by 8 wickets
+319,07/10/1998,1998-1999 Zimbabwe v. India,Harare Sports Club,Zimbabwe won by 61 runs
+320,26/12/1998,1998-1999 New Zealand v. India,Basin Reserve,New Zealand won by 4 wickets
+321,02/01/1999,1998-1999 New Zealand v. India,Seddon Park,Match Drawn
+322,28/01/1999,1998-1999 India v. Pakistan,MA Chidambaram Stadium,Pakistan won by 12 runs
+323,04/02/1999,1998-1999 India v. Pakistan,Arun Jaitley Stadium,India won by 212 runs
+324,16/02/1999,1998-1999 Asian Championship (v. Pakistan),Eden Gardens,Pakistan won by 46 runs
+325,24/02/1999,1998-1999 Asian Championship (v. Sri Lanka),Sinhalese Sports Club Ground,Match Drawn
+326,10/10/1999,1999-2000 India v. New Zealand,Punjab Cricket Association IS Bindra Stadium,Match Drawn
+327,22/10/1999,1999-2000 India v. New Zealand,Green Park,India won by 8 wickets
+328,29/10/1999,1999-2000 India v. New Zealand,Narendra Modi Stadium,Match Drawn
+329,10/12/1999,1999-2000 Australia v. India,Adelaide Oval,Australia won by 285 runs
+330,26/12/1999,1999-2000 Australia v. India,Melbourne Cricket Ground,Australia won by 180 runs
+331,02/01/2000,1999-2000 Australia v. India,Sydney Cricket Ground,Australia won by an innings and 141 runs
+332,24/02/2000,1999-2000 India v. South Africa,Wankhede Stadium,South Africa won by 4 wickets
+333,02/03/2000,1999-2000 India v. South Africa,M Chinnaswamy Stadium,South Africa won by an innings and 71 runs
+334,10/11/2000,2000-2001 Bangladesh v. India,Bangabandhu National Stadium,India won by 9 wickets
+335,18/11/2000,2000-2001 India v. Zimbabwe,Arun Jaitley Stadium,India won by 7 wickets
+336,25/11/2000,2000-2001 India v. Zimbabwe,Vidarbha Cricket Association Ground,Match Drawn
+337,27/02/2001,2000-2001 India v. Australia,Wankhede Stadium,Australia won by 10 wickets
+338,11/03/2001,2000-2001 India v. Australia,Eden Gardens,India won by 171 runs
+339,18/03/2001,2000-2001 India v. Australia,MA Chidambaram Stadium,India won by 2 wickets
+340,07/06/2001,2000-2001 Zimbabwe v. India,Queens Sports Club,India won by 8 wickets
+341,15/06/2001,2000-2001 Zimbabwe v. India,Harare Sports Club,Zimbabwe won by 4 wickets
+342,14/08/2001,2001-2002 Sri Lanka v. India,Galle International Stadium,Sri Lanka won by 10 wickets
+343,22/08/2001,2001-2002 Sri Lanka v. India,Asgiriya Stadium,India won by 7 wickets
+344,29/08/2001,2001-2002 Sri Lanka v. India,Sinhalese Sports Club Ground,Sri Lanka won by an innings and 77 runs
+345,03/11/2001,2001-2002 South Africa v. India,Mangaung Oval,South Africa won by 9 wickets
+346,16/11/2001,2001-2002 South Africa v. India,St George's Park,Match Drawn
+347,03/12/2001,2001-2002 India v. England,Punjab Cricket Association IS Bindra Stadium,India won by 10 wickets
+348,11/12/2001,2001-2002 India v. England,Narendra Modi Stadium,Match Drawn
+349,19/12/2001,2001-2002 India v. England,M Chinnaswamy Stadium,Match Drawn
+350,21/02/2002,2001-2002 India v. Zimbabwe,Vidarbha Cricket Association Ground,India won by an innings and 101 runs
+351,28/02/2002,2001-2002 India v. Zimbabwe,Arun Jaitley Stadium,India won by 4 wickets
+352,11/04/2002,2001-2002 West Indies v. India,Bourda,Match Drawn
+353,19/04/2002,2001-2002 West Indies v. India,Queen's Park Oval,India won by 37 runs
+354,02/05/2002,2001-2002 West Indies v. India,Kensington Oval,West Indies won by 10 wickets
+355,10/05/2002,2001-2002 West Indies v. India,Antigua Recreation Ground,Match Drawn
+356,18/05/2002,2001-2002 West Indies v. India,Sabina Park,West Indies won by 155 runs
+357,25/07/2002,2002 England v. India,Lord's,England won by 170 runs
+358,08/08/2002,2002 England v. India,Trent Bridge,Match Drawn
+359,22/08/2002,2002 England v. India,Headingley,India won by an innings and 46 runs
+360,05/09/2002,2002 England v. India,Kennington Oval,Match Drawn
+361,09/10/2002,2002-2003 India v. West Indies,Wankhede Stadium,India won by an innings and 112 runs
+362,17/10/2002,2002-2003 India v. West Indies,MA Chidambaram Stadium,India won by 8 wickets
+363,30/10/2002,2002-2003 India v. West Indies,Eden Gardens,Match Drawn
+364,12/12/2002,2002-2003 New Zealand v. India,Basin Reserve,New Zealand won by 10 wickets
+365,19/12/2002,2002-2003 New Zealand v. India,Seddon Park,New Zealand won by 4 wickets
+366,08/10/2003,2003-2004 India v. New Zealand,Narendra Modi Stadium,Match Drawn
+367,16/10/2003,2003-2004 India v. New Zealand,Punjab Cricket Association IS Bindra Stadium,Match Drawn
+368,04/12/2003,2003-2004 Australia v. India,Brisbane Cricket Ground,Match Drawn
+369,12/12/2003,2003-2004 Australia v. India,Adelaide Oval,India won by 4 wickets
+370,26/12/2003,2003-2004 Australia v. India,Melbourne Cricket Ground,Australia won by 9 wickets
+371,02/01/2004,2003-2004 Australia v. India,Sydney Cricket Ground,Match Drawn
+372,28/03/2004,2003-2004 Pakistan v. India,Multan Cricket Stadium,India won by an innings and 52 runs
+373,05/04/2004,2003-2004 Pakistan v. India,Gaddafi Stadium,Pakistan won by 9 wickets
+374,13/04/2004,2003-2004 Pakistan v. India,Rawalpindi Cricket Stadium,India won by an innings and 131 runs
+375,06/10/2004,2004-2005 India v. Australia,M Chinnaswamy Stadium,Australia won by 217 runs
+376,14/10/2004,2004-2005 India v. Australia,MA Chidambaram Stadium,Match Drawn
+377,26/10/2004,2004-2005 India v. Australia,Vidarbha Cricket Association Ground,Australia won by 342 runs
+378,03/11/2004,2004-2005 India v. Australia,Wankhede Stadium,India won by 13 runs
+379,20/11/2004,2004-2005 India v. South Africa,Green Park,Match Drawn
+380,28/11/2004,2004-2005 India v. South Africa,Eden Gardens,India won by 8 wickets
+381,10/12/2004,2004-2005 Bangladesh v. India,Bangabandhu National Stadium,India won by an innings and 140 runs
+382,16/12/2004,2004-2005 Bangladesh v. India,MA Aziz Stadium,India won by an innings and 83 runs
+383,08/03/2005,2004-2005 India v. Pakistan,Punjab Cricket Association IS Bindra Stadium,Match Drawn
+384,16/03/2005,2004-2005 India v. Pakistan,Eden Gardens,India won by 195 runs
+385,24/03/2005,2004-2005 India v. Pakistan,M Chinnaswamy Stadium,Pakistan won by 168 runs
+386,13/09/2005,2005-2006 Zimbabwe v. India,Queens Sports Club,India won by an innings and 90 runs
+387,20/09/2005,2005-2006 Zimbabwe v. India,Harare Sports Club,India won by 10 wickets
+388,02/12/2005,2005-2006 India v. Sri Lanka,MA Chidambaram Stadium,Match Drawn
+389,10/12/2005,2005-2006 India v. Sri Lanka,Arun Jaitley Stadium,India won by 188 runs
+390,18/12/2005,2005-2006 India v. Sri Lanka,Narendra Modi Stadium,India won by 259 runs
+391,13/01/2006,2005-2006 Pakistan v. India,Gaddafi Stadium,Match Drawn
+392,21/01/2006,2005-2006 Pakistan v. India,Iqbal Stadium,Match Drawn
+393,29/01/2006,2005-2006 Pakistan v. India,National Stadium (Karachi),Pakistan won by 341 runs
+394,01/03/2006,2005-2006 India v. England,Vidarbha Cricket Association Ground,Match Drawn
+395,09/03/2006,2005-2006 India v. England,Punjab Cricket Association IS Bindra Stadium,India won by 9 wickets
+396,18/03/2006,2005-2006 India v. England,Wankhede Stadium,England won by 212 runs
+397,02/06/2006,2005-2006 West Indies v. India,Antigua Recreation Ground,Match Drawn
+398,10/06/2006,2005-2006 West Indies v. India,Daren Sammy Cricket Ground,Match Drawn
+399,22/06/2006,2005-2006 West Indies v. India,Warner Park,Match Drawn
+400,30/06/2006,2005-2006 West Indies v. India,Sabina Park,India won by 49 runs
+401,15/12/2006,2006-2007 South Africa v. India,Wanderers Stadium,India won by 123 runs
+402,26/12/2006,2006-2007 South Africa v. India,Kingsmead,South Africa won by 174 runs
+403,02/01/2007,2006-2007 South Africa v. India,Newlands,South Africa won by 5 wickets
+404,18/05/2007,2006-2007 Bangladesh v. India,Zahur Ahmed Chowdhury Stadium,Match Drawn
+405,25/05/2007,2006-2007 Bangladesh v. India,Shere Bangla National Stadium,India won by an innings and 239 runs
+406,19/07/2007,2007 England v. India,Lord's,Match Drawn
+407,27/07/2007,2007 England v. India,Trent Bridge,India won by 7 wickets
+408,09/08/2007,2007 England v. India,Kennington Oval,Match Drawn
+409,22/11/2007,2007-2008 India v. Pakistan,Arun Jaitley Stadium,India won by 6 wickets
+410,30/11/2007,2007-2008 India v. Pakistan,Eden Gardens,Match Drawn
+411,08/12/2007,2007-2008 India v. Pakistan,M Chinnaswamy Stadium,Match Drawn
+412,26/12/2007,2007-2008 Australia v. India,Melbourne Cricket Ground,Australia won by 337 runs
+413,02/01/2008,2007-2008 Australia v. India,Sydney Cricket Ground,Australia won by 122 runs
+414,16/01/2008,2007-2008 Australia v. India,WACA Ground,India won by 72 runs
+415,24/01/2008,2007-2008 Australia v. India,Adelaide Oval,Match Drawn
+416,26/03/2008,2007-2008 India v. South Africa,MA Chidambaram Stadium,Match Drawn
+417,03/04/2008,2007-2008 India v. South Africa,Narendra Modi Stadium,South Africa won by an innings and 90 runs
+418,11/04/2008,2007-2008 India v. South Africa,Green Park,India won by 8 wickets
+419,23/07/2008,2008-2009 Sri Lanka v. India,Sinhalese Sports Club Ground,Sri Lanka won by an innings and 239 runs
+420,31/07/2008,2008-2009 Sri Lanka v. India,Galle International Stadium,India won by 170 runs
+421,08/08/2008,2008-2009 Sri Lanka v. India,P Sara Oval,Sri Lanka won by 8 wickets
+422,09/10/2008,2008-2009 India v. Australia,M Chinnaswamy Stadium,Match Drawn
+423,17/10/2008,2008-2009 India v. Australia,Punjab Cricket Association IS Bindra Stadium,India won by 320 runs
+424,29/10/2008,2008-2009 India v. Australia,Arun Jaitley Stadium,Match Drawn
+425,06/11/2008,2008-2009 India v. Australia,Vidarbha Cricket Association Stadium,India won by 172 runs
+426,11/12/2008,2008-2009 India v. England,MA Chidambaram Stadium,India won by 6 wickets
+427,19/12/2008,2008-2009 India v. England,Punjab Cricket Association IS Bindra Stadium,Match Drawn
+428,18/03/2009,2008-2009 New Zealand v. India,Seddon Park,India won by 10 wickets
+429,26/03/2009,2008-2009 New Zealand v. India,McLean Park,Match Drawn
+430,03/04/2009,2008-2009 New Zealand v. India,Basin Reserve,Match Drawn
+431,16/11/2009,2009-2010 India v. Sri Lanka,Narendra Modi Stadium,Match Drawn
+432,24/11/2009,2009-2010 India v. Sri Lanka,Green Park,India won by an innings and 144 runs
+433,02/12/2009,2009-2010 India v. Sri Lanka,Brabourne Stadium,India won by an innings and 24 runs
+434,17/01/2010,2009-2010 Bangladesh v. India,Zahur Ahmed Chowdhury Stadium,India won by 113 runs
+435,24/01/2010,2009-2010 Bangladesh v. India,Shere Bangla National Stadium,India won by 10 wickets
+436,06/02/2010,2009-2010 India v. South Africa,Vidarbha Cricket Association Stadium,South Africa won by an innings and 6 runs
+437,14/02/2010,2009-2010 India v. South Africa,Eden Gardens,India won by an innings and 57 runs
+438,18/07/2010,2010-2011 Sri Lanka v. India,Galle International Stadium,Sri Lanka won by 10 wickets
+439,26/07/2010,2010-2011 Sri Lanka v. India,Sinhalese Sports Club Ground,Match Drawn
+440,03/08/2010,2010-2011 Sri Lanka v. India,P Sara Oval,India won by 5 wickets
+441,01/10/2010,2010-2011 India v. Australia,Punjab Cricket Association IS Bindra Stadium,India won by 1 wicket
+442,09/10/2010,2010-2011 India v. Australia,M Chinnaswamy Stadium,India won by 7 wickets
+443,04/11/2010,2010-2011 India v. New Zealand,Narendra Modi Stadium,Match Drawn
+444,12/11/2010,2010-2011 India v. New Zealand,Rajiv Gandhi International Stadium,Match Drawn
+445,20/11/2010,2010-2011 India v. New Zealand,Vidarbha Cricket Association Stadium,India won by an innings and 198 runs
+446,16/12/2010,2010-2011 South Africa v. India,SuperSport Park,South Africa won by an innings and 25 runs
+447,26/12/2010,2010-2011 South Africa v. India,Kingsmead,India won by 87 runs
+448,02/01/2011,2010-2011 South Africa v. India,Newlands,Match Drawn
+449,20/06/2011,2010-2011 West Indies v. India,Sabina Park,India won by 63 runs
+450,28/06/2011,2010-2011 West Indies v. India,Kensington Oval,Match Drawn
+451,06/07/2011,2010-2011 West Indies v. India,Windsor Park,Match Drawn
+452,21/07/2011,2011 England v. India,Lord's,England won by 196 runs
+453,29/07/2011,2011 England v. India,Trent Bridge,England won by 319 runs
+454,10/08/2011,2011 England v. India,Edgbaston,England won by an innings and 242 runs
+455,18/08/2011,2011 England v. India,Kennington Oval,England won by an innings and 8 runs
+456,06/11/2011,2011-2012 India v. West Indies,Arun Jaitley Stadium,India won by 5 wickets
+457,14/11/2011,2011-2012 India v. West Indies,Eden Gardens,India won by an innings and 15 runs
+458,22/11/2011,2011-2012 India v. West Indies,Wankhede Stadium,Match Drawn
+459,26/12/2011,2011-2012 Australia v. India,Melbourne Cricket Ground,Australia won by 122 runs
+460,03/01/2012,2011-2012 Australia v. India,Sydney Cricket Ground,Australia won by an innings and 68 runs
+461,13/01/2012,2011-2012 Australia v. India,WACA Ground,Australia won by an innings and 37 runs
+462,24/01/2012,2011-2012 Australia v. India,Adelaide Oval,Australia won by 298 runs
+463,23/08/2012,2012-2013 India v. New Zealand,Rajiv Gandhi International Stadium,India won by an innings and 115 runs
+464,31/08/2012,2012-2013 India v. New Zealand,M Chinnaswamy Stadium,India won by 5 wickets
+465,15/11/2012,2012-2013 India v. England,Narendra Modi Stadium,India won by 9 wickets
+466,23/11/2012,2012-2013 India v. England,Wankhede Stadium,England won by 10 wickets
+467,05/12/2012,2012-2013 India v. England,Eden Gardens,England won by 7 wickets
+468,13/12/2012,2012-2013 India v. England,Vidarbha Cricket Association Stadium,Match Drawn
+469,22/02/2013,2012-2013 India v. Australia,MA Chidambaram Stadium,India won by 8 wickets
+470,02/03/2013,2012-2013 India v. Australia,Rajiv Gandhi International Stadium,India won by an innings and 135 runs
+471,14/03/2013,2012-2013 India v. Australia,Punjab Cricket Association IS Bindra Stadium,India won by 6 wickets
+472,22/03/2013,2012-2013 India v. Australia,Arun Jaitley Stadium,India won by 6 wickets
+473,06/11/2013,2013-2014 India v. West Indies,Eden Gardens,India won by an innings and 51 runs
+474,14/11/2013,2013-2014 India v. West Indies,Wankhede Stadium,India won by an innings and 126 runs
+475,18/12/2013,2013-2014 South Africa v. India,Wanderers Stadium,Match Drawn
+476,26/12/2013,2013-2014 South Africa v. India,Kingsmead,South Africa won by 10 wickets
+477,06/02/2014,2013-2014 New Zealand v. India,Eden Park,New Zealand won by 40 runs
+478,14/02/2014,2013-2014 New Zealand v. India,Basin Reserve,Match Drawn
+479,09/07/2014,2014 England v. India,Trent Bridge,Match Drawn
+480,17/07/2014,2014 England v. India,Lord's,India won by 95 runs
+481,27/07/2014,2014 England v. India,The Rose Bowl,England won by 266 runs
+482,07/08/2014,2014 England v. India,Old Trafford,England won by an innings and 54 runs
+483,15/08/2014,2014 England v. India,Kennington Oval,England won by an innings and 244 runs
+484,09/12/2014,2014-2015 Australia v. India,Adelaide Oval,Australia won by 48 runs
+485,17/12/2014,2014-2015 Australia v. India,Brisbane Cricket Ground,Australia won by 4 wickets
+486,26/12/2014,2014-2015 Australia v. India,Melbourne Cricket Ground,Match Drawn
+487,06/01/2015,2014-2015 Australia v. India,Sydney Cricket Ground,Match Drawn
+488,10/06/2015,2014-2015 Bangladesh v. India,Khan Shaheb Osman Ali Stadium,Match Drawn
+489,12/08/2015,2015-2016 Sri Lanka v. India,Galle International Stadium,Sri Lanka won by 63 runs
+490,20/08/2015,2015-2016 Sri Lanka v. India,P Sara Oval,India won by 278 runs
+491,28/08/2015,2015-2016 Sri Lanka v. India,Sinhalese Sports Club Ground,India won by 117 runs
+492,05/11/2015,2015-2016 India v. South Africa,Punjab Cricket Association IS Bindra Stadium,India won by 108 runs
+493,13/11/2015,2015-2016 India v. South Africa,M Chinnaswamy Stadium,Match Drawn
+494,25/11/2015,2015-2016 India v. South Africa,Vidarbha Cricket Association Stadium,India won by 124 runs
+495,03/12/2015,2015-2016 India v. South Africa,Arun Jaitley Stadium,India won by 337 runs
+496,21/07/2016,2016-2017 West Indies v. India,Sir Vivian Richards Stadium,India won by an innings and 92 runs
+497,30/07/2016,2016-2017 West Indies v. India,Sabina Park,Match Drawn
+498,09/08/2016,2016-2017 West Indies v. India,Daren Sammy Cricket Ground,India won by 237 runs
+499,18/08/2016,2016-2017 West Indies v. India,Queen's Park Oval,Match Drawn
+500,22/09/2016,2016-2017 India v. New Zealand,Green Park,India won by 197 runs
+501,30/09/2016,2016-2017 India v. New Zealand,Eden Gardens,India won by 178 runs
+502,08/10/2016,2016-2017 India v. New Zealand,Holkar Cricket Stadium,India won by 321 runs
+503,09/11/2016,2016-2017 India v. England,Saurashtra Cricket Association Stadium,Match Drawn
+504,16/11/2016,2016-2017 India v. England,Dr YS Rajasekhara Reddy Cricket Stadium,India won by 246 runs
+505,26/11/2016,2016-2017 India v. England,Punjab Cricket Association IS Bindra Stadium,India won by 8 wickets
+506,08/12/2016,2016-2017 India v. England,Wankhede Stadium,India won by an innings and 36 runs
+507,16/12/2016,2016-2017 India v. England,MA Chidambaram Stadium,India won by an innings and 75 runs
+508,09/02/2017,2016-2017 India v. Bangladesh,Rajiv Gandhi International Stadium,India won by 208 runs
+509,23/02/2017,2016-2017 India v. Australia,Maharashtra Cricket Association Stadium,Australia won by 333 runs
+510,04/03/2017,2016-2017 India v. Australia,M Chinnaswamy Stadium,India won by 75 runs
+511,15/03/2017,2016-2017 India v. Australia,JSCA International Stadium Complex,Match Drawn
+512,25/03/2017,2016-2017 India v. Australia,Himachal Pradesh Cricket Association Stadium,India won by 8 wickets
+513,26/07/2017,2017-2018 Sri Lanka v. India,Galle International Stadium,India won by 304 runs
+514,03/08/2017,2017-2018 Sri Lanka v. India,Sinhalese Sports Club Ground,India won by an innings and 53 runs
+515,12/08/2017,2017-2018 Sri Lanka v. India,Pallekele International Cricket Stadium,India won by an innings and 171 runs
+516,16/11/2017,2017-2018 India v. Sri Lanka,Eden Gardens,Match Drawn
+517,24/11/2017,2017-2018 India v. Sri Lanka,Vidarbha Cricket Association Stadium,India won by an innings and 239 runs
+518,02/12/2017,2017-2018 India v. Sri Lanka,Arun Jaitley Stadium,Match Drawn
+519,05/01/2018,2017-2018 South Africa v. India,Newlands,South Africa won by 72 runs
+520,13/01/2018,2017-2018 South Africa v. India,SuperSport Park,South Africa won by 135 runs
+521,24/01/2018,2017-2018 South Africa v. India,Wanderers Stadium,India won by 63 runs
+522,14/06/2018,2017-2018 India v. Afghanistan,M Chinnaswamy Stadium,India won by an innings and 262 runs
+523,01/08/2018,2018 England v. India,Edgbaston,England won by 31 runs
+524,10/08/2018,2018 England v. India,Lord's,England won by an innings and 159 runs
+525,18/08/2018,2018 England v. India,Trent Bridge,India won by 203 runs
+526,30/08/2018,2018 England v. India,The Rose Bowl,England won by 60 runs
+527,07/09/2018,2018 England v. India,Kennington Oval,England won by 118 runs
+528,04/10/2018,2018-2019 India v. West Indies,Saurashtra Cricket Association Stadium,India won by an innings and 272 runs
+529,12/10/2018,2018-2019 India v. West Indies,Rajiv Gandhi International Stadium,India won by 10 wickets
+530,06/12/2018,2018-2019 Australia v. India,Adelaide Oval,India won by 31 runs
+531,14/12/2018,2018-2019 Australia v. India,Perth Stadium,Australia won by 146 runs
+532,26/12/2018,2018-2019 Australia v. India,Melbourne Cricket Ground,India won by 137 runs
+533,03/01/2019,2018-2019 Australia v. India,Sydney Cricket Ground,Match Drawn
+534,22/08/2019,2019-2020 West Indies v. India,Sir Vivian Richards Stadium,India won by 318 runs
+535,30/08/2019,2019-2020 West Indies v. India,Sabina Park,India won by 257 runs
+536,02/10/2019,2019-2020 India v. South Africa,Dr YS Rajasekhara Reddy Cricket Stadium,India won by 203 runs
+537,10/10/2019,2019-2020 India v. South Africa,Maharashtra Cricket Association Stadium,India won by an innings and 137 runs
+538,19/10/2019,2019-2020 India v. South Africa,JSCA International Stadium Complex,India won by an innings and 202 runs
+539,14/11/2019,2019-2020 India v. Bangladesh,Holkar Cricket Stadium,India won by an innings and 130 runs
+540,22/11/2019,2019-2020 India v. Bangladesh,Eden Gardens,India won by an innings and 46 runs
+541,21/02/2020,2019-2020 New Zealand v. India,Basin Reserve,New Zealand won by 10 wickets
+542,29/02/2020,2019-2020 New Zealand v. India,Hagley Oval,New Zealand won by 7 wickets
+543,17/12/2020,2020-2021 Australia v. India,Adelaide Oval,Australia won by 8 wickets
+544,26/12/2020,2020-2021 Australia v. India,Melbourne Cricket Ground,India won by 8 wickets
+545,07/01/2021,2020-2021 Australia v. India,Sydney Cricket Ground,Match Drawn
+546,15/01/2021,2020-2021 Australia v. India,Brisbane Cricket Ground,India won by 3 wickets
+547,05/02/2021,2020-2021 India v. England,MA Chidambaram Stadium,England won by 227 runs
+548,13/02/2021,2020-2021 India v. England,MA Chidambaram Stadium,India won by 317 runs
+549,24/02/2021,2020-2021 India v. England,Narendra Modi Stadium,India won by 10 wickets
+550,04/03/2021,2020-2021 India v. England,Narendra Modi Stadium,India won by an innings and 25 runs
+551,18/06/2021,2020-2021 India v. New Zealand,The Rose Bowl,New Zealand won by 8 wickets
+552,04/08/2021,2021 England v. India,Trent Bridge,Match Drawn
+553,12/08/2021,2021 England v. India,Lord's,India won by 151 runs
+554,25/08/2021,2021 England v. India,Headingley,England won by an innings and 76 runs
+555,02/09/2021,2021 England v. India,Kennington Oval,India won by 157 runs
+556,01/07/2022,2021 England v. India,Edgbaston,England won by 7 wickets
+557,25/11/2021,2021-2022 India v. New Zealand,Green Park,Match Drawn
+558,03/12/2021,2021-2022 India v. New Zealand,Wankhede Stadium,India won by 372 runs
+559,26/12/2021,2021-2022 South Africa v. India,SuperSport Park,India won by 113 runs
+560,03/01/2022,2021-2022 South Africa v. India,Wanderers Stadium,South Africa won by 7 wickets
+561,11/01/2022,2021-2022 South Africa v. India,Newlands,South Africa won by 7 wickets
+562,04/03/2022,2021-2022 India v. Sri Lanka,Punjab Cricket Association IS Bindra Stadium,India won by an innings and 222 runs
+563,12/03/2022,2021-2022 India v. Sri Lanka,M Chinnaswamy Stadium,India won by 238 runs
+564,14/12/2022,2022-2023 Bangladesh v. India,Zahur Ahmed Chowdhury Stadium,India won by 188 runs
+565,22/12/2022,2022-2023 Bangladesh v. India,Shere Bangla National Stadium,India won by 3 wickets
+566,09/02/2023,2022-2023 India v. Australia,Vidarbha Cricket Association Stadium,India won by an innings and 132 runs
+567,17/02/2023,2022-2023 India v. Australia,Arun Jaitley Stadium,India won by 6 wickets
+568,01/03/2023,2022-2023 India v. Australia,Holkar Cricket Stadium,Australia won by 9 wickets
+569,09/03/2023,2022-2023 India v. Australia,Narendra Modi Stadium,Match Drawn
+570,07/06/2023,2023 Australia v. India,Kennington Oval,Australia won by 209 runs
+571,12/07/2023,2023 West Indies v. India,Windsor Park,India won by an innings and 141 runs
+572,20/07/2023,2023 West Indies v. India,Queen's Park Oval,Match Drawn
+573,26/12/2023,2023-2024 South Africa v. India,SuperSport Park,South Africa won by an innings and 32 runs
+574,03/01/2024,2023-2024 South Africa v. India,Newlands,India won by 7 wickets
+575,25/01/2024,2023-2024 India v. England,Rajiv Gandhi International Stadium,England won by 28 runs
+576,02/02/2024,2023-2024 India v. England,Dr YS Rajasekhara Reddy Cricket Stadium,India won by 106 runs
+577,15/02/2024,2023-2024 India v. England,Saurashtra Cricket Association Stadium,India won by 434 runs
+578,23/02/2024,2023-2024 India v. England,JSCA International Stadium Complex,India won by 5 wickets
+579,07/03/2024,2023-2024 India v. England,Himachal Pradesh Cricket Association Stadium,India won by an innings and 64 runs
+580,19/09/2024,2024 India v. Bangladesh,MA Chidambaram Stadium,India won by 280 runs
+581,27/09/2024,2024 India v. Bangladesh,Green Park,India won by 7 wickets
+582,16/10/2024,2024-2025 India v. New Zealand,M Chinnaswamy Stadium,New Zealand won by 8 wickets
+583,24/10/2024,2024-2025 India v. New Zealand,Maharashtra Cricket Association Stadium,New Zealand won by 113 runs
+584,01/11/2024,2024-2025 India v. New Zealand,Wankhede Stadium,New Zealand won by 25 runs
+585,22/11/2024,2024-2025 Australia v. India,Perth Stadium,India won by 295 runs
+586,06/12/2024,2024-2025 Australia v. India,Adelaide Oval,Australia won by 10 wickets
+587,14/12/2024,2024-2025 Australia v. India,Brisbane Cricket Ground,Match Drawn
+588,26/12/2024,2024-2025 Australia v. India,Melbourne Cricket Ground,Australia won by 184 runs
+589,03/01/2025,2024-2025 Australia v. India,Sydney Cricket Ground,Australia won by 6 wickets
