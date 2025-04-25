@@ -1,0 +1,874 @@
+Test Number,Date,Series,Ground,Result
+1,15/03/1877,1876-1877 Australia v. England,Melbourne Cricket Ground,Australia won by 45 runs
+2,31/03/1877,1876-1877 Australia v. England,Melbourne Cricket Ground,England won by 4 wickets
+3,02/01/1879,1878-1879 Australia v. England,Melbourne Cricket Ground,Australia won by 10 wickets
+4,06/09/1880,1880 England v. Australia,Kennington Oval,England won by 5 wickets
+5,31/12/1881,1881-1882 Australia v. England,Melbourne Cricket Ground,Match Drawn
+6,17/02/1882,1881-1882 Australia v. England,Sydney Cricket Ground,Australia won by 5 wickets
+7,03/03/1882,1881-1882 Australia v. England,Sydney Cricket Ground,Australia won by 6 wickets
+8,10/03/1882,1881-1882 Australia v. England,Melbourne Cricket Ground,Match Drawn
+9,28/08/1882,1882 England v. Australia,Kennington Oval,Australia won by 7 runs
+10,30/12/1882,1882-1883 Australia v. England,Melbourne Cricket Ground,Australia won by 9 wickets
+11,19/01/1883,1882-1883 Australia v. England,Melbourne Cricket Ground,England won by an innings and 27 runs
+12,26/01/1883,1882-1883 Australia v. England,Sydney Cricket Ground,England won by 69 runs
+13,17/02/1883,1883 Australia v. England,Sydney Cricket Ground,Australia won by 4 wickets
+14,11/07/1884,1884 England v. Australia,Old Trafford,Match Drawn
+15,21/07/1884,1884 England v. Australia,Lord's,England won by an innings and 5 runs
+16,11/08/1884,1884 England v. Australia,Kennington Oval,Match Drawn
+17,12/12/1884,1884-1885 Australia v. England,Adelaide Oval,England won by 8 wickets
+18,01/01/1885,1884-1885 Australia v. England,Melbourne Cricket Ground,England won by 10 wickets
+19,20/02/1885,1884-1885 Australia v. England,Sydney Cricket Ground,Australia won by 6 runs
+20,14/03/1885,1884-1885 Australia v. England,Sydney Cricket Ground,Australia won by 8 wickets
+21,21/03/1885,1884-1885 Australia v. England,Melbourne Cricket Ground,England won by an innings and 98 runs
+22,05/07/1886,1886 England v. Australia,Old Trafford,England won by 4 wickets
+23,19/07/1886,1886 England v. Australia,Lord's,England won by an innings and 106 runs
+24,12/08/1886,1886 England v. Australia,Kennington Oval,England won by an innings and 217 runs
+25,28/01/1887,1886-1887 Australia v. England,Sydney Cricket Ground,England won by 13 runs
+26,25/02/1887,1886-1887 Australia v. England,Sydney Cricket Ground,England won by 71 runs
+27,10/02/1888,1887-1888 Australia v. England,Sydney Cricket Ground,England won by 126 runs
+28,16/07/1888,1888 England v. Australia,Lord's,Australia won by 61 runs
+29,13/08/1888,1888 England v. Australia,Kennington Oval,England won by an innings and 137 runs
+30,30/08/1888,1888 England v. Australia,Old Trafford,England won by an innings and 21 runs
+31,21/07/1890,1890 England v. Australia,Lord's,England won by 7 wickets
+32,11/08/1890,1890 England v. Australia,Kennington Oval,England won by 2 wickets
+33,01/01/1892,1891-1892 Australia v. England,Melbourne Cricket Ground,Australia won by 54 runs
+34,29/01/1892,1891-1892 Australia v. England,Sydney Cricket Ground,Australia won by 72 runs
+35,24/03/1892,1891-1892 Australia v. England,Adelaide Oval,England won by an innings and 230 runs
+36,17/07/1893,1893 England v. Australia,Lord's,Match Drawn
+37,14/08/1893,1893 England v. Australia,Kennington Oval,England won by an innings and 43 runs
+38,24/08/1893,1893 England v. Australia,Old Trafford,Match Drawn
+39,14/12/1894,1894-1895 Australia v. England,Sydney Cricket Ground,England won by 10 runs
+40,29/12/1894,1894-1895 Australia v. England,Melbourne Cricket Ground,England won by 94 runs
+41,11/01/1895,1894-1895 Australia v. England,Adelaide Oval,Australia won by 382 runs
+42,01/02/1895,1894-1895 Australia v. England,Sydney Cricket Ground,Australia won by an innings and 147 runs
+43,01/03/1895,1894-1895 Australia v. England,Melbourne Cricket Ground,England won by 6 wickets
+44,22/06/1896,1896 England v. Australia,Lord's,England won by 6 wickets
+45,16/07/1896,1896 England v. Australia,Old Trafford,Australia won by 3 wickets
+46,10/08/1896,1896 England v. Australia,Kennington Oval,England won by 66 runs
+47,13/12/1897,1897-1898 Australia v. England,Sydney Cricket Ground,England won by 9 wickets
+48,01/01/1898,1897-1898 Australia v. England,Melbourne Cricket Ground,Australia won by an innings and 55 runs
+49,14/01/1898,1897-1898 Australia v. England,Adelaide Oval,Australia won by an innings and 13 runs
+50,29/01/1898,1897-1898 Australia v. England,Melbourne Cricket Ground,Australia won by 8 wickets
+51,26/02/1898,1897-1898 Australia v. England,Sydney Cricket Ground,Australia won by 6 wickets
+52,01/06/1899,1899 England v. Australia,Trent Bridge,Match Drawn
+53,15/06/1899,1899 England v. Australia,Lord's,Australia won by 10 wickets
+54,29/06/1899,1899 England v. Australia,Headingley,Match Drawn
+55,17/07/1899,1899 England v. Australia,Old Trafford,Match Drawn
+56,14/08/1899,1899 England v. Australia,Kennington Oval,Match Drawn
+57,13/12/1901,1901-1902 Australia v. England,Sydney Cricket Ground,England won by an innings and 124 runs
+58,01/01/1902,1901-1902 Australia v. England,Melbourne Cricket Ground,Australia won by 229 runs
+59,17/01/1902,1901-1902 Australia v. England,Adelaide Oval,Australia won by 4 wickets
+60,14/02/1902,1901-1902 Australia v. England,Sydney Cricket Ground,Australia won by 7 wickets
+61,28/02/1902,1901-1902 Australia v. England,Melbourne Cricket Ground,Australia won by 32 runs
+62,29/05/1902,1902 England v. Australia,Edgbaston,Match Drawn
+63,12/06/1902,1902 England v. Australia,Lord's,Match Drawn
+64,03/07/1902,1902 England v. Australia,Bramall Lane,Australia won by 143 runs
+65,24/07/1902,1902 England v. Australia,Old Trafford,Australia won by 3 runs
+66,11/08/1902,1902 England v. Australia,Kennington Oval,England won by 1 wicket
+67,11/10/1902,1902-1903 South Africa v. Australia,Old Wanderers,Match Drawn
+68,18/10/1902,1902-1903 South Africa v. Australia,Old Wanderers,Australia won by 159 runs
+69,08/11/1902,1902-1903 South Africa v. Australia,Newlands,Australia won by 10 wickets
+70,11/12/1903,1903-1904 Australia v. England,Sydney Cricket Ground,England won by 5 wickets
+71,01/01/1904,1903-1904 Australia v. England,Melbourne Cricket Ground,England won by 185 runs
+72,15/01/1904,1903-1904 Australia v. England,Adelaide Oval,Australia won by 216 runs
+73,26/02/1904,1903-1904 Australia v. England,Sydney Cricket Ground,England won by 157 runs
+74,05/03/1904,1903-1904 Australia v. England,Melbourne Cricket Ground,Australia won by 218 runs
+75,29/05/1905,1905 England v. Australia,Trent Bridge,England won by 213 runs
+76,15/06/1905,1905 England v. Australia,Lord's,Match Drawn
+77,03/07/1905,1905 England v. Australia,Headingley,Match Drawn
+78,24/07/1905,1905 England v. Australia,Old Trafford,England won by an innings and 80 runs
+79,14/08/1905,1905 England v. Australia,Kennington Oval,Match Drawn
+80,13/12/1907,1907-1908 Australia v. England,Sydney Cricket Ground,Australia won by 2 wickets
+81,01/01/1908,1907-1908 Australia v. England,Melbourne Cricket Ground,England won by 1 wicket
+82,10/01/1908,1907-1908 Australia v. England,Adelaide Oval,Australia won by 245 runs
+83,07/02/1908,1907-1908 Australia v. England,Melbourne Cricket Ground,Australia won by 308 runs
+84,21/02/1908,1907-1908 Australia v. England,Sydney Cricket Ground,Australia won by 49 runs
+85,27/05/1909,1909 England v. Australia,Edgbaston,England won by 10 wickets
+86,14/06/1909,1909 England v. Australia,Lord's,Australia won by 9 wickets
+87,01/07/1909,1909 England v. Australia,Headingley,Australia won by 126 runs
+88,26/07/1909,1909 England v. Australia,Old Trafford,Match Drawn
+89,09/08/1909,1909 England v. Australia,Kennington Oval,Match Drawn
+90,09/12/1910,1910-1911 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 114 runs
+91,31/12/1910,1910-1911 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 89 runs
+92,07/01/1911,1910-1911 Australia v. South Africa,Adelaide Oval,South Africa won by 38 runs
+93,17/02/1911,1910-1911 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 530 runs
+94,03/03/1911,1910-1911 Australia v. South Africa,Sydney Cricket Ground,Australia won by 7 wickets
+95,15/12/1911,1911-1912 Australia v. England,Sydney Cricket Ground,Australia won by 146 runs
+96,30/12/1911,1911-1912 Australia v. England,Melbourne Cricket Ground,England won by 8 wickets
+97,12/01/1912,1911-1912 Australia v. England,Adelaide Oval,England won by 7 wickets
+98,09/02/1912,1911-1912 Australia v. England,Melbourne Cricket Ground,England won by an innings and 225 runs
+99,23/02/1912,1911-1912 Australia v. England,Sydney Cricket Ground,England won by 70 runs
+100,27/05/1912,1912 Triangular Series (v. South Africa),Old Trafford,Australia won by an innings and 88 runs
+101,24/06/1912,1912 Triangular Series (v. England),Lord's,Match Drawn
+102,15/07/1912,1912 Triangular Series (v. South Africa),Lord's,Australia won by 10 wickets
+103,29/07/1912,1912 Triangular Series (v. England),Old Trafford,Match Drawn
+104,05/08/1912,1912 Triangular Series (v. South Africa),Trent Bridge,Match Drawn
+105,19/08/1912,1912 Triangular Series (v. England),Kennington Oval,England won by 244 runs
+106,17/12/1920,1920-1921 Australia v. England,Sydney Cricket Ground,Australia won by 377 runs
+107,31/12/1920,1920-1921 Australia v. England,Melbourne Cricket Ground,Australia won by an innings and 91 runs
+108,14/01/1921,1920-1921 Australia v. England,Adelaide Oval,Australia won by 119 runs
+109,11/02/1921,1920-1921 Australia v. England,Melbourne Cricket Ground,Australia won by 8 wickets
+110,25/02/1921,1920-1921 Australia v. England,Sydney Cricket Ground,Australia won by 9 wickets
+111,28/05/1921,1921 England v. Australia,Trent Bridge,Australia won by 10 wickets
+112,11/06/1921,1921 England v. Australia,Lord's,Australia won by 8 wickets
+113,02/07/1921,1921 England v. Australia,Headingley,Australia won by 219 runs
+114,23/07/1921,1921 England v. Australia,Old Trafford,Match Drawn
+115,13/08/1921,1921 England v. Australia,Kennington Oval,Match Drawn
+116,05/11/1921,1921-1922 South Africa v. Australia,Lord's (SAF),Match Drawn
+117,12/11/1921,1921-1922 South Africa v. Australia,Old Wanderers,Match Drawn
+118,26/11/1921,1921-1922 South Africa v. Australia,Newlands,Australia won by 10 wickets
+119,19/12/1924,1924-1925 Australia v. England,Sydney Cricket Ground,Australia won by 193 runs
+120,01/01/1925,1924-1925 Australia v. England,Melbourne Cricket Ground,Australia won by 81 runs
+121,16/01/1925,1924-1925 Australia v. England,Adelaide Oval,Australia won by 11 runs
+122,13/02/1925,1924-1925 Australia v. England,Melbourne Cricket Ground,England won by an innings and 29 runs
+123,27/02/1925,1924-1925 Australia v. England,Sydney Cricket Ground,Australia won by 307 runs
+124,12/06/1926,1926 England v. Australia,Trent Bridge,Match Drawn
+125,26/06/1926,1926 England v. Australia,Lord's,Match Drawn
+126,10/07/1926,1926 England v. Australia,Headingley,Match Drawn
+127,24/07/1926,1926 England v. Australia,Old Trafford,Match Drawn
+128,14/08/1926,1926 England v. Australia,Kennington Oval,England won by 289 runs
+129,30/11/1928,1928-1929 Australia v. England,Exhibition Ground,England won by 675 runs
+130,14/12/1928,1928-1929 Australia v. England,Sydney Cricket Ground,England won by 8 wickets
+131,29/12/1928,1928-1929 Australia v. England,Melbourne Cricket Ground,England won by 3 wickets
+132,01/02/1929,1928-1929 Australia v. England,Adelaide Oval,England won by 12 runs
+133,08/03/1929,1928-1929 Australia v. England,Melbourne Cricket Ground,Australia won by 5 wickets
+134,13/06/1930,1930 England v. Australia,Trent Bridge,England won by 93 runs
+135,27/06/1930,1930 England v. Australia,Lord's,Australia won by 7 wickets
+136,11/07/1930,1930 England v. Australia,Headingley,Match Drawn
+137,25/07/1930,1930 England v. Australia,Old Trafford,Match Drawn
+138,16/08/1930,1930 England v. Australia,Kennington Oval,Australia won by an innings and 39 runs
+139,12/12/1930,1930-1931 Australia v. West Indies,Adelaide Oval,Australia won by 10 wickets
+140,01/01/1931,1930-1931 Australia v. West Indies,Sydney Cricket Ground,Australia won by an innings and 172 runs
+141,16/01/1931,1930-1931 Australia v. West Indies,Exhibition Ground,Australia won by an innings and 217 runs
+142,13/02/1931,1930-1931 Australia v. West Indies,Melbourne Cricket Ground,Australia won by an innings and 122 runs
+143,27/02/1931,1930-1931 Australia v. West Indies,Sydney Cricket Ground,West Indies won by 30 runs
+144,27/11/1931,1931-1932 Australia v. South Africa,Brisbane Cricket Ground,Australia won by an innings and 163 runs
+145,18/12/1931,1931-1932 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 155 runs
+146,31/12/1931,1931-1932 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 169 runs
+147,29/01/1932,1931-1932 Australia v. South Africa,Adelaide Oval,Australia won by 10 wickets
+148,12/02/1932,1931-1932 Australia v. South Africa,Melbourne Cricket Ground,Australia won by an innings and 72 runs
+149,02/12/1932,1932-1933 Australia v. England,Sydney Cricket Ground,England won by 10 wickets
+150,30/12/1932,1932-1933 Australia v. England,Melbourne Cricket Ground,Australia won by 111 runs
+151,13/01/1933,1932-1933 Australia v. England,Adelaide Oval,England won by 338 runs
+152,10/02/1933,1932-1933 Australia v. England,Brisbane Cricket Ground,England won by 6 wickets
+153,23/02/1933,1932-1933 Australia v. England,Sydney Cricket Ground,England won by 8 wickets
+154,08/06/1934,1934 England v. Australia,Trent Bridge,Australia won by 238 runs
+155,22/06/1934,1934 England v. Australia,Lord's,England won by an innings and 38 runs
+156,06/07/1934,1934 England v. Australia,Old Trafford,Match Drawn
+157,20/07/1934,1934 England v. Australia,Headingley,Match Drawn
+158,18/08/1934,1934 England v. Australia,Kennington Oval,Australia won by 562 runs
+159,14/12/1935,1935-1936 South Africa v. Australia,Kingsmead,Australia won by 9 wickets
+160,24/12/1935,1935-1936 South Africa v. Australia,Old Wanderers,Match Drawn
+161,01/01/1936,1935-1936 South Africa v. Australia,Newlands,Australia won by an innings and 78 runs
+162,15/02/1936,1935-1936 South Africa v. Australia,Old Wanderers,Australia won by an innings and 184 runs
+163,28/02/1936,1935-1936 South Africa v. Australia,Kingsmead,Australia won by an innings and 6 runs
+164,04/12/1936,1936-1937 Australia v. England,Brisbane Cricket Ground,England won by 322 runs
+165,18/12/1936,1936-1937 Australia v. England,Sydney Cricket Ground,England won by an innings and 22 runs
+166,01/01/1937,1936-1937 Australia v. England,Melbourne Cricket Ground,Australia won by 365 runs
+167,29/01/1937,1936-1937 Australia v. England,Adelaide Oval,Australia won by 148 runs
+168,26/02/1937,1936-1937 Australia v. England,Melbourne Cricket Ground,Australia won by an innings and 200 runs
+169,10/06/1938,1938 England v. Australia,Trent Bridge,Match Drawn
+170,24/06/1938,1938 England v. Australia,Lord's,Match Drawn
+171,22/07/1938,1938 England v. Australia,Headingley,Australia won by 5 wickets
+172,20/08/1938,1938 England v. Australia,Kennington Oval,England won by an innings and 579 runs
+173,29/03/1946,1945-1946 New Zealand v. Australia,Basin Reserve,Australia won by an innings and 103 runs
+174,29/11/1946,1946-1947 Australia v. England,Brisbane Cricket Ground,Australia won by an innings and 332 runs
+175,13/12/1946,1946-1947 Australia v. England,Sydney Cricket Ground,Australia won by an innings and 33 runs
+176,01/01/1947,1946-1947 Australia v. England,Melbourne Cricket Ground,Match Drawn
+177,31/01/1947,1946-1947 Australia v. England,Adelaide Oval,Match Drawn
+178,28/02/1947,1946-1947 Australia v. England,Sydney Cricket Ground,Australia won by 5 wickets
+179,28/11/1947,1947-1948 Australia v. India,Brisbane Cricket Ground,Australia won by an innings and 226 runs
+180,12/12/1947,1947-1948 Australia v. India,Sydney Cricket Ground,Match Drawn
+181,01/01/1948,1947-1948 Australia v. India,Melbourne Cricket Ground,Australia won by 233 runs
+182,23/01/1948,1947-1948 Australia v. India,Adelaide Oval,Australia won by an innings and 16 runs
+183,06/02/1948,1947-1948 Australia v. India,Melbourne Cricket Ground,Australia won by an innings and 177 runs
+184,10/06/1948,1948 England v. Australia,Trent Bridge,Australia won by 8 wickets
+185,24/06/1948,1948 England v. Australia,Lord's,Australia won by 409 runs
+186,08/07/1948,1948 England v. Australia,Old Trafford,Match Drawn
+187,22/07/1948,1948 England v. Australia,Headingley,Australia won by 7 wickets
+188,14/08/1948,1948 England v. Australia,Kennington Oval,Australia won by an innings and 149 runs
+189,24/12/1949,1949-1950 South Africa v. Australia,Ellis Park,Australia won by an innings and 85 runs
+190,31/12/1949,1949-1950 South Africa v. Australia,Newlands,Australia won by 8 wickets
+191,20/01/1950,1949-1950 South Africa v. Australia,Kingsmead,Australia won by 5 wickets
+192,10/02/1950,1949-1950 South Africa v. Australia,Ellis Park,Match Drawn
+193,03/03/1950,1949-1950 South Africa v. Australia,St George's Park,Australia won by an innings and 259 runs
+194,01/12/1950,1950-1951 Australia v. England,Brisbane Cricket Ground,Australia won by 70 runs
+195,22/12/1950,1950-1951 Australia v. England,Melbourne Cricket Ground,Australia won by 28 runs
+196,05/01/1951,1950-1951 Australia v. England,Sydney Cricket Ground,Australia won by an innings and 13 runs
+197,02/02/1951,1950-1951 Australia v. England,Adelaide Oval,Australia won by 274 runs
+198,23/02/1951,1950-1951 Australia v. England,Melbourne Cricket Ground,England won by 8 wickets
+199,09/11/1951,1951-1952 Australia v. West Indies,Brisbane Cricket Ground,Australia won by 3 wickets
+200,30/11/1951,1951-1952 Australia v. West Indies,Sydney Cricket Ground,Australia won by 7 wickets
+201,22/12/1951,1951-1952 Australia v. West Indies,Adelaide Oval,West Indies won by 6 wickets
+202,31/12/1951,1951-1952 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 1 wicket
+203,25/01/1952,1951-1952 Australia v. West Indies,Sydney Cricket Ground,Australia won by 202 runs
+204,05/12/1952,1952-1953 Australia v. South Africa,Brisbane Cricket Ground,Australia won by 96 runs
+205,24/12/1952,1952-1953 Australia v. South Africa,Melbourne Cricket Ground,South Africa won by 82 runs
+206,09/01/1953,1952-1953 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 38 runs
+207,24/01/1953,1952-1953 Australia v. South Africa,Adelaide Oval,Match Drawn
+208,06/02/1953,1952-1953 Australia v. South Africa,Melbourne Cricket Ground,South Africa won by 6 wickets
+209,11/06/1953,1953 England v. Australia,Trent Bridge,Match Drawn
+210,25/06/1953,1953 England v. Australia,Lord's,Match Drawn
+211,09/07/1953,1953 England v. Australia,Old Trafford,Match Drawn
+212,23/07/1953,1953 England v. Australia,Headingley,Match Drawn
+213,15/08/1953,1953 England v. Australia,Kennington Oval,England won by 8 wickets
+214,26/11/1954,1954-1955 Australia v. England,Brisbane Cricket Ground,Australia won by an innings and 154 runs
+215,17/12/1954,1954-1955 Australia v. England,Sydney Cricket Ground,England won by 38 runs
+216,31/12/1954,1954-1955 Australia v. England,Melbourne Cricket Ground,England won by 128 runs
+217,28/01/1955,1954-1955 Australia v. England,Adelaide Oval,England won by 5 wickets
+218,25/02/1955,1954-1955 Australia v. England,Sydney Cricket Ground,Match Drawn
+219,26/03/1955,1954-1955 West Indies v. Australia,Sabina Park,Australia won by 9 wickets
+220,11/04/1955,1954-1955 West Indies v. Australia,Queen's Park Oval,Match Drawn
+221,26/04/1955,1954-1955 West Indies v. Australia,Bourda,Australia won by 8 wickets
+222,14/05/1955,1954-1955 West Indies v. Australia,Kensington Oval,Match Drawn
+223,11/06/1955,1954-1955 West Indies v. Australia,Sabina Park,Australia won by an innings and 82 runs
+224,07/06/1956,1956 England v. Australia,Trent Bridge,Match Drawn
+225,21/06/1956,1956 England v. Australia,Lord's,Australia won by 185 runs
+226,12/07/1956,1956 England v. Australia,Headingley,England won by an innings and 42 runs
+227,26/07/1956,1956 England v. Australia,Old Trafford,England won by an innings and 170 runs
+228,23/08/1956,1956 England v. Australia,Kennington Oval,Match Drawn
+229,11/10/1956,1956-1957 Pakistan v. Australia,National Stadium (Karachi),Pakistan won by 9 wickets
+230,19/10/1956,1956-1957 India v. Australia,Nehru Stadium (Chennai),Australia won by an innings and 5 runs
+231,26/10/1956,1956-1957 India v. Australia,Brabourne Stadium,Match Drawn
+232,02/11/1956,1956-1957 India v. Australia,Eden Gardens,Australia won by 94 runs
+233,23/12/1957,1957-1958 South Africa v. Australia,Wanderers Stadium,Match Drawn
+234,31/12/1957,1957-1958 South Africa v. Australia,Newlands,Australia won by an innings and 141 runs
+235,24/01/1958,1957-1958 South Africa v. Australia,Kingsmead,Match Drawn
+236,07/02/1958,1957-1958 South Africa v. Australia,Wanderers Stadium,Australia won by 10 wickets
+237,28/02/1958,1957-1958 South Africa v. Australia,St George's Park,Australia won by 8 wickets
+238,05/12/1958,1958-1959 Australia v. England,Brisbane Cricket Ground,Australia won by 8 wickets
+239,31/12/1958,1958-1959 Australia v. England,Melbourne Cricket Ground,Australia won by 8 wickets
+240,09/01/1959,1958-1959 Australia v. England,Sydney Cricket Ground,Match Drawn
+241,30/01/1959,1958-1959 Australia v. England,Adelaide Oval,Australia won by 10 wickets
+242,13/02/1959,1958-1959 Australia v. England,Melbourne Cricket Ground,Australia won by 9 wickets
+243,13/11/1959,1959-1960 Pakistan v. Australia,Bangabandhu National Stadium,Australia won by 8 wickets
+244,21/11/1959,1959-1960 Pakistan v. Australia,Gaddafi Stadium,Australia won by 7 wickets
+245,04/12/1959,1959-1960 Pakistan v. Australia,National Stadium (Karachi),Match Drawn
+246,12/12/1959,1959-1960 India v. Australia,Arun Jaitley Stadium,Australia won by an innings and 127 runs
+247,19/12/1959,1959-1960 India v. Australia,Green Park,India won by 119 runs
+248,01/01/1960,1959-1960 India v. Australia,Brabourne Stadium,Match Drawn
+249,13/01/1960,1959-1960 India v. Australia,Nehru Stadium (Chennai),Australia won by an innings and 55 runs
+250,23/01/1960,1959-1960 India v. Australia,Eden Gardens,Match Drawn
+251,09/12/1960,1960-1961 Australia v. West Indies,Brisbane Cricket Ground,Match Tied
+252,30/12/1960,1960-1961 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 7 wickets
+253,13/01/1961,1960-1961 Australia v. West Indies,Sydney Cricket Ground,West Indies won by 222 runs
+254,27/01/1961,1960-1961 Australia v. West Indies,Adelaide Oval,Match Drawn
+255,10/02/1961,1960-1961 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 2 wickets
+256,08/06/1961,1961 England v. Australia,Edgbaston,Match Drawn
+257,22/06/1961,1961 England v. Australia,Lord's,Australia won by 5 wickets
+258,06/07/1961,1961 England v. Australia,Headingley,England won by 8 wickets
+259,27/07/1961,1961 England v. Australia,Old Trafford,Australia won by 54 runs
+260,17/08/1961,1961 England v. Australia,Kennington Oval,Match Drawn
+261,30/11/1962,1962-1963 Australia v. England,Brisbane Cricket Ground,Match Drawn
+262,29/12/1962,1962-1963 Australia v. England,Melbourne Cricket Ground,England won by 7 wickets
+263,11/01/1963,1962-1963 Australia v. England,Sydney Cricket Ground,Australia won by 8 wickets
+264,25/01/1963,1962-1963 Australia v. England,Adelaide Oval,Match Drawn
+265,15/02/1963,1962-1963 Australia v. England,Sydney Cricket Ground,Match Drawn
+266,06/12/1963,1963-1964 Australia v. South Africa,Brisbane Cricket Ground,Match Drawn
+267,01/01/1964,1963-1964 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 8 wickets
+268,10/01/1964,1963-1964 Australia v. South Africa,Sydney Cricket Ground,Match Drawn
+269,24/01/1964,1963-1964 Australia v. South Africa,Adelaide Oval,South Africa won by 10 wickets
+270,07/02/1964,1963-1964 Australia v. South Africa,Sydney Cricket Ground,Match Drawn
+271,04/06/1964,1964 England v. Australia,Trent Bridge,Match Drawn
+272,18/06/1964,1964 England v. Australia,Lord's,Match Drawn
+273,02/07/1964,1964 England v. Australia,Headingley,Australia won by 7 wickets
+274,23/07/1964,1964 England v. Australia,Old Trafford,Match Drawn
+275,13/08/1964,1964 England v. Australia,Kennington Oval,Match Drawn
+276,02/10/1964,1964-1965 India v. Australia,Nehru Stadium (Chennai),Australia won by 139 runs
+277,10/10/1964,1964-1965 India v. Australia,Brabourne Stadium,India won by 2 wickets
+278,17/10/1964,1964-1965 India v. Australia,Eden Gardens,Match Drawn
+279,24/10/1964,1964-1965 Pakistan v. Australia,National Stadium (Karachi),Match Drawn
+280,04/12/1964,1964-1965 Australia v. Pakistan,Melbourne Cricket Ground,Match Drawn
+281,03/03/1965,1964-1965 West Indies v. Australia,Sabina Park,West Indies won by 179 runs
+282,26/03/1965,1964-1965 West Indies v. Australia,Queen's Park Oval,Match Drawn
+283,14/04/1965,1964-1965 West Indies v. Australia,Bourda,West Indies won by 212 runs
+284,05/05/1965,1964-1965 West Indies v. Australia,Kensington Oval,Match Drawn
+285,14/05/1965,1964-1965 West Indies v. Australia,Queen's Park Oval,Australia won by 10 wickets
+286,10/12/1965,1965-1966 Australia v. England,Brisbane Cricket Ground,Match Drawn
+287,30/12/1965,1965-1966 Australia v. England,Melbourne Cricket Ground,Match Drawn
+288,07/01/1966,1965-1966 Australia v. England,Sydney Cricket Ground,England won by an innings and 93 runs
+289,28/01/1966,1965-1966 Australia v. England,Adelaide Oval,Australia won by an innings and 9 runs
+290,11/02/1966,1965-1966 Australia v. England,Melbourne Cricket Ground,Match Drawn
+291,23/12/1966,1966-1967 South Africa v. Australia,Wanderers Stadium,South Africa won by 233 runs
+292,31/12/1966,1966-1967 South Africa v. Australia,Newlands,Australia won by 6 wickets
+293,20/01/1967,1966-1967 South Africa v. Australia,Kingsmead,South Africa won by 8 wickets
+294,03/02/1967,1966-1967 South Africa v. Australia,Wanderers Stadium,Match Drawn
+295,24/02/1967,1966-1967 South Africa v. Australia,St George's Park,South Africa won by 7 wickets
+296,23/12/1967,1967-1968 Australia v. India,Adelaide Oval,Australia won by 146 runs
+297,30/12/1967,1967-1968 Australia v. India,Melbourne Cricket Ground,Australia won by an innings and 4 runs
+298,19/01/1968,1967-1968 Australia v. India,Brisbane Cricket Ground,Australia won by 39 runs
+299,26/01/1968,1967-1968 Australia v. India,Sydney Cricket Ground,Australia won by 144 runs
+300,06/06/1968,1968 England v. Australia,Old Trafford,Australia won by 159 runs
+301,20/06/1968,1968 England v. Australia,Lord's,Match Drawn
+302,11/07/1968,1968 England v. Australia,Edgbaston,Match Drawn
+303,25/07/1968,1968 England v. Australia,Headingley,Match Drawn
+304,22/08/1968,1968 England v. Australia,Kennington Oval,England won by 226 runs
+305,06/12/1968,1968-1969 Australia v. West Indies,Brisbane Cricket Ground,West Indies won by 125 runs
+306,26/12/1968,1968-1969 Australia v. West Indies,Melbourne Cricket Ground,Australia won by an innings and 30 runs
+307,03/01/1969,1968-1969 Australia v. West Indies,Sydney Cricket Ground,Australia won by 10 wickets
+308,24/01/1969,1968-1969 Australia v. West Indies,Adelaide Oval,Match Drawn
+309,14/02/1969,1968-1969 Australia v. West Indies,Sydney Cricket Ground,Australia won by 382 runs
+310,04/11/1969,1969-1970 India v. Australia,Brabourne Stadium,Australia won by 8 wickets
+311,15/11/1969,1969-1970 India v. Australia,Green Park,Match Drawn
+312,28/11/1969,1969-1970 India v. Australia,Arun Jaitley Stadium,India won by 7 wickets
+313,12/12/1969,1969-1970 India v. Australia,Eden Gardens,Australia won by 10 wickets
+314,24/12/1969,1969-1970 India v. Australia,MA Chidambaram Stadium,Australia won by 77 runs
+315,22/01/1970,1969-1970 South Africa v. Australia,Newlands,South Africa won by 170 runs
+316,05/02/1970,1969-1970 South Africa v. Australia,Kingsmead,South Africa won by an innings and 129 runs
+317,19/02/1970,1969-1970 South Africa v. Australia,Wanderers Stadium,South Africa won by 307 runs
+318,05/03/1970,1969-1970 South Africa v. Australia,St George's Park,South Africa won by 323 runs
+319,27/11/1970,1970-1971 Australia v. England,Brisbane Cricket Ground,Match Drawn
+320,11/12/1970,1970-1971 Australia v. England,WACA Ground,Match Drawn
+321,09/01/1971,1970-1971 Australia v. England,Sydney Cricket Ground,England won by 299 runs
+322,21/01/1971,1970-1971 Australia v. England,Melbourne Cricket Ground,Match Drawn
+323,29/01/1971,1970-1971 Australia v. England,Adelaide Oval,Match Drawn
+324,12/02/1971,1970-1971 Australia v. England,Sydney Cricket Ground,England won by 62 runs
+325,08/06/1972,1972 England v. Australia,Old Trafford,England won by 89 runs
+326,22/06/1972,1972 England v. Australia,Lord's,Australia won by 8 wickets
+327,13/07/1972,1972 England v. Australia,Trent Bridge,Match Drawn
+328,27/07/1972,1972 England v. Australia,Headingley,England won by 9 wickets
+329,10/08/1972,1972 England v. Australia,Kennington Oval,Australia won by 5 wickets
+330,22/12/1972,1972-1973 Australia v. Pakistan,Adelaide Oval,Australia won by an innings and 114 runs
+331,29/12/1972,1972-1973 Australia v. Pakistan,Melbourne Cricket Ground,Australia won by 92 runs
+332,06/01/1973,1972-1973 Australia v. Pakistan,Sydney Cricket Ground,Australia won by 52 runs
+333,16/02/1973,1972-1973 West Indies v. Australia,Sabina Park,Match Drawn
+334,09/03/1973,1972-1973 West Indies v. Australia,Kensington Oval,Match Drawn
+335,23/03/1973,1972-1973 West Indies v. Australia,Queen's Park Oval,Australia won by 44 runs
+336,06/04/1973,1972-1973 West Indies v. Australia,Bourda,Australia won by 10 wickets
+337,21/04/1973,1972-1973 West Indies v. Australia,Queen's Park Oval,Match Drawn
+338,29/12/1973,1973-1974 Australia v. New Zealand,Melbourne Cricket Ground,Australia won by an innings and 25 runs
+339,05/01/1974,1973-1974 Australia v. New Zealand,Sydney Cricket Ground,Match Drawn
+340,26/01/1974,1973-1974 Australia v. New Zealand,Adelaide Oval,Australia won by an innings and 57 runs
+341,01/03/1974,1973-1974 New Zealand v. Australia,Basin Reserve,Match Drawn
+342,08/03/1974,1973-1974 New Zealand v. Australia,AMI Stadium,New Zealand won by 5 wickets
+343,22/03/1974,1973-1974 New Zealand v. Australia,Eden Park,Australia won by 297 runs
+344,29/11/1974,1974-1975 Australia v. England,Brisbane Cricket Ground,Australia won by 166 runs
+345,13/12/1974,1974-1975 Australia v. England,WACA Ground,Australia won by 9 wickets
+346,26/12/1974,1974-1975 Australia v. England,Melbourne Cricket Ground,Match Drawn
+347,04/01/1975,1974-1975 Australia v. England,Sydney Cricket Ground,Australia won by 171 runs
+348,25/01/1975,1974-1975 Australia v. England,Adelaide Oval,Australia won by 163 runs
+349,08/02/1975,1974-1975 Australia v. England,Melbourne Cricket Ground,England won by an innings and 4 runs
+350,10/07/1975,1975 England v. Australia,Edgbaston,Australia won by an innings and 85 runs
+351,31/07/1975,1975 England v. Australia,Lord's,Match Drawn
+352,14/08/1975,1975 England v. Australia,Headingley,Match Drawn
+353,28/08/1975,1975 England v. Australia,Kennington Oval,Match Drawn
+354,28/11/1975,1975-1976 Australia v. West Indies,Brisbane Cricket Ground,Australia won by 8 wickets
+355,12/12/1975,1975-1976 Australia v. West Indies,WACA Ground,West Indies won by an innings and 87 runs
+356,26/12/1975,1975-1976 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 8 wickets
+357,03/01/1976,1975-1976 Australia v. West Indies,Sydney Cricket Ground,Australia won by 7 wickets
+358,23/01/1976,1975-1976 Australia v. West Indies,Adelaide Oval,Australia won by 190 runs
+359,31/01/1976,1975-1976 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 165 runs
+360,24/12/1976,1976-1977 Australia v. Pakistan,Adelaide Oval,Match Drawn
+361,01/01/1977,1976-1977 Australia v. Pakistan,Melbourne Cricket Ground,Australia won by 348 runs
+362,14/01/1977,1976-1977 Australia v. Pakistan,Sydney Cricket Ground,Pakistan won by 8 wickets
+363,18/02/1977,1976-1977 New Zealand v. Australia,AMI Stadium,Match Drawn
+364,25/02/1977,1976-1977 New Zealand v. Australia,Eden Park,Australia won by 10 wickets
+365,12/03/1977,1976-1977 Australia v. England,Melbourne Cricket Ground,Australia won by 45 runs
+366,16/06/1977,1977 England v. Australia,Lord's,Match Drawn
+367,07/07/1977,1977 England v. Australia,Old Trafford,England won by 9 wickets
+368,28/07/1977,1977 England v. Australia,Trent Bridge,England won by 7 wickets
+369,11/08/1977,1977 England v. Australia,Headingley,England won by an innings and 85 runs
+370,25/08/1977,1977 England v. Australia,Kennington Oval,Match Drawn
+371,02/12/1977,1977-1978 Australia v. India,Brisbane Cricket Ground,Australia won by 16 runs
+372,16/12/1977,1977-1978 Australia v. India,WACA Ground,Australia won by 2 wickets
+373,30/12/1977,1977-1978 Australia v. India,Melbourne Cricket Ground,India won by 222 runs
+374,07/01/1978,1977-1978 Australia v. India,Sydney Cricket Ground,India won by an innings and 2 runs
+375,28/01/1978,1977-1978 Australia v. India,Adelaide Oval,Australia won by 47 runs
+376,03/03/1978,1977-1978 West Indies v. Australia,Queen's Park Oval,West Indies won by an innings and 106 runs
+377,17/03/1978,1977-1978 West Indies v. Australia,Kensington Oval,West Indies won by 9 wickets
+378,31/03/1978,1977-1978 West Indies v. Australia,Bourda,Australia won by 3 wickets
+379,15/04/1978,1977-1978 West Indies v. Australia,Queen's Park Oval,West Indies won by 198 runs
+380,28/04/1978,1977-1978 West Indies v. Australia,Sabina Park,Match Drawn
+381,01/12/1978,1978-1979 Australia v. England,Brisbane Cricket Ground,England won by 7 wickets
+382,15/12/1978,1978-1979 Australia v. England,WACA Ground,England won by 166 runs
+383,29/12/1978,1978-1979 Australia v. England,Melbourne Cricket Ground,Australia won by 103 runs
+384,06/01/1979,1978-1979 Australia v. England,Sydney Cricket Ground,England won by 93 runs
+385,27/01/1979,1978-1979 Australia v. England,Adelaide Oval,England won by 205 runs
+386,10/02/1979,1978-1979 Australia v. England,Sydney Cricket Ground,England won by 9 wickets
+387,10/03/1979,1978-1979 Australia v. Pakistan,Melbourne Cricket Ground,Pakistan won by 71 runs
+388,24/03/1979,1978-1979 Australia v. Pakistan,WACA Ground,Australia won by 7 wickets
+389,11/09/1979,1979-1980 India v. Australia,MA Chidambaram Stadium,Match Drawn
+390,19/09/1979,1979-1980 India v. Australia,M Chinnaswamy Stadium,Match Drawn
+391,02/10/1979,1979-1980 India v. Australia,Green Park,India won by 153 runs
+392,13/10/1979,1979-1980 India v. Australia,Arun Jaitley Stadium,Match Drawn
+393,26/10/1979,1979-1980 India v. Australia,Eden Gardens,Match Drawn
+394,03/11/1979,1979-1980 India v. Australia,Wankhede Stadium,India won by an innings and 100 runs
+395,01/12/1979,1979-1980 Australia v. West Indies,Brisbane Cricket Ground,Match Drawn
+396,29/12/1979,1979-1980 Australia v. West Indies,Melbourne Cricket Ground,West Indies won by 10 wickets
+397,26/01/1980,1979-1980 Australia v. West Indies,Adelaide Oval,West Indies won by 408 runs
+398,14/12/1979,1979-1980 Australia v. England,WACA Ground,Australia won by 138 runs
+399,04/01/1980,1979-1980 Australia v. England,Sydney Cricket Ground,Australia won by 6 wickets
+400,01/02/1980,1979-1980 Australia v. England,Melbourne Cricket Ground,Australia won by 8 wickets
+401,27/02/1980,1979-1980 Pakistan v. Australia,National Stadium (Karachi),Pakistan won by 7 wickets
+402,06/03/1980,1979-1980 Pakistan v. Australia,Iqbal Stadium,Match Drawn
+403,18/03/1980,1979-1980 Pakistan v. Australia,Gaddafi Stadium,Match Drawn
+404,28/08/1980,1980 England v. Australia,Lord's,Match Drawn
+405,28/11/1980,1980-1981 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by 10 wickets
+406,12/12/1980,1980-1981 Australia v. New Zealand,WACA Ground,Australia won by 8 wickets
+407,26/12/1980,1980-1981 Australia v. New Zealand,Melbourne Cricket Ground,Match Drawn
+408,02/01/1981,1980-1981 Australia v. India,Sydney Cricket Ground,Australia won by an innings and 4 runs
+409,23/01/1981,1980-1981 Australia v. India,Adelaide Oval,Match Drawn
+410,07/02/1981,1980-1981 Australia v. India,Melbourne Cricket Ground,India won by 59 runs
+411,18/06/1981,1981 England v. Australia,Trent Bridge,Australia won by 4 wickets
+412,02/07/1981,1981 England v. Australia,Lord's,Match Drawn
+413,16/07/1981,1981 England v. Australia,Headingley,England won by 18 runs
+414,30/07/1981,1981 England v. Australia,Edgbaston,England won by 29 runs
+415,13/08/1981,1981 England v. Australia,Old Trafford,England won by 103 runs
+416,27/08/1981,1981 England v. Australia,Kennington Oval,Match Drawn
+417,13/11/1981,1981-1982 Australia v. Pakistan,WACA Ground,Australia won by 286 runs
+418,27/11/1981,1981-1982 Australia v. Pakistan,Brisbane Cricket Ground,Australia won by 10 wickets
+419,11/12/1981,1981-1982 Australia v. Pakistan,Melbourne Cricket Ground,Pakistan won by an innings and 82 runs
+420,26/12/1981,1981-1982 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 58 runs
+421,02/01/1982,1981-1982 Australia v. West Indies,Sydney Cricket Ground,Match Drawn
+422,30/01/1982,1981-1982 Australia v. West Indies,Adelaide Oval,West Indies won by 5 wickets
+423,26/02/1982,1981-1982 New Zealand v. Australia,Basin Reserve,Match Drawn
+424,12/03/1982,1981-1982 New Zealand v. Australia,Eden Park,New Zealand won by 5 wickets
+425,19/03/1982,1981-1982 New Zealand v. Australia,AMI Stadium,Australia won by 8 wickets
+426,22/09/1982,1982-1983 Pakistan v. Australia,National Stadium (Karachi),Pakistan won by 9 wickets
+427,30/09/1982,1982-1983 Pakistan v. Australia,Iqbal Stadium,Pakistan won by an innings and 3 runs
+428,14/10/1982,1982-1983 Pakistan v. Australia,Gaddafi Stadium,Pakistan won by 9 wickets
+429,12/11/1982,1982-1983 Australia v. England,WACA Ground,Match Drawn
+430,26/11/1982,1982-1983 Australia v. England,Brisbane Cricket Ground,Australia won by 7 wickets
+431,10/12/1982,1982-1983 Australia v. England,Adelaide Oval,Australia won by 8 wickets
+432,26/12/1982,1982-1983 Australia v. England,Melbourne Cricket Ground,England won by 3 runs
+433,02/01/1983,1982-1983 Australia v. England,Sydney Cricket Ground,Match Drawn
+434,22/04/1983,1982-1983 Sri Lanka v. Australia,Asgiriya Stadium,Australia won by an innings and 38 runs
+435,11/11/1983,1983-1984 Australia v. Pakistan,WACA Ground,Australia won by an innings and 9 runs
+436,25/11/1983,1983-1984 Australia v. Pakistan,Brisbane Cricket Ground,Match Drawn
+437,09/12/1983,1983-1984 Australia v. Pakistan,Adelaide Oval,Match Drawn
+438,26/12/1983,1983-1984 Australia v. Pakistan,Melbourne Cricket Ground,Match Drawn
+439,02/01/1984,1983-1984 Australia v. Pakistan,Sydney Cricket Ground,Australia won by 10 wickets
+440,02/03/1984,1983-1984 West Indies v. Australia,Bourda,Match Drawn
+441,16/03/1984,1983-1984 West Indies v. Australia,Queen's Park Oval,Match Drawn
+442,30/03/1984,1983-1984 West Indies v. Australia,Kensington Oval,West Indies won by 10 wickets
+443,07/04/1984,1983-1984 West Indies v. Australia,Antigua Recreation Ground,West Indies won by an innings and 36 runs
+444,28/04/1984,1983-1984 West Indies v. Australia,Sabina Park,West Indies won by 10 wickets
+445,09/11/1984,1984-1985 Australia v. West Indies,WACA Ground,West Indies won by an innings and 112 runs
+446,23/11/1984,1984-1985 Australia v. West Indies,Brisbane Cricket Ground,West Indies won by 8 wickets
+447,07/12/1984,1984-1985 Australia v. West Indies,Adelaide Oval,West Indies won by 191 runs
+448,22/12/1984,1984-1985 Australia v. West Indies,Melbourne Cricket Ground,Match Drawn
+449,30/12/1984,1984-1985 Australia v. West Indies,Sydney Cricket Ground,Australia won by an innings and 55 runs
+450,13/06/1985,1985 England v. Australia,Headingley,England won by 5 wickets
+451,27/06/1985,1985 England v. Australia,Lord's,Australia won by 4 wickets
+452,11/07/1985,1985 England v. Australia,Trent Bridge,Match Drawn
+453,01/08/1985,1985 England v. Australia,Old Trafford,Match Drawn
+454,15/08/1985,1985 England v. Australia,Edgbaston,England won by an innings and 118 runs
+455,29/08/1985,1985 England v. Australia,Kennington Oval,England won by an innings and 94 runs
+456,08/11/1985,1985-1986 Australia v. New Zealand,Brisbane Cricket Ground,New Zealand won by an innings and 41 runs
+457,22/11/1985,1985-1986 Australia v. New Zealand,Sydney Cricket Ground,Australia won by 4 wickets
+458,30/11/1985,1985-1986 Australia v. New Zealand,WACA Ground,New Zealand won by 6 wickets
+459,13/12/1985,1985-1986 Australia v. India,Adelaide Oval,Match Drawn
+460,26/12/1985,1985-1986 Australia v. India,Melbourne Cricket Ground,Match Drawn
+461,02/01/1986,1985-1986 Australia v. India,Sydney Cricket Ground,Match Drawn
+462,21/02/1986,1985-1986 New Zealand v. Australia,Basin Reserve,Match Drawn
+463,28/02/1986,1985-1986 New Zealand v. Australia,AMI Stadium,Match Drawn
+464,13/03/1986,1985-1986 New Zealand v. Australia,Eden Park,New Zealand won by 8 wickets
+465,18/09/1986,1986-1987 India v. Australia,MA Chidambaram Stadium,Match Tied
+466,26/09/1986,1986-1987 India v. Australia,Arun Jaitley Stadium,Match Drawn
+467,15/10/1986,1986-1987 India v. Australia,Wankhede Stadium,Match Drawn
+468,14/11/1986,1986-1987 Australia v. England,Brisbane Cricket Ground,England won by 7 wickets
+469,28/11/1986,1986-1987 Australia v. England,WACA Ground,Match Drawn
+470,12/12/1986,1986-1987 Australia v. England,Adelaide Oval,Match Drawn
+471,26/12/1986,1986-1987 Australia v. England,Melbourne Cricket Ground,England won by an innings and 14 runs
+472,10/01/1987,1986-1987 Australia v. England,Sydney Cricket Ground,Australia won by 55 runs
+473,04/12/1987,1987-1988 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by 9 wickets
+474,11/12/1987,1987-1988 Australia v. New Zealand,Adelaide Oval,Match Drawn
+475,26/12/1987,1987-1988 Australia v. New Zealand,Melbourne Cricket Ground,Match Drawn
+476,29/01/1988,1987-1988 Australia v. England,Sydney Cricket Ground,Match Drawn
+477,12/02/1988,1987-1988 Australia v. Sri Lanka,WACA Ground,Australia won by an innings and 108 runs
+478,15/09/1988,1988-1989 Pakistan v. Australia,National Stadium (Karachi),Pakistan won by an innings and 188 runs
+479,23/09/1988,1988-1989 Pakistan v. Australia,Iqbal Stadium,Match Drawn
+480,07/10/1988,1988-1989 Pakistan v. Australia,Gaddafi Stadium,Match Drawn
+481,18/11/1988,1988-1989 Australia v. West Indies,Brisbane Cricket Ground,West Indies won by 9 wickets
+482,02/12/1988,1988-1989 Australia v. West Indies,WACA Ground,West Indies won by 169 runs
+483,24/12/1988,1988-1989 Australia v. West Indies,Melbourne Cricket Ground,West Indies won by 285 runs
+484,26/01/1989,1988-1989 Australia v. West Indies,Sydney Cricket Ground,Australia won by 7 wickets
+485,03/02/1989,1988-1989 Australia v. West Indies,Adelaide Oval,Match Drawn
+486,08/06/1989,1989 England v. Australia,Headingley,Australia won by 210 runs
+487,22/06/1989,1989 England v. Australia,Lord's,Australia won by 6 wickets
+488,06/07/1989,1989 England v. Australia,Edgbaston,Match Drawn
+489,27/07/1989,1989 England v. Australia,Old Trafford,Australia won by 9 wickets
+490,10/08/1989,1989 England v. Australia,Trent Bridge,Australia won by an innings and 180 runs
+491,24/08/1989,1989 England v. Australia,Kennington Oval,Match Drawn
+492,24/11/1989,1989-1990 Australia v. New Zealand,WACA Ground,Match Drawn
+493,08/12/1989,1989-1990 Australia v. Sri Lanka,Brisbane Cricket Ground,Match Drawn
+494,16/12/1989,1989-1990 Australia v. Sri Lanka,Bellerive Oval,Australia won by 173 runs
+495,12/01/1990,1989-1990 Australia v. Pakistan,Melbourne Cricket Ground,Australia won by 92 runs
+496,19/01/1990,1989-1990 Australia v. Pakistan,Adelaide Oval,Match Drawn
+497,03/02/1990,1989-1990 Australia v. Pakistan,Sydney Cricket Ground,Match Drawn
+498,15/03/1990,1989-1990 New Zealand v. Australia,Basin Reserve,New Zealand won by 9 wickets
+499,23/11/1990,1990-1991 Australia v. England,Brisbane Cricket Ground,Australia won by 10 wickets
+500,26/12/1990,1990-1991 Australia v. England,Melbourne Cricket Ground,Australia won by 8 wickets
+501,04/01/1991,1990-1991 Australia v. England,Sydney Cricket Ground,Match Drawn
+502,25/01/1991,1990-1991 Australia v. England,Adelaide Oval,Match Drawn
+503,01/02/1991,1990-1991 Australia v. England,WACA Ground,Australia won by 9 wickets
+504,01/03/1991,1990-1991 West Indies v. Australia,Sabina Park,Match Drawn
+505,23/03/1991,1990-1991 West Indies v. Australia,Bourda,West Indies won by 10 wickets
+506,05/04/1991,1990-1991 West Indies v. Australia,Queen's Park Oval,Match Drawn
+507,19/04/1991,1990-1991 West Indies v. Australia,Kensington Oval,West Indies won by 343 runs
+508,27/04/1991,1990-1991 West Indies v. Australia,Antigua Recreation Ground,Australia won by 157 runs
+509,29/11/1991,1991-1992 Australia v. India,Brisbane Cricket Ground,Australia won by 10 wickets
+510,26/12/1991,1991-1992 Australia v. India,Melbourne Cricket Ground,Australia won by 8 wickets
+511,02/01/1992,1991-1992 Australia v. India,Sydney Cricket Ground,Match Drawn
+512,25/01/1992,1991-1992 Australia v. India,Adelaide Oval,Australia won by 38 runs
+513,01/02/1992,1991-1992 Australia v. India,WACA Ground,Australia won by 300 runs
+514,17/08/1992,1992-1993 Sri Lanka v. Australia,Sinhalese Sports Club Ground,Australia won by 16 runs
+515,28/08/1992,1992-1993 Sri Lanka v. Australia,R Premadasa Stadium,Match Drawn
+516,08/09/1992,1992-1993 Sri Lanka v. Australia,Tyronne Fernando Stadium,Match Drawn
+517,27/11/1992,1992-1993 Australia v. West Indies,Brisbane Cricket Ground,Match Drawn
+518,26/12/1992,1992-1993 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 139 runs
+519,02/01/1993,1992-1993 Australia v. West Indies,Sydney Cricket Ground,Match Drawn
+520,23/01/1993,1992-1993 Australia v. West Indies,Adelaide Oval,West Indies won by 1 run
+521,30/01/1993,1992-1993 Australia v. West Indies,WACA Ground,West Indies won by an innings and 25 runs
+522,25/02/1993,1992-1993 New Zealand v. Australia,AMI Stadium,Australia won by an innings and 60 runs
+523,04/03/1993,1992-1993 New Zealand v. Australia,Basin Reserve,Match Drawn
+524,12/03/1993,1992-1993 New Zealand v. Australia,Eden Park,New Zealand won by 5 wickets
+525,03/06/1993,1993 England v. Australia,Old Trafford,Australia won by 179 runs
+526,17/06/1993,1993 England v. Australia,Lord's,Australia won by an innings and 62 runs
+527,01/07/1993,1993 England v. Australia,Trent Bridge,Match Drawn
+528,22/07/1993,1993 England v. Australia,Headingley,Australia won by an innings and 148 runs
+529,05/08/1993,1993 England v. Australia,Edgbaston,Australia won by 8 wickets
+530,19/08/1993,1993 England v. Australia,Kennington Oval,England won by 161 runs
+531,12/11/1993,1993-1994 Australia v. New Zealand,WACA Ground,Match Drawn
+532,26/11/1993,1993-1994 Australia v. New Zealand,Bellerive Oval,Australia won by an innings and 222 runs
+533,03/12/1993,1993-1994 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by an innings and 96 runs
+534,26/12/1993,1993-1994 Australia v. South Africa,Melbourne Cricket Ground,Match Drawn
+535,02/01/1994,1993-1994 Australia v. South Africa,Sydney Cricket Ground,South Africa won by 5 runs
+536,28/01/1994,1993-1994 Australia v. South Africa,Adelaide Oval,Australia won by 191 runs
+537,04/03/1994,1993-1994 South Africa v. Australia,Wanderers Stadium,South Africa won by 197 runs
+538,17/03/1994,1993-1994 South Africa v. Australia,Newlands,Australia won by 9 wickets
+539,25/03/1994,1993-1994 South Africa v. Australia,Kingsmead,Match Drawn
+540,28/09/1994,1994-1995 Pakistan v. Australia,National Stadium (Karachi),Pakistan won by 1 wicket
+541,05/10/1994,1994-1995 Pakistan v. Australia,Rawalpindi Cricket Stadium,Match Drawn
+542,01/11/1994,1994-1995 Pakistan v. Australia,Gaddafi Stadium,Match Drawn
+543,25/11/1994,1994-1995 Australia v. England,Brisbane Cricket Ground,Australia won by 184 runs
+544,24/12/1994,1994-1995 Australia v. England,Melbourne Cricket Ground,Australia won by 295 runs
+545,01/01/1995,1994-1995 Australia v. England,Sydney Cricket Ground,Match Drawn
+546,26/01/1995,1994-1995 Australia v. England,Adelaide Oval,England won by 106 runs
+547,03/02/1995,1994-1995 Australia v. England,WACA Ground,Australia won by 329 runs
+548,31/03/1995,1994-1995 West Indies v. Australia,Kensington Oval,Australia won by 10 wickets
+549,08/04/1995,1994-1995 West Indies v. Australia,Antigua Recreation Ground,Match Drawn
+550,21/04/1995,1994-1995 West Indies v. Australia,Queen's Park Oval,West Indies won by 9 wickets
+551,29/04/1995,1994-1995 West Indies v. Australia,Sabina Park,Australia won by an innings and 53 runs
+552,09/11/1995,1995-1996 Australia v. Pakistan,Brisbane Cricket Ground,Australia won by an innings and 126 runs
+553,17/11/1995,1995-1996 Australia v. Pakistan,Bellerive Oval,Australia won by 155 runs
+554,30/11/1995,1995-1996 Australia v. Pakistan,Sydney Cricket Ground,Pakistan won by 74 runs
+555,08/12/1995,1995-1996 Australia v. Sri Lanka,WACA Ground,Australia won by an innings and 36 runs
+556,26/12/1995,1995-1996 Australia v. Sri Lanka,Melbourne Cricket Ground,Australia won by 10 wickets
+557,25/01/1996,1995-1996 Australia v. Sri Lanka,Adelaide Oval,Australia won by 148 runs
+558,10/10/1996,1996-1997 India v. Australia,Arun Jaitley Stadium,India won by 7 wickets
+559,22/11/1996,1996-1997 Australia v. West Indies,Brisbane Cricket Ground,Australia won by 123 runs
+560,29/11/1996,1996-1997 Australia v. West Indies,Sydney Cricket Ground,Australia won by 124 runs
+561,26/12/1996,1996-1997 Australia v. West Indies,Melbourne Cricket Ground,West Indies won by 6 wickets
+562,25/01/1997,1996-1997 Australia v. West Indies,Adelaide Oval,Australia won by an innings and 183 runs
+563,01/02/1997,1996-1997 Australia v. West Indies,WACA Ground,West Indies won by 10 wickets
+564,28/02/1997,1996-1997 South Africa v. Australia,Wanderers Stadium,Australia won by an innings and 196 runs
+565,14/03/1997,1996-1997 South Africa v. Australia,St George's Park,Australia won by 2 wickets
+566,21/03/1997,1996-1997 South Africa v. Australia,SuperSport Park,South Africa won by 8 wickets
+567,05/06/1997,1997 England v. Australia,Edgbaston,England won by 9 wickets
+568,19/06/1997,1997 England v. Australia,Lord's,Match Drawn
+569,03/07/1997,1997 England v. Australia,Old Trafford,Australia won by 268 runs
+570,24/07/1997,1997 England v. Australia,Headingley,Australia won by an innings and 61 runs
+571,07/08/1997,1997 England v. Australia,Trent Bridge,Australia won by 264 runs
+572,21/08/1997,1997 England v. Australia,Kennington Oval,England won by 19 runs
+573,07/11/1997,1997-1998 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by 186 runs
+574,20/11/1997,1997-1998 Australia v. New Zealand,WACA Ground,Australia won by an innings and 70 runs
+575,27/11/1997,1997-1998 Australia v. New Zealand,Bellerive Oval,Match Drawn
+576,26/12/1997,1997-1998 Australia v. South Africa,Melbourne Cricket Ground,Match Drawn
+577,02/01/1998,1997-1998 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 21 runs
+578,30/01/1998,1997-1998 Australia v. South Africa,Adelaide Oval,Match Drawn
+579,06/03/1998,1997-1998 India v. Australia,MA Chidambaram Stadium,India won by 179 runs
+580,18/03/1998,1997-1998 India v. Australia,Eden Gardens,India won by an innings and 219 runs
+581,25/03/1998,1997-1998 India v. Australia,M Chinnaswamy Stadium,Australia won by 8 wickets
+582,01/10/1998,1998-1999 Pakistan v. Australia,Rawalpindi Cricket Stadium,Australia won by an innings and 99 runs
+583,15/10/1998,1998-1999 Pakistan v. Australia,Arbab Niaz Stadium,Match Drawn
+584,22/10/1998,1998-1999 Pakistan v. Australia,National Stadium (Karachi),Match Drawn
+585,20/11/1998,1998-1999 Australia v. England,Brisbane Cricket Ground,Match Drawn
+586,28/11/1998,1998-1999 Australia v. England,WACA Ground,Australia won by 7 wickets
+587,11/12/1998,1998-1999 Australia v. England,Adelaide Oval,Australia won by 205 runs
+588,26/12/1998,1998-1999 Australia v. England,Melbourne Cricket Ground,England won by 12 runs
+589,02/01/1999,1998-1999 Australia v. England,Sydney Cricket Ground,Australia won by 98 runs
+590,05/03/1999,1998-1999 West Indies v. Australia,Queen's Park Oval,Australia won by 312 runs
+591,13/03/1999,1998-1999 West Indies v. Australia,Sabina Park,West Indies won by 10 wickets
+592,26/03/1999,1998-1999 West Indies v. Australia,Kensington Oval,West Indies won by 1 wicket
+593,03/04/1999,1998-1999 West Indies v. Australia,Antigua Recreation Ground,Australia won by 176 runs
+594,09/09/1999,1999-2000 Sri Lanka v. Australia,Asgiriya Stadium,Sri Lanka won by 6 wickets
+595,22/09/1999,1999-2000 Sri Lanka v. Australia,Galle International Stadium,Match Drawn
+596,30/09/1999,1999-2000 Sri Lanka v. Australia,Sinhalese Sports Club Ground,Match Drawn
+597,14/10/1999,1999-2000 Zimbabwe v. Australia,Harare Sports Club,Australia won by 10 wickets
+598,05/11/1999,1999-2000 Australia v. Pakistan,Brisbane Cricket Ground,Australia won by 10 wickets
+599,18/11/1999,1999-2000 Australia v. Pakistan,Bellerive Oval,Australia won by 4 wickets
+600,26/11/1999,1999-2000 Australia v. Pakistan,WACA Ground,Australia won by an innings and 20 runs
+601,10/12/1999,1999-2000 Australia v. India,Adelaide Oval,Australia won by 285 runs
+602,26/12/1999,1999-2000 Australia v. India,Melbourne Cricket Ground,Australia won by 180 runs
+603,02/01/2000,1999-2000 Australia v. India,Sydney Cricket Ground,Australia won by an innings and 141 runs
+604,11/03/2000,1999-2000 New Zealand v. Australia,Eden Park,Australia won by 62 runs
+605,24/03/2000,1999-2000 New Zealand v. Australia,Basin Reserve,Australia won by 6 wickets
+606,31/03/2000,1999-2000 New Zealand v. Australia,Seddon Park,Australia won by 6 wickets
+607,23/11/2000,2000-2001 Australia v. West Indies,Brisbane Cricket Ground,Australia won by an innings and 126 runs
+608,01/12/2000,2000-2001 Australia v. West Indies,WACA Ground,Australia won by an innings and 27 runs
+609,15/12/2000,2000-2001 Australia v. West Indies,Adelaide Oval,Australia won by 5 wickets
+610,26/12/2000,2000-2001 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 352 runs
+611,02/01/2001,2000-2001 Australia v. West Indies,Sydney Cricket Ground,Australia won by 6 wickets
+612,27/02/2001,2000-2001 India v. Australia,Wankhede Stadium,Australia won by 10 wickets
+613,11/03/2001,2000-2001 India v. Australia,Eden Gardens,India won by 171 runs
+614,18/03/2001,2000-2001 India v. Australia,MA Chidambaram Stadium,India won by 2 wickets
+615,05/07/2001,2001 England v. Australia,Edgbaston,Australia won by an innings and 118 runs
+616,19/07/2001,2001 England v. Australia,Lord's,Australia won by 8 wickets
+617,02/08/2001,2001 England v. Australia,Trent Bridge,Australia won by 7 wickets
+618,16/08/2001,2001 England v. Australia,Headingley,England won by 6 wickets
+619,23/08/2001,2001 England v. Australia,Kennington Oval,Australia won by an innings and 25 runs
+620,08/11/2001,2001-2002 Australia v. New Zealand,Brisbane Cricket Ground,Match Drawn
+621,22/11/2001,2001-2002 Australia v. New Zealand,Bellerive Oval,Match Drawn
+622,30/11/2001,2001-2002 Australia v. New Zealand,WACA Ground,Match Drawn
+623,14/12/2001,2001-2002 Australia v. South Africa,Adelaide Oval,Australia won by 246 runs
+624,26/12/2001,2001-2002 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 9 wickets
+625,02/01/2002,2001-2002 Australia v. South Africa,Sydney Cricket Ground,Australia won by 10 wickets
+626,22/02/2002,2001-2002 South Africa v. Australia,Wanderers Stadium,Australia won by an innings and 360 runs
+627,08/03/2002,2001-2002 South Africa v. Australia,Newlands,Australia won by 4 wickets
+628,15/03/2002,2001-2002 South Africa v. Australia,Kingsmead,South Africa won by 5 wickets
+629,03/10/2002,2002-2003 Pakistan v. Australia,P Sara Oval,Australia won by 41 runs
+630,11/10/2002,2002-2003 Pakistan v. Australia,Sharjah Cricket Stadium,Australia won by an innings and 198 runs
+631,19/10/2002,2002-2003 Pakistan v. Australia,Sharjah Cricket Stadium,Australia won by an innings and 20 runs
+632,07/11/2002,2002-2003 Australia v. England,Brisbane Cricket Ground,Australia won by 384 runs
+633,21/11/2002,2002-2003 Australia v. England,Adelaide Oval,Australia won by an innings and 51 runs
+634,29/11/2002,2002-2003 Australia v. England,WACA Ground,Australia won by an innings and 48 runs
+635,26/12/2002,2002-2003 Australia v. England,Melbourne Cricket Ground,Australia won by 5 wickets
+636,02/01/2003,2002-2003 Australia v. England,Sydney Cricket Ground,England won by 225 runs
+637,10/04/2003,2002-2003 West Indies v. Australia,Bourda,Australia won by 9 wickets
+638,19/04/2003,2002-2003 West Indies v. Australia,Queen's Park Oval,Australia won by 118 runs
+639,01/05/2003,2002-2003 West Indies v. Australia,Kensington Oval,Australia won by 9 wickets
+640,09/05/2003,2002-2003 West Indies v. Australia,Antigua Recreation Ground,West Indies won by 3 wickets
+641,18/07/2003,2003-2004 Australia v. Bangladesh,Marrara Cricket Ground,Australia won by an innings and 132 runs
+642,25/07/2003,2003-2004 Australia v. Bangladesh,Cazaly's Stadium,Australia won by an innings and 98 runs
+643,09/10/2003,2003-2004 Australia v. Zimbabwe,WACA Ground,Australia won by an innings and 175 runs
+644,17/10/2003,2003-2004 Australia v. Zimbabwe,Sydney Cricket Ground,Australia won by 9 wickets
+645,04/12/2003,2003-2004 Australia v. India,Brisbane Cricket Ground,Match Drawn
+646,12/12/2003,2003-2004 Australia v. India,Adelaide Oval,India won by 4 wickets
+647,26/12/2003,2003-2004 Australia v. India,Melbourne Cricket Ground,Australia won by 9 wickets
+648,02/01/2004,2003-2004 Australia v. India,Sydney Cricket Ground,Match Drawn
+649,08/03/2004,2003-2004 Sri Lanka v. Australia,Galle International Stadium,Australia won by 197 runs
+650,16/03/2004,2003-2004 Sri Lanka v. Australia,Asgiriya Stadium,Australia won by 27 runs
+651,24/03/2004,2003-2004 Sri Lanka v. Australia,Sinhalese Sports Club Ground,Australia won by 121 runs
+652,01/07/2004,2004-2005 Australia v. Sri Lanka,Marrara Cricket Ground,Australia won by 149 runs
+653,09/07/2004,2004-2005 Australia v. Sri Lanka,Cazaly's Stadium,Match Drawn
+654,06/10/2004,2004-2005 India v. Australia,M Chinnaswamy Stadium,Australia won by 217 runs
+655,14/10/2004,2004-2005 India v. Australia,MA Chidambaram Stadium,Match Drawn
+656,26/10/2004,2004-2005 India v. Australia,Vidarbha Cricket Association Ground,Australia won by 342 runs
+657,03/11/2004,2004-2005 India v. Australia,Wankhede Stadium,India won by 13 runs
+658,18/11/2004,2004-2005 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by an innings and 156 runs
+659,26/11/2004,2004-2005 Australia v. New Zealand,Adelaide Oval,Australia won by 213 runs
+660,16/12/2004,2004-2005 Australia v. Pakistan,WACA Ground,Australia won by 491 runs
+661,26/12/2004,2004-2005 Australia v. Pakistan,Melbourne Cricket Ground,Australia won by 9 wickets
+662,02/01/2005,2004-2005 Australia v. Pakistan,Sydney Cricket Ground,Australia won by 9 wickets
+663,10/03/2005,2004-2005 New Zealand v. Australia,AMI Stadium,Australia won by 9 wickets
+664,18/03/2005,2004-2005 New Zealand v. Australia,Basin Reserve,Match Drawn
+665,26/03/2005,2004-2005 New Zealand v. Australia,Eden Park,Australia won by 9 wickets
+666,21/07/2005,2005 England v. Australia,Lord's,Australia won by 239 runs
+667,04/08/2005,2005 England v. Australia,Edgbaston,England won by 2 runs
+668,11/08/2005,2005 England v. Australia,Old Trafford,Match Drawn
+669,25/08/2005,2005 England v. Australia,Trent Bridge,England won by 3 wickets
+670,08/09/2005,2005 England v. Australia,Kennington Oval,Match Drawn
+671,14/10/2005,2005-2006 Australia v. ICC World XI,Sydney Cricket Ground,Australia won by 210 runs
+672,03/11/2005,2005-2006 Australia v. West Indies,Brisbane Cricket Ground,Australia won by 379 runs
+673,17/11/2005,2005-2006 Australia v. West Indies,Bellerive Oval,Australia won by 9 wickets
+674,25/11/2005,2005-2006 Australia v. West Indies,Adelaide Oval,Australia won by 7 wickets
+675,16/12/2005,2005-2006 Australia v. South Africa,WACA Ground,Match Drawn
+676,26/12/2005,2005-2006 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 184 runs
+677,02/01/2006,2005-2006 Australia v. South Africa,Sydney Cricket Ground,Australia won by 8 wickets
+678,16/03/2006,2005-2006 South Africa v. Australia,Newlands,Australia won by 7 wickets
+679,24/03/2006,2005-2006 South Africa v. Australia,Kingsmead,Australia won by 112 runs
+680,31/03/2006,2005-2006 South Africa v. Australia,Wanderers Stadium,Australia won by 2 wickets
+681,09/04/2006,2005-2006 Bangladesh v. Australia,Khan Shaheb Osman Ali Stadium,Australia won by 3 wickets
+682,16/04/2006,2005-2006 Bangladesh v. Australia,Zahur Ahmed Chowdhury Stadium,Australia won by an innings and 80 runs
+683,23/11/2006,2006-2007 Australia v. England,Brisbane Cricket Ground,Australia won by 277 runs
+684,01/12/2006,2006-2007 Australia v. England,Adelaide Oval,Australia won by 6 wickets
+685,14/12/2006,2006-2007 Australia v. England,WACA Ground,Australia won by 206 runs
+686,26/12/2006,2006-2007 Australia v. England,Melbourne Cricket Ground,Australia won by an innings and 99 runs
+687,02/01/2007,2006-2007 Australia v. England,Sydney Cricket Ground,Australia won by 10 wickets
+688,08/11/2007,2007-2008 Australia v. Sri Lanka,Brisbane Cricket Ground,Australia won by an innings and 40 runs
+689,16/11/2007,2007-2008 Australia v. Sri Lanka,Bellerive Oval,Australia won by 96 runs
+690,26/12/2007,2007-2008 Australia v. India,Melbourne Cricket Ground,Australia won by 337 runs
+691,02/01/2008,2007-2008 Australia v. India,Sydney Cricket Ground,Australia won by 122 runs
+692,16/01/2008,2007-2008 Australia v. India,WACA Ground,India won by 72 runs
+693,24/01/2008,2007-2008 Australia v. India,Adelaide Oval,Match Drawn
+694,22/05/2008,2007-2008 West Indies v. Australia,Sabina Park,Australia won by 95 runs
+695,30/05/2008,2007-2008 West Indies v. Australia,Sir Vivian Richards Stadium,Match Drawn
+696,12/06/2008,2007-2008 West Indies v. Australia,Kensington Oval,Australia won by 87 runs
+697,09/10/2008,2008-2009 India v. Australia,M Chinnaswamy Stadium,Match Drawn
+698,17/10/2008,2008-2009 India v. Australia,Punjab Cricket Association IS Bindra Stadium,India won by 320 runs
+699,29/10/2008,2008-2009 India v. Australia,Arun Jaitley Stadium,Match Drawn
+700,06/11/2008,2008-2009 India v. Australia,Vidarbha Cricket Association Stadium,India won by 172 runs
+701,20/11/2008,2008-2009 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by 149 runs
+702,28/11/2008,2008-2009 Australia v. New Zealand,Adelaide Oval,Australia won by an innings and 62 runs
+703,17/12/2008,2008-2009 Australia v. South Africa,WACA Ground,South Africa won by 6 wickets
+704,26/12/2008,2008-2009 Australia v. South Africa,Melbourne Cricket Ground,South Africa won by 9 wickets
+705,03/01/2009,2008-2009 Australia v. South Africa,Sydney Cricket Ground,Australia won by 103 runs
+706,26/02/2009,2008-2009 South Africa v. Australia,Wanderers Stadium,Australia won by 162 runs
+707,06/03/2009,2008-2009 South Africa v. Australia,Kingsmead,Australia won by 175 runs
+708,19/03/2009,2008-2009 South Africa v. Australia,Newlands,South Africa won by an innings and 20 runs
+709,08/07/2009,2009 England v. Australia,Sophia Gardens,Match Drawn
+710,16/07/2009,2009 England v. Australia,Lord's,England won by 115 runs
+711,30/07/2009,2009 England v. Australia,Edgbaston,Match Drawn
+712,07/08/2009,2009 England v. Australia,Headingley,Australia won by an innings and 80 runs
+713,19/08/2009,2009 England v. Australia,Kennington Oval,England won by 197 runs
+714,26/11/2009,2009-2010 Australia v. West Indies,Brisbane Cricket Ground,Australia won by an innings and 65 runs
+715,04/12/2009,2009-2010 Australia v. West Indies,Adelaide Oval,Match Drawn
+716,16/12/2009,2009-2010 Australia v. West Indies,WACA Ground,Australia won by 35 runs
+717,26/12/2009,2009-2010 Australia v. Pakistan,Melbourne Cricket Ground,Australia won by 170 runs
+718,03/01/2010,2009-2010 Australia v. Pakistan,Sydney Cricket Ground,Australia won by 36 runs
+719,14/01/2010,2009-2010 Australia v. Pakistan,Bellerive Oval,Australia won by 231 runs
+720,19/03/2010,2009-2010 New Zealand v. Australia,Basin Reserve,Australia won by 10 wickets
+721,27/03/2010,2009-2010 New Zealand v. Australia,Seddon Park,Australia won by 176 runs
+722,13/07/2010,2010-2011 Pakistan v. Australia,Lord's,Australia won by 150 runs
+723,21/07/2010,2010-2011 Pakistan v. Australia,Headingley,Pakistan won by 3 wickets
+724,01/10/2010,2010-2011 India v. Australia,Punjab Cricket Association IS Bindra Stadium,India won by 1 wicket
+725,09/10/2010,2010-2011 India v. Australia,M Chinnaswamy Stadium,India won by 7 wickets
+726,25/11/2010,2010-2011 Australia v. England,Brisbane Cricket Ground,Match Drawn
+727,03/12/2010,2010-2011 Australia v. England,Adelaide Oval,England won by an innings and 71 runs
+728,16/12/2010,2010-2011 Australia v. England,WACA Ground,Australia won by 267 runs
+729,26/12/2010,2010-2011 Australia v. England,Melbourne Cricket Ground,England won by an innings and 157 runs
+730,03/01/2011,2010-2011 Australia v. England,Sydney Cricket Ground,England won by an innings and 83 runs
+731,31/08/2011,2011-2012 Sri Lanka v. Australia,Galle International Stadium,Australia won by 125 runs
+732,08/09/2011,2011-2012 Sri Lanka v. Australia,Pallekele International Cricket Stadium,Match Drawn
+733,16/09/2011,2011-2012 Sri Lanka v. Australia,Sinhalese Sports Club Ground,Match Drawn
+734,09/11/2011,2011-2012 South Africa v. Australia,Newlands,South Africa won by 8 wickets
+735,17/11/2011,2011-2012 South Africa v. Australia,Wanderers Stadium,Australia won by 2 wickets
+736,01/12/2011,2011-2012 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by 9 wickets
+737,09/12/2011,2011-2012 Australia v. New Zealand,Bellerive Oval,New Zealand won by 7 runs
+738,26/12/2011,2011-2012 Australia v. India,Melbourne Cricket Ground,Australia won by 122 runs
+739,03/01/2012,2011-2012 Australia v. India,Sydney Cricket Ground,Australia won by an innings and 68 runs
+740,13/01/2012,2011-2012 Australia v. India,WACA Ground,Australia won by an innings and 37 runs
+741,24/01/2012,2011-2012 Australia v. India,Adelaide Oval,Australia won by 298 runs
+742,07/04/2012,2011-2012 West Indies v. Australia,Kensington Oval,Australia won by 3 wickets
+743,15/04/2012,2011-2012 West Indies v. Australia,Queen's Park Oval,Match Drawn
+744,23/04/2012,2011-2012 West Indies v. Australia,Windsor Park,Australia won by 75 runs
+745,09/11/2012,2012-2013 Australia v. South Africa,Brisbane Cricket Ground,Match Drawn
+746,22/11/2012,2012-2013 Australia v. South Africa,Adelaide Oval,Match Drawn
+747,30/11/2012,2012-2013 Australia v. South Africa,WACA Ground,South Africa won by 309 runs
+748,14/12/2012,2012-2013 Australia v. Sri Lanka,Bellerive Oval,Australia won by 137 runs
+749,26/12/2012,2012-2013 Australia v. Sri Lanka,Melbourne Cricket Ground,Australia won by an innings and 201 runs
+750,03/01/2013,2012-2013 Australia v. Sri Lanka,Sydney Cricket Ground,Australia won by 5 wickets
+751,22/02/2013,2012-2013 India v. Australia,MA Chidambaram Stadium,India won by 8 wickets
+752,02/03/2013,2012-2013 India v. Australia,Rajiv Gandhi International Stadium,India won by an innings and 135 runs
+753,14/03/2013,2012-2013 India v. Australia,Punjab Cricket Association IS Bindra Stadium,India won by 6 wickets
+754,22/03/2013,2012-2013 India v. Australia,Arun Jaitley Stadium,India won by 6 wickets
+755,10/07/2013,2013 England v. Australia,Trent Bridge,England won by 14 runs
+756,18/07/2013,2013 England v. Australia,Lord's,England won by 347 runs
+757,01/08/2013,2013 England v. Australia,Old Trafford,Match Drawn
+758,09/08/2013,2013 England v. Australia,Riverside Ground,England won by 74 runs
+759,21/08/2013,2013 England v. Australia,Kennington Oval,Match Drawn
+760,21/11/2013,2013-2014 Australia v. England,Brisbane Cricket Ground,Australia won by 381 runs
+761,04/12/2013,2013-2014 Australia v. England,Adelaide Oval,Australia won by 218 runs
+762,13/12/2013,2013-2014 Australia v. England,WACA Ground,Australia won by 150 runs
+763,26/12/2013,2013-2014 Australia v. England,Melbourne Cricket Ground,Australia won by 8 wickets
+764,03/01/2014,2013-2014 Australia v. England,Sydney Cricket Ground,Australia won by 281 runs
+765,12/02/2014,2013-2014 South Africa v. Australia,SuperSport Park,Australia won by 281 runs
+766,20/02/2014,2013-2014 South Africa v. Australia,St George's Park,South Africa won by 231 runs
+767,01/03/2014,2013-2014 South Africa v. Australia,Newlands,Australia won by 245 runs
+768,22/10/2014,2014-2015 Pakistan v. Australia,Dubai International Cricket Stadium,Pakistan won by 221 runs
+769,30/10/2014,2014-2015 Pakistan v. Australia,Sheikh Zayed Stadium,Pakistan won by 356 runs
+770,09/12/2014,2014-2015 Australia v. India,Adelaide Oval,Australia won by 48 runs
+771,17/12/2014,2014-2015 Australia v. India,Brisbane Cricket Ground,Australia won by 4 wickets
+772,26/12/2014,2014-2015 Australia v. India,Melbourne Cricket Ground,Match Drawn
+773,06/01/2015,2014-2015 Australia v. India,Sydney Cricket Ground,Match Drawn
+774,03/06/2015,2014-2015 West Indies v. Australia,Windsor Park,Australia won by 9 wickets
+775,11/06/2015,2014-2015 West Indies v. Australia,Sabina Park,Australia won by 277 runs
+776,08/07/2015,2015 England v. Australia,Sophia Gardens,England won by 169 runs
+777,16/07/2015,2015 England v. Australia,Lord's,Australia won by 405 runs
+778,29/07/2015,2015 England v. Australia,Edgbaston,England won by 8 wickets
+779,06/08/2015,2015 England v. Australia,Trent Bridge,England won by an innings and 78 runs
+780,20/08/2015,2015 England v. Australia,Kennington Oval,Australia won by an innings and 46 runs
+781,05/11/2015,2015-2016 Australia v. New Zealand,Brisbane Cricket Ground,Australia won by 208 runs
+782,13/11/2015,2015-2016 Australia v. New Zealand,WACA Ground,Match Drawn
+783,27/11/2015,2015-2016 Australia v. New Zealand,Adelaide Oval,Australia won by 3 wickets
+784,10/12/2015,2015-2016 Australia v. West Indies,Bellerive Oval,Australia won by an innings and 212 runs
+785,26/12/2015,2015-2016 Australia v. West Indies,Melbourne Cricket Ground,Australia won by 177 runs
+786,03/01/2016,2015-2016 Australia v. West Indies,Sydney Cricket Ground,Match Drawn
+787,12/02/2016,2015-2016 New Zealand v. Australia,Basin Reserve,Australia won by an innings and 52 runs
+788,20/02/2016,2015-2016 New Zealand v. Australia,Hagley Oval,Australia won by 7 wickets
+789,26/07/2016,2016 Sri Lanka v. Australia,Pallekele International Cricket Stadium,Sri Lanka won by 106 runs
+790,04/08/2016,2016 Sri Lanka v. Australia,Galle International Stadium,Sri Lanka won by 229 runs
+791,13/08/2016,2016 Sri Lanka v. Australia,Sinhalese Sports Club Ground,Sri Lanka won by 163 runs
+792,03/11/2016,2016-2017 Australia v. South Africa,WACA Ground,South Africa won by 177 runs
+793,12/11/2016,2016-2017 Australia v. South Africa,Bellerive Oval,South Africa won by an innings and 80 runs
+794,24/11/2016,2016-2017 Australia v. South Africa,Adelaide Oval,Australia won by 7 wickets
+795,15/12/2016,2016-2017 Australia v. Pakistan,Brisbane Cricket Ground,Australia won by 39 runs
+796,26/12/2016,2016-2017 Australia v. Pakistan,Melbourne Cricket Ground,Australia won by an innings and 18 runs
+797,02/01/2017,2016-2017 Australia v. Pakistan,Sydney Cricket Ground,Australia won by 220 runs
+798,23/02/2017,2016-2017 India v. Australia,Maharashtra Cricket Association Stadium,Australia won by 333 runs
+799,04/03/2017,2016-2017 India v. Australia,M Chinnaswamy Stadium,India won by 75 runs
+800,15/03/2017,2016-2017 India v. Australia,JSCA International Stadium Complex,Match Drawn
+801,25/03/2017,2016-2017 India v. Australia,Himachal Pradesh Cricket Association Stadium,India won by 8 wickets
+802,27/08/2017,2017-2018 Bangladesh v. Australia,Shere Bangla National Stadium,Bangladesh won by 20 runs
+803,03/09/2017,2017-2018 Bangladesh v. Australia,Zahur Ahmed Chowdhury Stadium,Australia won by 7 wickets
+804,23/11/2017,2017-2018 Australia v. England,Brisbane Cricket Ground,Australia won by 10 wickets
+805,02/12/2017,2017-2018 Australia v. England,Adelaide Oval,Australia won by 120 runs
+806,14/12/2017,2017-2018 Australia v. England,WACA Ground,Australia won by an innings and 41 runs
+807,26/12/2017,2017-2018 Australia v. England,Melbourne Cricket Ground,Match Drawn
+808,04/01/2018,2017-2018 Australia v. England,Sydney Cricket Ground,Australia won by an innings and 123 runs
+809,01/03/2018,2017-2018 South Africa v. Australia,Kingsmead,Australia won by 118 runs
+810,09/03/2018,2017-2018 South Africa v. Australia,St George's Park,South Africa won by 6 wickets
+811,22/03/2018,2017-2018 South Africa v. Australia,Newlands,South Africa won by 322 runs
+812,30/03/2018,2017-2018 South Africa v. Australia,Wanderers Stadium,South Africa won by 492 runs
+813,07/10/2018,2018-2019 Pakistan v. Australia,Dubai International Cricket Stadium,Match Drawn
+814,16/10/2018,2018-2019 Pakistan v. Australia,Sheikh Zayed Stadium,Pakistan won by 373 runs
+815,06/12/2018,2018-2019 Australia v. India,Adelaide Oval,India won by 31 runs
+816,14/12/2018,2018-2019 Australia v. India,Perth Stadium,Australia won by 146 runs
+817,26/12/2018,2018-2019 Australia v. India,Melbourne Cricket Ground,India won by 137 runs
+818,03/01/2019,2018-2019 Australia v. India,Sydney Cricket Ground,Match Drawn
+819,24/01/2019,2018-2019 Australia v. Sri Lanka,Brisbane Cricket Ground,Australia won by an innings and 40 runs
+820,01/02/2019,2018-2019 Australia v. Sri Lanka,Manuka Oval,Australia won by 366 runs
+821,01/08/2019,2019 England v. Australia,Edgbaston,Australia won by 251 runs
+822,14/08/2019,2019 England v. Australia,Lord's,Match Drawn
+823,22/08/2019,2019 England v. Australia,Headingley,England won by 1 wicket
+824,04/09/2019,2019 England v. Australia,Old Trafford,Australia won by 185 runs
+825,12/09/2019,2019 England v. Australia,Kennington Oval,England won by 135 runs
+826,21/11/2019,2019-2020 Australia v. Pakistan,Brisbane Cricket Ground,Australia won by an innings and 5 runs
+827,29/11/2019,2019-2020 Australia v. Pakistan,Adelaide Oval,Australia won by an innings and 48 runs
+828,12/12/2019,2019-2020 Australia v. New Zealand,Perth Stadium,Australia won by 296 runs
+829,26/12/2019,2019-2020 Australia v. New Zealand,Melbourne Cricket Ground,Australia won by 247 runs
+830,03/01/2020,2019-2020 Australia v. New Zealand,Sydney Cricket Ground,Australia won by 279 runs
+831,17/12/2020,2020-2021 Australia v. India,Adelaide Oval,Australia won by 8 wickets
+832,26/12/2020,2020-2021 Australia v. India,Melbourne Cricket Ground,India won by 8 wickets
+833,07/01/2021,2020-2021 Australia v. India,Sydney Cricket Ground,Match Drawn
+834,15/01/2021,2020-2021 Australia v. India,Brisbane Cricket Ground,India won by 3 wickets
+835,08/12/2021,2021-2022 Australia v. England,Brisbane Cricket Ground,Australia won by 9 wickets
+836,16/12/2021,2021-2022 Australia v. England,Adelaide Oval,Australia won by 275 runs
+837,26/12/2021,2021-2022 Australia v. England,Melbourne Cricket Ground,Australia won by an innings and 14 runs
+838,05/01/2022,2021-2022 Australia v. England,Sydney Cricket Ground,Match Drawn
+839,14/01/2022,2021-2022 Australia v. England,Bellerive Oval,Australia won by 146 runs
+840,04/03/2022,2021-2022 Pakistan v. Australia,Rawalpindi Cricket Stadium,Match Drawn
+841,12/03/2022,2021-2022 Pakistan v. Australia,National Stadium (Karachi),Match Drawn
+842,21/03/2022,2021-2022 Pakistan v. Australia,Gaddafi Stadium,Australia won by 115 runs
+843,29/06/2022,2022 Sri Lanka v. Australia,Galle International Stadium,Australia won by 10 wickets
+844,08/07/2022,2022 Sri Lanka v. Australia,Galle International Stadium,Sri Lanka won by an innings and 39 runs
+845,30/11/2022,2022-2023 Australia v. West Indies,Perth Stadium,Australia won by 164 runs
+846,08/12/2022,2022-2023 Australia v. West Indies,Adelaide Oval,Australia won by 419 runs
+847,17/12/2022,2022-2023 Australia v. South Africa,Brisbane Cricket Ground,Australia won by 6 wickets
+848,26/12/2022,2022-2023 Australia v. South Africa,Melbourne Cricket Ground,Australia won by an innings and 182 runs
+849,04/01/2023,2022-2023 Australia v. South Africa,Sydney Cricket Ground,Match Drawn
+850,09/02/2023,2022-2023 India v. Australia,Vidarbha Cricket Association Stadium,India won by an innings and 132 runs
+851,17/02/2023,2022-2023 India v. Australia,Arun Jaitley Stadium,India won by 6 wickets
+852,01/03/2023,2022-2023 India v. Australia,Holkar Cricket Stadium,Australia won by 9 wickets
+853,09/03/2023,2022-2023 India v. Australia,Narendra Modi Stadium,Match Drawn
+854,07/06/2023,2023 Australia v. India,Kennington Oval,Australia won by 209 runs
+855,16/06/2023,2023 England v. Australia,Edgbaston,Australia won by 2 wickets
+856,28/06/2023,2023 England v. Australia,Lord's,Australia won by 43 runs
+857,06/07/2023,2023 England v. Australia,Headingley,England won by 3 wickets
+858,19/07/2023,2023 England v. Australia,Old Trafford,Match Drawn
+859,27/07/2023,2023 England v. Australia,Kennington Oval,England won by 49 runs
+860,14/12/2023,2023-2024 Australia v. Pakistan,Perth Stadium,Australia won by 360 runs
+861,26/12/2023,2023-2024 Australia v. Pakistan,Melbourne Cricket Ground,Australia won by 79 runs
+862,03/01/2024,2023-2024 Australia v. Pakistan,Sydney Cricket Ground,Australia won by 8 wickets
+863,17/01/2024,2023-2024 Australia v. West Indies,Adelaide Oval,Australia won by 10 wickets
+864,25/01/2024,2023-2024 Australia v. West Indies,Brisbane Cricket Ground,West Indies won by 8 runs
+865,29/02/2024,2023-2024 New Zealand v. Australia,Basin Reserve,Australia won by 172 runs
+866,08/03/2024,2023-2024 New Zealand v. Australia,Hagley Oval,Australia won by 3 wickets
+867,22/11/2024,2024-2025 Australia v. India,Perth Stadium,India won by 295 runs
+868,06/12/2024,2024-2025 Australia v. India,Adelaide Oval,Australia won by 10 wickets
+869,14/12/2024,2024-2025 Australia v. India,Brisbane Cricket Ground,Match Drawn
+870,26/12/2024,2024-2025 Australia v. India,Melbourne Cricket Ground,Australia won by 184 runs
+871,03/01/2025,2024-2025 Australia v. India,Sydney Cricket Ground,Australia won by 6 wickets
+872,29/01/2025,2024-2025 Sri Lanka v. Australia,Galle International Stadium,Australia won by an innings and 242 runs
+873,06/02/2025,2024-2025 Sri Lanka v. Australia,Galle International Stadium,Australia won by 9 wickets
