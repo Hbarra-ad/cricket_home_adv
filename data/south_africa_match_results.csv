@@ -1,0 +1,473 @@
+Test Number,Date,Series,Ground,Result
+1,12/03/1889,1888-1889 South Africa v. England,St George's Park,England won by 8 wickets
+2,25/03/1889,1888-1889 South Africa v. England,Newlands,England won by an innings and 202 runs
+3,19/03/1892,1891-1892 South Africa v. England,Newlands,England won by an innings and 189 runs
+4,13/02/1896,1895-1896 South Africa v. England,St George's Park,England won by 288 runs
+5,02/03/1896,1895-1896 South Africa v. England,Old Wanderers,England won by an innings and 197 runs
+6,21/03/1896,1895-1896 South Africa v. England,Newlands,England won by an innings and 33 runs
+7,14/02/1899,1898-1899 South Africa v. England,Old Wanderers,England won by 32 runs
+8,01/04/1899,1898-1899 South Africa v. England,Newlands,England won by 210 runs
+9,11/10/1902,1902-1903 South Africa v. Australia,Old Wanderers,Match Drawn
+10,18/10/1902,1902-1903 South Africa v. Australia,Old Wanderers,Australia won by 159 runs
+11,08/11/1902,1902-1903 South Africa v. Australia,Newlands,Australia won by 10 wickets
+12,02/01/1906,1905-1906 South Africa v. England,Old Wanderers,South Africa won by 1 wicket
+13,06/03/1906,1905-1906 South Africa v. England,Old Wanderers,South Africa won by 9 wickets
+14,10/03/1906,1905-1906 South Africa v. England,Old Wanderers,South Africa won by 243 runs
+15,24/03/1906,1905-1906 South Africa v. England,Newlands,England won by 4 wickets
+16,30/03/1906,1905-1906 South Africa v. England,Newlands,South Africa won by an innings and 16 runs
+17,01/07/1907,1907 England v. South Africa,Lord's,Match Drawn
+18,29/07/1907,1907 England v. South Africa,Headingley,England won by 53 runs
+19,19/08/1907,1907 England v. South Africa,Kennington Oval,Match Drawn
+20,01/01/1910,1909-1910 South Africa v. England,Old Wanderers,South Africa won by 19 runs
+21,21/01/1910,1909-1910 South Africa v. England,Lord's (SAF),South Africa won by 95 runs
+22,26/02/1910,1909-1910 South Africa v. England,Old Wanderers,England won by 3 wickets
+23,07/03/1910,1909-1910 South Africa v. England,Newlands,South Africa won by 4 wickets
+24,11/03/1910,1909-1910 South Africa v. England,Newlands,England won by 9 wickets
+25,09/12/1910,1910-1911 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 114 runs
+26,31/12/1910,1910-1911 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 89 runs
+27,07/01/1911,1910-1911 Australia v. South Africa,Adelaide Oval,South Africa won by 38 runs
+28,17/02/1911,1910-1911 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 530 runs
+29,03/03/1911,1910-1911 Australia v. South Africa,Sydney Cricket Ground,Australia won by 7 wickets
+30,27/05/1912,1912 Triangular Series (v. Australia),Old Trafford,Australia won by an innings and 88 runs
+31,10/06/1912,1912 Triangular Series (v. England),Lord's,England won by an innings and 62 runs
+32,08/07/1912,1912 Triangular Series (v. England),Headingley,England won by 174 runs
+33,15/07/1912,1912 Triangular Series (v. Australia),Lord's,Australia won by 10 wickets
+34,05/08/1912,1912 Triangular Series (v. Australia),Trent Bridge,Match Drawn
+35,12/08/1912,1912 Triangular Series (v. England),Kennington Oval,England won by 10 wickets
+36,13/12/1913,1913-1914 South Africa v. England,Lord's (SAF),England won by an innings and 157 runs
+37,26/12/1913,1913-1914 South Africa v. England,Old Wanderers,England won by an innings and 12 runs
+38,01/01/1914,1913-1914 South Africa v. England,Old Wanderers,England won by 91 runs
+39,14/02/1914,1913-1914 South Africa v. England,Lord's (SAF),Match Drawn
+40,27/02/1914,1913-1914 South Africa v. England,St George's Park,England won by 10 wickets
+41,05/11/1921,1921-1922 South Africa v. Australia,Lord's (SAF),Match Drawn
+42,12/11/1921,1921-1922 South Africa v. Australia,Old Wanderers,Match Drawn
+43,26/11/1921,1921-1922 South Africa v. Australia,Newlands,Australia won by 10 wickets
+44,23/12/1922,1922-1923 South Africa v. England,Old Wanderers,South Africa won by 168 runs
+45,01/01/1923,1922-1923 South Africa v. England,Newlands,England won by 1 wicket
+46,18/01/1923,1922-1923 South Africa v. England,Kingsmead,Match Drawn
+47,09/02/1923,1922-1923 South Africa v. England,Old Wanderers,Match Drawn
+48,16/02/1923,1922-1923 South Africa v. England,Kingsmead,England won by 109 runs
+49,14/06/1924,1924 England v. South Africa,Edgbaston,England won by an innings and 18 runs
+50,28/06/1924,1924 England v. South Africa,Lord's,England won by an innings and 18 runs
+51,12/07/1924,1924 England v. South Africa,Headingley,England won by 9 wickets
+52,26/07/1924,1924 England v. South Africa,Old Trafford,Match Drawn
+53,16/08/1924,1924 England v. South Africa,Kennington Oval,Match Drawn
+54,24/12/1927,1927-1928 South Africa v. England,Old Wanderers,England won by 10 wickets
+55,31/12/1927,1927-1928 South Africa v. England,Newlands,England won by 87 runs
+56,21/01/1928,1927-1928 South Africa v. England,Kingsmead,Match Drawn
+57,28/01/1928,1927-1928 South Africa v. England,Old Wanderers,South Africa won by 4 wickets
+58,04/02/1928,1927-1928 South Africa v. England,Kingsmead,South Africa won by 8 wickets
+59,15/06/1929,1929 England v. South Africa,Edgbaston,Match Drawn
+60,29/06/1929,1929 England v. South Africa,Lord's,Match Drawn
+61,13/07/1929,1929 England v. South Africa,Headingley,England won by 5 wickets
+62,27/07/1929,1929 England v. South Africa,Old Trafford,England won by an innings and 32 runs
+63,17/08/1929,1929 England v. South Africa,Kennington Oval,Match Drawn
+64,24/12/1930,1930-1931 South Africa v. England,Old Wanderers,South Africa won by 28 runs
+65,01/01/1931,1930-1931 South Africa v. England,Newlands,Match Drawn
+66,16/01/1931,1930-1931 South Africa v. England,Kingsmead,Match Drawn
+67,13/02/1931,1930-1931 South Africa v. England,Old Wanderers,Match Drawn
+68,21/02/1931,1930-1931 South Africa v. England,Kingsmead,Match Drawn
+69,27/11/1931,1931-1932 Australia v. South Africa,Brisbane Cricket Ground,Australia won by an innings and 163 runs
+70,18/12/1931,1931-1932 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 155 runs
+71,31/12/1931,1931-1932 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 169 runs
+72,29/01/1932,1931-1932 Australia v. South Africa,Adelaide Oval,Australia won by 10 wickets
+73,12/02/1932,1931-1932 Australia v. South Africa,Melbourne Cricket Ground,Australia won by an innings and 72 runs
+74,27/02/1932,1931-1932 New Zealand v. South Africa,AMI Stadium,South Africa won by an innings and 12 runs
+75,04/03/1932,1931-1932 New Zealand v. South Africa,Basin Reserve,South Africa won by 8 wickets
+76,15/06/1935,1935 England v. South Africa,Trent Bridge,Match Drawn
+77,29/06/1935,1935 England v. South Africa,Lord's,South Africa won by 157 runs
+78,13/07/1935,1935 England v. South Africa,Headingley,Match Drawn
+79,27/07/1935,1935 England v. South Africa,Old Trafford,Match Drawn
+80,17/08/1935,1935 England v. South Africa,Kennington Oval,Match Drawn
+81,14/12/1935,1935-1936 South Africa v. Australia,Kingsmead,Australia won by 9 wickets
+82,24/12/1935,1935-1936 South Africa v. Australia,Old Wanderers,Match Drawn
+83,01/01/1936,1935-1936 South Africa v. Australia,Newlands,Australia won by an innings and 78 runs
+84,15/02/1936,1935-1936 South Africa v. Australia,Old Wanderers,Australia won by an innings and 184 runs
+85,28/02/1936,1935-1936 South Africa v. Australia,Kingsmead,Australia won by an innings and 6 runs
+86,24/12/1938,1938-1939 South Africa v. England,Old Wanderers,Match Drawn
+87,31/12/1938,1938-1939 South Africa v. England,Newlands,Match Drawn
+88,20/01/1939,1938-1939 South Africa v. England,Kingsmead,England won by an innings and 13 runs
+89,18/02/1939,1938-1939 South Africa v. England,Old Wanderers,Match Drawn
+90,03/03/1939,1938-1939 South Africa v. England,Kingsmead,Match Drawn
+91,07/06/1947,1947 England v. South Africa,Trent Bridge,Match Drawn
+92,21/06/1947,1947 England v. South Africa,Lord's,England won by 10 wickets
+93,05/07/1947,1947 England v. South Africa,Old Trafford,England won by 7 wickets
+94,26/07/1947,1947 England v. South Africa,Headingley,England won by 10 wickets
+95,16/08/1947,1947 England v. South Africa,Kennington Oval,Match Drawn
+96,16/12/1948,1948-1949 South Africa v. England,Kingsmead,England won by 2 wickets
+97,27/12/1948,1948-1949 South Africa v. England,Ellis Park,Match Drawn
+98,01/01/1949,1948-1949 South Africa v. England,Newlands,Match Drawn
+99,12/02/1949,1948-1949 South Africa v. England,Ellis Park,Match Drawn
+100,05/03/1949,1948-1949 South Africa v. England,St George's Park,England won by 3 wickets
+101,24/12/1949,1949-1950 South Africa v. Australia,Ellis Park,Australia won by an innings and 85 runs
+102,31/12/1949,1949-1950 South Africa v. Australia,Newlands,Australia won by 8 wickets
+103,20/01/1950,1949-1950 South Africa v. Australia,Kingsmead,Australia won by 5 wickets
+104,10/02/1950,1949-1950 South Africa v. Australia,Ellis Park,Match Drawn
+105,03/03/1950,1949-1950 South Africa v. Australia,St George's Park,Australia won by an innings and 259 runs
+106,07/06/1951,1951 England v. South Africa,Trent Bridge,South Africa won by 71 runs
+107,21/06/1951,1951 England v. South Africa,Lord's,England won by 10 wickets
+108,05/07/1951,1951 England v. South Africa,Old Trafford,England won by 9 wickets
+109,26/07/1951,1951 England v. South Africa,Headingley,Match Drawn
+110,16/08/1951,1951 England v. South Africa,Kennington Oval,England won by 4 wickets
+111,05/12/1952,1952-1953 Australia v. South Africa,Brisbane Cricket Ground,Australia won by 96 runs
+112,24/12/1952,1952-1953 Australia v. South Africa,Melbourne Cricket Ground,South Africa won by 82 runs
+113,09/01/1953,1952-1953 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 38 runs
+114,24/01/1953,1952-1953 Australia v. South Africa,Adelaide Oval,Match Drawn
+115,06/02/1953,1952-1953 Australia v. South Africa,Melbourne Cricket Ground,South Africa won by 6 wickets
+116,06/03/1953,1952-1953 New Zealand v. South Africa,Basin Reserve,South Africa won by an innings and 180 runs
+117,13/03/1953,1952-1953 New Zealand v. South Africa,Eden Park,Match Drawn
+118,11/12/1953,1953-1954 South Africa v. New Zealand,Kingsmead,South Africa won by an innings and 58 runs
+119,24/12/1953,1953-1954 South Africa v. New Zealand,Ellis Park,South Africa won by 132 runs
+120,01/01/1954,1953-1954 South Africa v. New Zealand,Newlands,Match Drawn
+121,29/01/1954,1953-1954 South Africa v. New Zealand,Ellis Park,South Africa won by 9 wickets
+122,05/02/1954,1953-1954 South Africa v. New Zealand,St George's Park,South Africa won by 5 wickets
+123,09/06/1955,1955 England v. South Africa,Trent Bridge,England won by an innings and 5 runs
+124,23/06/1955,1955 England v. South Africa,Lord's,England won by 71 runs
+125,07/07/1955,1955 England v. South Africa,Old Trafford,South Africa won by 3 wickets
+126,21/07/1955,1955 England v. South Africa,Headingley,South Africa won by 224 runs
+127,13/08/1955,1955 England v. South Africa,Kennington Oval,England won by 92 runs
+128,24/12/1956,1956-1957 South Africa v. England,Wanderers Stadium,England won by 131 runs
+129,01/01/1957,1956-1957 South Africa v. England,Newlands,England won by 312 runs
+130,25/01/1957,1956-1957 South Africa v. England,Kingsmead,Match Drawn
+131,15/02/1957,1956-1957 South Africa v. England,Wanderers Stadium,South Africa won by 17 runs
+132,01/03/1957,1956-1957 South Africa v. England,St George's Park,South Africa won by 58 runs
+133,23/12/1957,1957-1958 South Africa v. Australia,Wanderers Stadium,Match Drawn
+134,31/12/1957,1957-1958 South Africa v. Australia,Newlands,Australia won by an innings and 141 runs
+135,24/01/1958,1957-1958 South Africa v. Australia,Kingsmead,Match Drawn
+136,07/02/1958,1957-1958 South Africa v. Australia,Wanderers Stadium,Australia won by 10 wickets
+137,28/02/1958,1957-1958 South Africa v. Australia,St George's Park,Australia won by 8 wickets
+138,09/06/1960,1960 England v. South Africa,Edgbaston,England won by 100 runs
+139,23/06/1960,1960 England v. South Africa,Lord's,England won by an innings and 73 runs
+140,07/07/1960,1960 England v. South Africa,Trent Bridge,England won by 8 wickets
+141,21/07/1960,1960 England v. South Africa,Old Trafford,Match Drawn
+142,18/08/1960,1960 England v. South Africa,Kennington Oval,Match Drawn
+143,08/12/1961,1961-1962 South Africa v. New Zealand,Kingsmead,South Africa won by 30 runs
+144,26/12/1961,1961-1962 South Africa v. New Zealand,Wanderers Stadium,Match Drawn
+145,01/01/1962,1961-1962 South Africa v. New Zealand,Newlands,New Zealand won by 72 runs
+146,02/02/1962,1961-1962 South Africa v. New Zealand,Wanderers Stadium,South Africa won by an innings and 51 runs
+147,16/02/1962,1961-1962 South Africa v. New Zealand,St George's Park,New Zealand won by 40 runs
+148,06/12/1963,1963-1964 Australia v. South Africa,Brisbane Cricket Ground,Match Drawn
+149,01/01/1964,1963-1964 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 8 wickets
+150,10/01/1964,1963-1964 Australia v. South Africa,Sydney Cricket Ground,Match Drawn
+151,24/01/1964,1963-1964 Australia v. South Africa,Adelaide Oval,South Africa won by 10 wickets
+152,07/02/1964,1963-1964 Australia v. South Africa,Sydney Cricket Ground,Match Drawn
+153,21/02/1964,1963-1964 New Zealand v. South Africa,Basin Reserve,Match Drawn
+154,28/02/1964,1963-1964 New Zealand v. South Africa,Carisbrook,Match Drawn
+155,13/03/1964,1963-1964 New Zealand v. South Africa,Eden Park,Match Drawn
+156,04/12/1964,1964-1965 South Africa v. England,Kingsmead,England won by an innings and 104 runs
+157,23/12/1964,1964-1965 South Africa v. England,Wanderers Stadium,Match Drawn
+158,01/01/1965,1964-1965 South Africa v. England,Newlands,Match Drawn
+159,22/01/1965,1964-1965 South Africa v. England,Wanderers Stadium,Match Drawn
+160,12/02/1965,1964-1965 South Africa v. England,St George's Park,Match Drawn
+161,22/07/1965,1965 England v. South Africa,Lord's,Match Drawn
+162,05/08/1965,1965 England v. South Africa,Trent Bridge,South Africa won by 94 runs
+163,26/08/1965,1965 England v. South Africa,Kennington Oval,Match Drawn
+164,23/12/1966,1966-1967 South Africa v. Australia,Wanderers Stadium,South Africa won by 233 runs
+165,31/12/1966,1966-1967 South Africa v. Australia,Newlands,Australia won by 6 wickets
+166,20/01/1967,1966-1967 South Africa v. Australia,Kingsmead,South Africa won by 8 wickets
+167,03/02/1967,1966-1967 South Africa v. Australia,Wanderers Stadium,Match Drawn
+168,24/02/1967,1966-1967 South Africa v. Australia,St George's Park,South Africa won by 7 wickets
+169,22/01/1970,1969-1970 South Africa v. Australia,Newlands,South Africa won by 170 runs
+170,05/02/1970,1969-1970 South Africa v. Australia,Kingsmead,South Africa won by an innings and 129 runs
+171,19/02/1970,1969-1970 South Africa v. Australia,Wanderers Stadium,South Africa won by 307 runs
+172,05/03/1970,1969-1970 South Africa v. Australia,St George's Park,South Africa won by 323 runs
+173,18/04/1992,1991-1992 West Indies v. South Africa,Kensington Oval,West Indies won by 52 runs
+174,13/11/1992,1992-1993 South Africa v. India,Kingsmead,Match Drawn
+175,26/11/1992,1992-1993 South Africa v. India,Wanderers Stadium,Match Drawn
+176,26/12/1992,1992-1993 South Africa v. India,St George's Park,South Africa won by 9 wickets
+177,02/01/1993,1992-1993 South Africa v. India,Newlands,Match Drawn
+178,25/08/1993,1993-1994 Sri Lanka v. South Africa,Tyronne Fernando Stadium,Match Drawn
+179,06/09/1993,1993-1994 Sri Lanka v. South Africa,Sinhalese Sports Club Ground,South Africa won by an innings and 208 runs
+180,14/09/1993,1993-1994 Sri Lanka v. South Africa,P Sara Oval,Match Drawn
+181,26/12/1993,1993-1994 Australia v. South Africa,Melbourne Cricket Ground,Match Drawn
+182,02/01/1994,1993-1994 Australia v. South Africa,Sydney Cricket Ground,South Africa won by 5 runs
+183,28/01/1994,1993-1994 Australia v. South Africa,Adelaide Oval,Australia won by 191 runs
+184,04/03/1994,1993-1994 South Africa v. Australia,Wanderers Stadium,South Africa won by 197 runs
+185,17/03/1994,1993-1994 South Africa v. Australia,Newlands,Australia won by 9 wickets
+186,25/03/1994,1993-1994 South Africa v. Australia,Kingsmead,Match Drawn
+187,21/07/1994,1994 England v. South Africa,Lord's,South Africa won by 356 runs
+188,04/08/1994,1994 England v. South Africa,Headingley,Match Drawn
+189,18/08/1994,1994 England v. South Africa,Kennington Oval,England won by 8 wickets
+190,25/11/1994,1994-1995 South Africa v. New Zealand,Wanderers Stadium,New Zealand won by 137 runs
+191,26/12/1994,1994-1995 South Africa v. New Zealand,Kingsmead,South Africa won by 8 wickets
+192,02/01/1995,1994-1995 South Africa v. New Zealand,Newlands,South Africa won by 7 wickets
+193,19/01/1995,1994-1995 South Africa v. Pakistan,Wanderers Stadium,South Africa won by 324 runs
+194,04/03/1995,1994-1995 New Zealand v. South Africa,Eden Park,South Africa won by 93 runs
+195,13/10/1995,1995-1996 Zimbabwe v. South Africa,Harare Sports Club,South Africa won by 7 wickets
+196,16/11/1995,1995-1996 South Africa v. England,SuperSport Park,Match Drawn
+197,30/11/1995,1995-1996 South Africa v. England,Wanderers Stadium,Match Drawn
+198,14/12/1995,1995-1996 South Africa v. England,Kingsmead,Match Drawn
+199,26/12/1995,1995-1996 South Africa v. England,St George's Park,Match Drawn
+200,02/01/1996,1995-1996 South Africa v. England,Newlands,South Africa won by 10 wickets
+201,20/11/1996,1996-1997 India v. South Africa,Narendra Modi Stadium,India won by 64 runs
+202,27/11/1996,1996-1997 India v. South Africa,Eden Gardens,South Africa won by 329 runs
+203,08/12/1996,1996-1997 India v. South Africa,Green Park,India won by 280 runs
+204,26/12/1996,1996-1997 South Africa v. India,Kingsmead,South Africa won by 328 runs
+205,02/01/1997,1996-1997 South Africa v. India,Newlands,South Africa won by 282 runs
+206,16/01/1997,1996-1997 South Africa v. India,Wanderers Stadium,Match Drawn
+207,28/02/1997,1996-1997 South Africa v. Australia,Wanderers Stadium,Australia won by an innings and 196 runs
+208,14/03/1997,1996-1997 South Africa v. Australia,St George's Park,Australia won by 2 wickets
+209,21/03/1997,1996-1997 South Africa v. Australia,SuperSport Park,South Africa won by 8 wickets
+210,06/10/1997,1997-1998 Pakistan v. South Africa,Rawalpindi Cricket Stadium,Match Drawn
+211,17/10/1997,1997-1998 Pakistan v. South Africa,Sheikhupura Stadium,Match Drawn
+212,24/10/1997,1997-1998 Pakistan v. South Africa,Iqbal Stadium,South Africa won by 53 runs
+213,26/12/1997,1997-1998 Australia v. South Africa,Melbourne Cricket Ground,Match Drawn
+214,02/01/1998,1997-1998 Australia v. South Africa,Sydney Cricket Ground,Australia won by an innings and 21 runs
+215,30/01/1998,1997-1998 Australia v. South Africa,Adelaide Oval,Match Drawn
+216,14/02/1998,1997-1998 South Africa v. Pakistan,Wanderers Stadium,Match Drawn
+217,26/02/1998,1997-1998 South Africa v. Pakistan,Kingsmead,Pakistan won by 29 runs
+218,06/03/1998,1997-1998 South Africa v. Pakistan,St George's Park,South Africa won by 259 runs
+219,19/03/1998,1997-1998 South Africa v. Sri Lanka,Newlands,South Africa won by 70 runs
+220,27/03/1998,1997-1998 South Africa v. Sri Lanka,SuperSport Park,South Africa won by 6 wickets
+221,04/06/1998,1998 England v. South Africa,Edgbaston,Match Drawn
+222,18/06/1998,1998 England v. South Africa,Lord's,South Africa won by 10 wickets
+223,02/07/1998,1998 England v. South Africa,Old Trafford,Match Drawn
+224,23/07/1998,1998 England v. South Africa,Trent Bridge,England won by 8 wickets
+225,06/08/1998,1998 England v. South Africa,Headingley,England won by 23 runs
+226,26/11/1998,1998-1999 South Africa v. West Indies,Wanderers Stadium,South Africa won by 4 wickets
+227,10/12/1998,1998-1999 South Africa v. West Indies,St George's Park,South Africa won by 178 runs
+228,26/12/1998,1998-1999 South Africa v. West Indies,Kingsmead,South Africa won by 9 wickets
+229,02/01/1999,1998-1999 South Africa v. West Indies,Newlands,South Africa won by 149 runs
+230,15/01/1999,1998-1999 South Africa v. West Indies,SuperSport Park,South Africa won by 351 runs
+231,27/02/1999,1998-1999 New Zealand v. South Africa,Eden Park,Match Drawn
+232,11/03/1999,1998-1999 New Zealand v. South Africa,AMI Stadium,Match Drawn
+233,18/03/1999,1998-1999 New Zealand v. South Africa,Basin Reserve,South Africa won by 8 wickets
+234,29/10/1999,1999-2000 South Africa v. Zimbabwe,Mangaung Oval,South Africa won by an innings and 13 runs
+235,11/11/1999,1999-2000 Zimbabwe v. South Africa,Harare Sports Club,South Africa won by an innings and 219 runs
+236,25/11/1999,1999-2000 South Africa v. England,Wanderers Stadium,South Africa won by an innings and 21 runs
+237,09/12/1999,1999-2000 South Africa v. England,St George's Park,Match Drawn
+238,26/12/1999,1999-2000 South Africa v. England,Kingsmead,Match Drawn
+239,02/01/2000,1999-2000 South Africa v. England,Newlands,South Africa won by an innings and 37 runs
+240,14/01/2000,1999-2000 South Africa v. England,SuperSport Park,England won by 2 wickets
+241,24/02/2000,1999-2000 India v. South Africa,Wankhede Stadium,South Africa won by 4 wickets
+242,02/03/2000,1999-2000 India v. South Africa,M Chinnaswamy Stadium,South Africa won by an innings and 71 runs
+243,20/07/2000,2000-2001 Sri Lanka v. South Africa,Galle International Stadium,Sri Lanka won by an innings and 15 runs
+244,30/07/2000,2000-2001 Sri Lanka v. South Africa,Asgiriya Stadium,South Africa won by 7 runs
+245,06/08/2000,2000-2001 Sri Lanka v. South Africa,Sinhalese Sports Club Ground,Match Drawn
+246,17/11/2000,2000-2001 South Africa v. New Zealand,Mangaung Oval,South Africa won by 5 wickets
+247,30/11/2000,2000-2001 South Africa v. New Zealand,St George's Park,South Africa won by 7 wickets
+248,08/12/2000,2000-2001 South Africa v. New Zealand,Wanderers Stadium,Match Drawn
+249,26/12/2000,2000-2001 South Africa v. Sri Lanka,Kingsmead,Match Drawn
+250,02/01/2001,2000-2001 South Africa v. Sri Lanka,Newlands,South Africa won by an innings and 229 runs
+251,20/01/2001,2000-2001 South Africa v. Sri Lanka,SuperSport Park,South Africa won by an innings and 7 runs
+252,09/03/2001,2000-2001 West Indies v. South Africa,Bourda,Match Drawn
+253,17/03/2001,2000-2001 West Indies v. South Africa,Queen's Park Oval,South Africa won by 69 runs
+254,29/03/2001,2000-2001 West Indies v. South Africa,Kensington Oval,Match Drawn
+255,06/04/2001,2000-2001 West Indies v. South Africa,Antigua Recreation Ground,South Africa won by 82 runs
+256,19/04/2001,2000-2001 West Indies v. South Africa,Sabina Park,West Indies won by 130 runs
+257,07/09/2001,2001-2002 Zimbabwe v. South Africa,Harare Sports Club,South Africa won by 9 wickets
+258,14/09/2001,2001-2002 Zimbabwe v. South Africa,Queens Sports Club,Match Drawn
+259,03/11/2001,2001-2002 South Africa v. India,Mangaung Oval,South Africa won by 9 wickets
+260,16/11/2001,2001-2002 South Africa v. India,St George's Park,Match Drawn
+261,14/12/2001,2001-2002 Australia v. South Africa,Adelaide Oval,Australia won by 246 runs
+262,26/12/2001,2001-2002 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 9 wickets
+263,02/01/2002,2001-2002 Australia v. South Africa,Sydney Cricket Ground,Australia won by 10 wickets
+264,22/02/2002,2001-2002 South Africa v. Australia,Wanderers Stadium,Australia won by an innings and 360 runs
+265,08/03/2002,2001-2002 South Africa v. Australia,Newlands,Australia won by 4 wickets
+266,15/03/2002,2001-2002 South Africa v. Australia,Kingsmead,South Africa won by 5 wickets
+267,18/10/2002,2002-2003 South Africa v. Bangladesh,Buffalo Park,South Africa won by an innings and 107 runs
+268,25/10/2002,2002-2003 South Africa v. Bangladesh,Senwes Park,South Africa won by an innings and 160 runs
+269,08/11/2002,2002-2003 South Africa v. Sri Lanka,Wanderers Stadium,South Africa won by an innings and 64 runs
+270,15/11/2002,2002-2003 South Africa v. Sri Lanka,SuperSport Park,South Africa won by 3 wickets
+271,26/12/2002,2002-2003 South Africa v. Pakistan,Kingsmead,South Africa won by 10 wickets
+272,02/01/2003,2002-2003 South Africa v. Pakistan,Newlands,South Africa won by an innings and 142 runs
+273,24/04/2003,2002-2003 Bangladesh v. South Africa,MA Aziz Stadium,South Africa won by an innings and 60 runs
+274,01/05/2003,2002-2003 Bangladesh v. South Africa,Bangabandhu National Stadium,South Africa won by an innings and 18 runs
+275,24/07/2003,2003 England v. South Africa,Edgbaston,Match Drawn
+276,31/07/2003,2003 England v. South Africa,Lord's,South Africa won by an innings and 92 runs
+277,14/08/2003,2003 England v. South Africa,Trent Bridge,England won by 70 runs
+278,21/08/2003,2003 England v. South Africa,Headingley,South Africa won by 191 runs
+279,04/09/2003,2003 England v. South Africa,Kennington Oval,England won by 9 wickets
+280,17/10/2003,2003-2004 Pakistan v. South Africa,Gaddafi Stadium,Pakistan won by 8 wickets
+281,24/10/2003,2003-2004 Pakistan v. South Africa,Iqbal Stadium,Match Drawn
+282,12/12/2003,2003-2004 South Africa v. West Indies,Wanderers Stadium,South Africa won by 189 runs
+283,26/12/2003,2003-2004 South Africa v. West Indies,Kingsmead,South Africa won by an innings and 65 runs
+284,02/01/2004,2003-2004 South Africa v. West Indies,Newlands,Match Drawn
+285,16/01/2004,2003-2004 South Africa v. West Indies,SuperSport Park,South Africa won by 10 wickets
+286,10/03/2004,2003-2004 New Zealand v. South Africa,Seddon Park,Match Drawn
+287,18/03/2004,2003-2004 New Zealand v. South Africa,Eden Park,New Zealand won by 9 wickets
+288,26/03/2004,2003-2004 New Zealand v. South Africa,Basin Reserve,South Africa won by 6 wickets
+289,04/08/2004,2004-2005 Sri Lanka v. South Africa,Galle International Stadium,Match Drawn
+290,11/08/2004,2004-2005 Sri Lanka v. South Africa,Sinhalese Sports Club Ground,Sri Lanka won by 313 runs
+291,20/11/2004,2004-2005 India v. South Africa,Green Park,Match Drawn
+292,28/11/2004,2004-2005 India v. South Africa,Eden Gardens,India won by 8 wickets
+293,17/12/2004,2004-2005 South Africa v. England,St George's Park,England won by 7 wickets
+294,26/12/2004,2004-2005 South Africa v. England,Kingsmead,Match Drawn
+295,02/01/2005,2004-2005 South Africa v. England,Newlands,South Africa won by 196 runs
+296,13/01/2005,2004-2005 South Africa v. England,Wanderers Stadium,England won by 77 runs
+297,21/01/2005,2004-2005 South Africa v. England,SuperSport Park,Match Drawn
+298,04/03/2005,2004-2005 South Africa v. Zimbabwe,Newlands,South Africa won by an innings and 21 runs
+299,11/03/2005,2004-2005 South Africa v. Zimbabwe,SuperSport Park,South Africa won by an innings and 62 runs
+300,31/03/2005,2004-2005 West Indies v. South Africa,Bourda,Match Drawn
+301,08/04/2005,2004-2005 West Indies v. South Africa,Queen's Park Oval,South Africa won by 8 wickets
+302,21/04/2005,2004-2005 West Indies v. South Africa,Kensington Oval,South Africa won by an innings and 86 runs
+303,29/04/2005,2004-2005 West Indies v. South Africa,Antigua Recreation Ground,Match Drawn
+304,16/12/2005,2005-2006 Australia v. South Africa,WACA Ground,Match Drawn
+305,26/12/2005,2005-2006 Australia v. South Africa,Melbourne Cricket Ground,Australia won by 184 runs
+306,02/01/2006,2005-2006 Australia v. South Africa,Sydney Cricket Ground,Australia won by 8 wickets
+307,16/03/2006,2005-2006 South Africa v. Australia,Newlands,Australia won by 7 wickets
+308,24/03/2006,2005-2006 South Africa v. Australia,Kingsmead,Australia won by 112 runs
+309,31/03/2006,2005-2006 South Africa v. Australia,Wanderers Stadium,Australia won by 2 wickets
+310,15/04/2006,2005-2006 South Africa v. New Zealand,SuperSport Park,South Africa won by 128 runs
+311,27/04/2006,2005-2006 South Africa v. New Zealand,Newlands,Match Drawn
+312,05/05/2006,2005-2006 South Africa v. New Zealand,Wanderers Stadium,South Africa won by 4 wickets
+313,27/07/2006,2006-2007 Sri Lanka v. South Africa,Sinhalese Sports Club Ground,Sri Lanka won by an innings and 153 runs
+314,04/08/2006,2006-2007 Sri Lanka v. South Africa,P Sara Oval,Sri Lanka won by 1 wicket
+315,15/12/2006,2006-2007 South Africa v. India,Wanderers Stadium,India won by 123 runs
+316,26/12/2006,2006-2007 South Africa v. India,Kingsmead,South Africa won by 174 runs
+317,02/01/2007,2006-2007 South Africa v. India,Newlands,South Africa won by 5 wickets
+318,11/01/2007,2006-2007 South Africa v. Pakistan,SuperSport Park,South Africa won by 7 wickets
+319,19/01/2007,2006-2007 South Africa v. Pakistan,St George's Park,Pakistan won by 5 wickets
+320,26/01/2007,2006-2007 South Africa v. Pakistan,Newlands,South Africa won by 5 wickets
+321,01/10/2007,2007-2008 Pakistan v. South Africa,National Stadium (Karachi),South Africa won by 160 runs
+322,07/10/2007,2007-2008 Pakistan v. South Africa,Gaddafi Stadium,Match Drawn
+323,08/11/2007,2007-2008 South Africa v. New Zealand,Wanderers Stadium,South Africa won by 358 runs
+324,16/11/2007,2007-2008 South Africa v. New Zealand,SuperSport Park,South Africa won by an innings and 59 runs
+325,26/12/2007,2007-2008 South Africa v. West Indies,St George's Park,West Indies won by 128 runs
+326,02/01/2008,2007-2008 South Africa v. West Indies,Newlands,South Africa won by 7 wickets
+327,10/01/2008,2007-2008 South Africa v. West Indies,Kingsmead,South Africa won by an innings and 100 runs
+328,22/02/2008,2007-2008 Bangladesh v. South Africa,Shere Bangla National Stadium,South Africa won by 5 wickets
+329,29/02/2008,2007-2008 Bangladesh v. South Africa,Zahur Ahmed Chowdhury Stadium,South Africa won by an innings and 205 runs
+330,26/03/2008,2007-2008 India v. South Africa,MA Chidambaram Stadium,Match Drawn
+331,03/04/2008,2007-2008 India v. South Africa,Narendra Modi Stadium,South Africa won by an innings and 90 runs
+332,11/04/2008,2007-2008 India v. South Africa,Green Park,India won by 8 wickets
+333,10/07/2008,2008 England v. South Africa,Lord's,Match Drawn
+334,18/07/2008,2008 England v. South Africa,Headingley,South Africa won by 10 wickets
+335,30/07/2008,2008 England v. South Africa,Edgbaston,South Africa won by 5 wickets
+336,07/08/2008,2008 England v. South Africa,Kennington Oval,England won by 6 wickets
+337,19/11/2008,2008-2009 South Africa v. Bangladesh,Mangaung Oval,South Africa won by an innings and 129 runs
+338,26/11/2008,2008-2009 South Africa v. Bangladesh,SuperSport Park,South Africa won by an innings and 48 runs
+339,17/12/2008,2008-2009 Australia v. South Africa,WACA Ground,South Africa won by 6 wickets
+340,26/12/2008,2008-2009 Australia v. South Africa,Melbourne Cricket Ground,South Africa won by 9 wickets
+341,03/01/2009,2008-2009 Australia v. South Africa,Sydney Cricket Ground,Australia won by 103 runs
+342,26/02/2009,2008-2009 South Africa v. Australia,Wanderers Stadium,Australia won by 162 runs
+343,06/03/2009,2008-2009 South Africa v. Australia,Kingsmead,Australia won by 175 runs
+344,19/03/2009,2008-2009 South Africa v. Australia,Newlands,South Africa won by an innings and 20 runs
+345,16/12/2009,2009-2010 South Africa v. England,SuperSport Park,Match Drawn
+346,26/12/2009,2009-2010 South Africa v. England,Kingsmead,England won by an innings and 98 runs
+347,03/01/2010,2009-2010 South Africa v. England,Newlands,Match Drawn
+348,14/01/2010,2009-2010 South Africa v. England,Wanderers Stadium,South Africa won by an innings and 74 runs
+349,06/02/2010,2009-2010 India v. South Africa,Vidarbha Cricket Association Stadium,South Africa won by an innings and 6 runs
+350,14/02/2010,2009-2010 India v. South Africa,Eden Gardens,India won by an innings and 57 runs
+351,10/06/2010,2009-2010 West Indies v. South Africa,Queen's Park Oval,South Africa won by 163 runs
+352,18/06/2010,2009-2010 West Indies v. South Africa,Warner Park,Match Drawn
+353,26/06/2010,2009-2010 West Indies v. South Africa,Kensington Oval,South Africa won by 7 wickets
+354,12/11/2010,2010-2011 Pakistan v. South Africa,Dubai International Cricket Stadium,Match Drawn
+355,20/11/2010,2010-2011 Pakistan v. South Africa,Sheikh Zayed Stadium,Match Drawn
+356,16/12/2010,2010-2011 South Africa v. India,SuperSport Park,South Africa won by an innings and 25 runs
+357,26/12/2010,2010-2011 South Africa v. India,Kingsmead,India won by 87 runs
+358,02/01/2011,2010-2011 South Africa v. India,Newlands,Match Drawn
+359,09/11/2011,2011-2012 South Africa v. Australia,Newlands,South Africa won by 8 wickets
+360,17/11/2011,2011-2012 South Africa v. Australia,Wanderers Stadium,Australia won by 2 wickets
+361,15/12/2011,2011-2012 South Africa v. Sri Lanka,SuperSport Park,South Africa won by an innings and 81 runs
+362,26/12/2011,2011-2012 South Africa v. Sri Lanka,Kingsmead,Sri Lanka won by 208 runs
+363,03/01/2012,2011-2012 South Africa v. Sri Lanka,Newlands,South Africa won by 10 wickets
+364,07/03/2012,2011-2012 New Zealand v. South Africa,University Oval,Match Drawn
+365,15/03/2012,2011-2012 New Zealand v. South Africa,Seddon Park,South Africa won by 9 wickets
+366,23/03/2012,2011-2012 New Zealand v. South Africa,Basin Reserve,Match Drawn
+367,19/07/2012,2012 England v. South Africa,Kennington Oval,South Africa won by an innings and 12 runs
+368,02/08/2012,2012 England v. South Africa,Headingley,Match Drawn
+369,16/08/2012,2012 England v. South Africa,Lord's,South Africa won by 51 runs
+370,09/11/2012,2012-2013 Australia v. South Africa,Brisbane Cricket Ground,Match Drawn
+371,22/11/2012,2012-2013 Australia v. South Africa,Adelaide Oval,Match Drawn
+372,30/11/2012,2012-2013 Australia v. South Africa,WACA Ground,South Africa won by 309 runs
+373,02/01/2013,2012-2013 South Africa v. New Zealand,Newlands,South Africa won by an innings and 27 runs
+374,11/01/2013,2012-2013 South Africa v. New Zealand,St George's Park,South Africa won by an innings and 193 runs
+375,01/02/2013,2012-2013 South Africa v. Pakistan,Wanderers Stadium,South Africa won by 211 runs
+376,14/02/2013,2012-2013 South Africa v. Pakistan,Newlands,South Africa won by 4 wickets
+377,22/02/2013,2012-2013 South Africa v. Pakistan,SuperSport Park,South Africa won by an innings and 18 runs
+378,14/10/2013,2013-2014 Pakistan v. South Africa,Sheikh Zayed Stadium,Pakistan won by 7 wickets
+379,23/10/2013,2013-2014 Pakistan v. South Africa,Dubai International Cricket Stadium,South Africa won by an innings and 92 runs
+380,18/12/2013,2013-2014 South Africa v. India,Wanderers Stadium,Match Drawn
+381,26/12/2013,2013-2014 South Africa v. India,Kingsmead,South Africa won by 10 wickets
+382,12/02/2014,2013-2014 South Africa v. Australia,SuperSport Park,Australia won by 281 runs
+383,20/02/2014,2013-2014 South Africa v. Australia,St George's Park,South Africa won by 231 runs
+384,01/03/2014,2013-2014 South Africa v. Australia,Newlands,Australia won by 245 runs
+385,16/07/2014,2014-2015 Sri Lanka v. South Africa,Galle International Stadium,South Africa won by 153 runs
+386,24/07/2014,2014-2015 Sri Lanka v. South Africa,Sinhalese Sports Club Ground,Match Drawn
+387,09/08/2014,2014-2015 Zimbabwe v. South Africa,Harare Sports Club,South Africa won by 9 wickets
+388,17/12/2014,2014-2015 South Africa v. West Indies,SuperSport Park,South Africa won by an innings and 220 runs
+389,26/12/2014,2014-2015 South Africa v. West Indies,St George's Park,Match Drawn
+390,02/01/2015,2014-2015 South Africa v. West Indies,Newlands,South Africa won by 8 wickets
+391,21/07/2015,2015-2016 Bangladesh v. South Africa,Zahur Ahmed Chowdhury Stadium,Match Drawn
+392,30/07/2015,2015-2016 Bangladesh v. South Africa,Shere Bangla National Stadium,Match Drawn
+393,05/11/2015,2015-2016 India v. South Africa,Punjab Cricket Association IS Bindra Stadium,India won by 108 runs
+394,13/11/2015,2015-2016 India v. South Africa,M Chinnaswamy Stadium,Match Drawn
+395,25/11/2015,2015-2016 India v. South Africa,Vidarbha Cricket Association Stadium,India won by 124 runs
+396,03/12/2015,2015-2016 India v. South Africa,Arun Jaitley Stadium,India won by 337 runs
+397,26/12/2015,2015-2016 South Africa v. England,Kingsmead,England won by 241 runs
+398,02/01/2016,2015-2016 South Africa v. England,Newlands,Match Drawn
+399,14/01/2016,2015-2016 South Africa v. England,Wanderers Stadium,England won by 7 wickets
+400,22/01/2016,2015-2016 South Africa v. England,SuperSport Park,South Africa won by 280 runs
+401,19/08/2016,2016-2017 South Africa v. New Zealand,Kingsmead,Match Drawn
+402,27/08/2016,2016-2017 South Africa v. New Zealand,SuperSport Park,South Africa won by 204 runs
+403,03/11/2016,2016-2017 Australia v. South Africa,WACA Ground,South Africa won by 177 runs
+404,12/11/2016,2016-2017 Australia v. South Africa,Bellerive Oval,South Africa won by an innings and 80 runs
+405,24/11/2016,2016-2017 Australia v. South Africa,Adelaide Oval,Australia won by 7 wickets
+406,26/12/2016,2016-2017 South Africa v. Sri Lanka,St George's Park,South Africa won by 206 runs
+407,02/01/2017,2016-2017 South Africa v. Sri Lanka,Newlands,South Africa won by 282 runs
+408,12/01/2017,2016-2017 South Africa v. Sri Lanka,Wanderers Stadium,South Africa won by an innings and 118 runs
+409,08/03/2017,2016-2017 New Zealand v. South Africa,University Oval,Match Drawn
+410,16/03/2017,2016-2017 New Zealand v. South Africa,Basin Reserve,South Africa won by 8 wickets
+411,24/03/2017,2016-2017 New Zealand v. South Africa,Seddon Park,Match Drawn
+412,06/07/2017,2017 England v. South Africa,Lord's,England won by 211 runs
+413,14/07/2017,2017 England v. South Africa,Trent Bridge,South Africa won by 340 runs
+414,27/07/2017,2017 England v. South Africa,Kennington Oval,England won by 239 runs
+415,04/08/2017,2017 England v. South Africa,Old Trafford,England won by 177 runs
+416,28/09/2017,2017-2018 South Africa v. Bangladesh,Senwes Park,South Africa won by 333 runs
+417,06/10/2017,2017-2018 South Africa v. Bangladesh,Mangaung Oval,South Africa won by an innings and 254 runs
+418,26/12/2017,2017-2018 South Africa v. Zimbabwe,St George's Park,South Africa won by an innings and 120 runs
+419,05/01/2018,2017-2018 South Africa v. India,Newlands,South Africa won by 72 runs
+420,13/01/2018,2017-2018 South Africa v. India,SuperSport Park,South Africa won by 135 runs
+421,24/01/2018,2017-2018 South Africa v. India,Wanderers Stadium,India won by 63 runs
+422,01/03/2018,2017-2018 South Africa v. Australia,Kingsmead,Australia won by 118 runs
+423,09/03/2018,2017-2018 South Africa v. Australia,St George's Park,South Africa won by 6 wickets
+424,22/03/2018,2017-2018 South Africa v. Australia,Newlands,South Africa won by 322 runs
+425,30/03/2018,2017-2018 South Africa v. Australia,Wanderers Stadium,South Africa won by 492 runs
+426,12/07/2018,2018-2019 Sri Lanka v. South Africa,Galle International Stadium,Sri Lanka won by 278 runs
+427,20/07/2018,2018-2019 Sri Lanka v. South Africa,Sinhalese Sports Club Ground,Sri Lanka won by 199 runs
+428,26/12/2018,2018-2019 South Africa v. Pakistan,SuperSport Park,South Africa won by 6 wickets
+429,03/01/2019,2018-2019 South Africa v. Pakistan,Newlands,South Africa won by 9 wickets
+430,11/01/2019,2018-2019 South Africa v. Pakistan,Wanderers Stadium,South Africa won by 107 runs
+431,13/02/2019,2018-2019 South Africa v. Sri Lanka,Kingsmead,Sri Lanka won by 1 wicket
+432,21/02/2019,2018-2019 South Africa v. Sri Lanka,St George's Park,Sri Lanka won by 8 wickets
+433,02/10/2019,2019-2020 India v. South Africa,Dr YS Rajasekhara Reddy Cricket Stadium,India won by 203 runs
+434,10/10/2019,2019-2020 India v. South Africa,Maharashtra Cricket Association Stadium,India won by an innings and 137 runs
+435,19/10/2019,2019-2020 India v. South Africa,JSCA International Stadium Complex,India won by an innings and 202 runs
+436,26/12/2019,2019-2020 South Africa v. England,SuperSport Park,South Africa won by 107 runs
+437,03/01/2020,2019-2020 South Africa v. England,Newlands,England won by 189 runs
+438,16/01/2020,2019-2020 South Africa v. England,St George's Park,England won by an innings and 53 runs
+439,24/01/2020,2019-2020 South Africa v. England,Wanderers Stadium,England won by 191 runs
+440,26/12/2020,2020-2021 South Africa v. Sri Lanka,SuperSport Park,South Africa won by an innings and 45 runs
+441,03/01/2021,2020-2021 South Africa v. Sri Lanka,Wanderers Stadium,South Africa won by 10 wickets
+442,26/01/2021,2020-2021 Pakistan v. South Africa,National Stadium (Karachi),Pakistan won by 7 wickets
+443,04/02/2021,2020-2021 Pakistan v. South Africa,Rawalpindi Cricket Stadium,Pakistan won by 95 runs
+444,10/06/2021,2020-2021 West Indies v. South Africa,Daren Sammy Cricket Ground,South Africa won by an innings and 63 runs
+445,18/06/2021,2020-2021 West Indies v. South Africa,Daren Sammy Cricket Ground,South Africa won by 158 runs
+446,26/12/2021,2021-2022 South Africa v. India,SuperSport Park,India won by 113 runs
+447,03/01/2022,2021-2022 South Africa v. India,Wanderers Stadium,South Africa won by 7 wickets
+448,11/01/2022,2021-2022 South Africa v. India,Newlands,South Africa won by 7 wickets
+449,17/02/2022,2021-2022 New Zealand v. South Africa,Hagley Oval,New Zealand won by an innings and 276 runs
+450,25/02/2022,2021-2022 New Zealand v. South Africa,Hagley Oval,South Africa won by 198 wuns
+451,31/03/2022,2021-2022 South Africa v. Bangladesh,Kingsmead,South Africa won by 220 runs
+452,08/04/2022,2021-2022 South Africa v. Bangladesh,St George's Park,South Africa won by 332 runs
+453,17/08/2022,2022 England v. South Africa,Lord's,South Africa won by an innings and 12 runs
+454,26/08/2022,2022 England v. South Africa,Old Trafford,England won by an innings and 85 runs
+455,08/09/2022,2022 England v. South Africa,Kennington Oval,England won by 9 wickets
+456,17/12/2022,2022-2023 Australia v. South Africa,Brisbane Cricket Ground,Australia won by 6 wickets
+457,26/12/2022,2022-2023 Australia v. South Africa,Melbourne Cricket Ground,Australia won by an innings and 182 runs
+458,04/01/2023,2022-2023 Australia v. South Africa,Sydney Cricket Ground,Match Drawn
+459,28/02/2023,2022-2023 South Africa v. West Indies,SuperSport Park,South Africa won by 87 runs
+460,08/03/2023,2022-2023 South Africa v. West Indies,Wanderers Stadium,South Africa won by 284 runs
+461,26/12/2023,2023-2024 South Africa v. India,SuperSport Park,South Africa won by an innings and 32 runs
+462,03/01/2024,2023-2024 South Africa v. India,Newlands,India won by 7 wickets
+463,04/02/2024,2023-2024 New Zealand v. South Africa,Bay Oval,New Zealand won by 281 runs
+464,13/02/2024,2023-2024 New Zealand v. South Africa,Seddon Park,New Zealand won by 7 wickets
+465,07/08/2024,2024-2025 West Indies v. South Africa,Queen's Park Oval,Match Drawn
+466,15/08/2024,2024-2025 West Indies v. South Africa,Providence Stadium,South Africa won by 40 runs
+467,21/10/2024,2024-2025 Bangladesh v. South Africa,Shere Bangla National Stadium,South Africa won by 7 wickets
+468,29/10/2024,2024-2025 Bangladesh v. South Africa,Zahur Ahmed Chowdhury Stadium,South Africa won by an innings and 273 runs
+469,27/11/2024,2024-2025 South Africa v. Sri Lanka,Kingsmead,South Africa won by 233 runs
+470,05/12/2024,2024-2025 South Africa v. Sri Lanka,St George's Park,South Africa won by 109 runs
+471,26/12/2024,2024-2025 South Africa v. Pakistan,SuperSport Park,South Africa won by 2 wickets
+472,03/01/2025,2024-2025 South Africa v. Pakistan,Newlands,South Africa won by 10 wickets
