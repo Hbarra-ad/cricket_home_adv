@@ -8,6 +8,8 @@ The project culminates in a blog post discussing the analysis, visualizations, a
 
 ## My Process
 
+**Apologies for my comments in the Jupyter Notebooks, I have added links where I have looked for important help with my work, but have not had time to replicate all my comments in the jupyter notebook files to ensure better readability**
+
 1. I began by scraping the India Test match data from HowSTAT, but encountered a challenge: **Table 5**, which contains all match results, is rendered via JavaScript and didn’t load with standard HTML scraping.
 2. To access the table, I implemented **Selenium** to automate browser interaction and successfully scrape the uncleaned data.
 3. I then adapted the code to work for **each individual Test-playing country**, modifying the URLs and identifiers as needed.
